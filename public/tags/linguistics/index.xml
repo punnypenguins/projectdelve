@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>linguistics on Project Delve</title>
+    <link>http://projectdelve.com/tags/linguistics/</link>
+    <description>Recent content in linguistics on Project Delve</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://projectdelve.com/tags/linguistics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GamesWithWords.org</title>
+      <link>http://projectdelve.com/humanities/gameswithwords/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/humanities/gameswithwords/</guid>
+      <description>GamesWithWords.org View the project here.
+Overview GamesWithWords.org is a Web-based research laboratory. The quizzes and projects are research studies probing the nature of language.
+Current Quizzes:
+ Which English - Help us map the grammar of English around the world? See our best guess as to which world English you speak. The Vocab Quiz - How many words do you know? See your results at the end.  Location: Online</description>
+    </item>
+    
+    <item>
+      <title>small world of words</title>
+      <link>http://projectdelve.com/humanities/small-world-of-words/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/humanities/small-world-of-words/</guid>
+      <description>small world of words View the project here.
+Overview The small world of words project is a large-scale scientific study that aims to build a mental dictionary or lexicon in the major languages of the world and make this information widely available.
+In contrast to a thesaurus or dictionary, we use word associations to learn about what words mean and which ones are central in the human mind. This enables psychologists, linguists, neuro-scientists and others to test new theories about how we represent and process language.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cosmology on Project Delve</title>
+    <link>http://projectdelve.com/tags/cosmology/</link>
+    <description>Recent content in cosmology on Project Delve</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://projectdelve.com/tags/cosmology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Catalina Outer Solar System Survey</title>
+      <link>http://projectdelve.com/sciencein/catalina-survey/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/sciencein/catalina-survey/</guid>
+      <description>Catalina Outer Solar System Survey View the project here.
+Overview For over twenty years the Catalina Sky Survey has been collecting images of the sky night after night. Hidden deep in these images are exotic and primordial solar-system worlds yet to be discovered: Trans-Neptunian Objects (TNOs).
+By looking at images of the same patch of sky over several months, the motion of distant TNOs can be detected. However, computers often make false detections, and this is where you come in!</description>
+    </item>
+    
+    <item>
+      <title>Cosmology@Home</title>
+      <link>http://projectdelve.com/computational/cosmology-at-home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/computational/cosmology-at-home/</guid>
+      <description>Cosmology@Home View the project here.
+Overview Cosmology@Home lets you volunteer your spare computer time (like when your screen saver is on) to help better understand our universe by searching for the range of theoretical models that agree with cutting-edge cosmological and particle physics data.
+Runs on:  Linux MacOS Windows  </description>
+    </item>
+    
+    <item>
+      <title>Stardust@home</title>
+      <link>http://projectdelve.com/sciencein/stardust-at-home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/sciencein/stardust-at-home/</guid>
+      <description>Stardust@home View the project here.
+Overview On January 15, 2006, the Stardust spacecraft’s sample return capsule parachuted gently onto the Utah desert. Nestled within the capsule were precious particles collected during Stardust’s dramatic encounter with comet Wild 2 in January of 2004; and something else, even rarer and no less precious: tiny particles of interstellar dust that originated in distant stars, light-years away. They are the first such contemporary interstellar dust particles ever collected in space and returned to Earth for study.</description>
+    </item>
+    
+    <item>
+      <title>Stardust@home</title>
+      <link>http://projectdelve.com/scienceout/stardust-at-home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/scienceout/stardust-at-home/</guid>
+      <description>Stardust@home View the project here.
+Overview The interstellar dust particles returned to Earth by the Stardust mission are the first such pristine dust particles ever collected in space, and scientists are eager to “get their hands” on them. We estimate that Stardust collected less than 100 interstellar dust particles. They are tiny-only about a micron (a millionth of a meter) in size! These miniscule particles were captured in an aerogel collector about 1,000 square centimeters in size, and in about 150 square centimeters of aluminum metal foils.</description>
+    </item>
+    
+    <item>
+      <title>Universe@home</title>
+      <link>http://projectdelve.com/computational/universe-at-home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/computational/universe-at-home/</guid>
+      <description>Universe@home View the project here.
+Overview Universe@home project&amp;rsquo;s two main goals are:
+ to provide scientist with a necessary computational power and to provide the way of involvement for anyone equipped with a computer and willing to take part in the research  We live in times which are marked by the fastest scientific development in the history. Our knowledge grows faster than ever before. We explore the structures of the Universe, nuclei of stars and evolution of galaxies.</description>
+    </item>
+    
+  </channel>
+</rss>

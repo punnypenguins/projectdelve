@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>photography on Project Delve</title>
+    <link>http://projectdelve.com/tags/photography/</link>
+    <description>Recent content in photography on Project Delve</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://projectdelve.com/tags/photography/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PANOPTES</title>
+      <link>http://projectdelve.com/sciencein/project-panoptes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/sciencein/project-panoptes/</guid>
+      <description>Panoptic Astronomical Networked Observatories for a Public Transiting Exoplanets Survey (PANOPTES) View the project here.
+Overview PANOPTES is an open source citizen science project designed to find transiting exoplanets with digital cameras. The goal of PANOPTES is to establish a global network of of robotic cameras run by amateur astronomers and schools (or anyone!) in order to monitor, as continuously as possible, a very large number of stars. For more general information about the project, including the science case and resources for interested individuals, see the project overview.</description>
+    </item>
+    
+    <item>
+      <title>PROJECT NAME</title>
+      <link>http://projectdelve.com/scienceout/junocam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/scienceout/junocam/</guid>
+      <description>PROJECT NAME View the project here.
+Overview We’re calling all amateur astronomers to upload their telescopic images and data of Jupiter. These uploads are critical for providing context for new JunoCam images and will help NASA successfully plan the future of the mission.
+If you&amp;rsquo;re a veteran astrophotographer or if you&amp;rsquo;re just getting started with your first telescope, we highly recommend you read our Submission Guidelines before submitting data. In the PDF you&amp;rsquo;ll find information about the best capture and process workflows as well as links to free software and tutorials.</description>
+    </item>
+    
+  </channel>
+</rss>

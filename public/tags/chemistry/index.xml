@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>chemistry on Project Delve</title>
+    <link>http://projectdelve.com/tags/chemistry/</link>
+    <description>Recent content in chemistry on Project Delve</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://projectdelve.com/tags/chemistry/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>COVID.SI</title>
+      <link>http://projectdelve.com/computational/covid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/computational/covid/</guid>
+      <description>CITIZEN SCIENCE AND THE FIGHT AGAINST THE CORONAVIRUS (COVID.SI) View the project here.
+Overview “CITIZEN SCIENCE AND THE FIGHT AGAINST THE CORONAVIRUS” is an open project by a collective of good-willed researchers and volunteers, who with to contribute a stone in the mosaic of the full picture of SARS-CoV-2 and COVID-19, with the sum of our work, knowledge and experience. The group is lead by dr. Črtomir Podlipnik and dr. Marko Jukić, experts with years of experience in computer supported molecular modelling, pharmaceutical chemistry and chemo/bioinformatics.</description>
+    </item>
+    
+    <item>
+      <title>Help Stop TB</title>
+      <link>http://projectdelve.com/computational/help-stop-tb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/computational/help-stop-tb/</guid>
+      <description>Help Stop TB View the project here.
+Overview Tuberculosis (TB) is one of the world&amp;rsquo;s most dangerous diseases, and has plagued humans for thousands of years. About one-third of the world&amp;rsquo;s population harbors the TB bacterium, with 1.5 million people dying in 2014 alone, and the World Health Organization now ranks TB alongside HIV as the world&amp;rsquo;s deadliest infectious disease. Through Help Stop TB, researchers are using World Community Grid to help fight this deadly disease.</description>
+    </item>
+    
+    <item>
+      <title>QuChemPedIA@home</title>
+      <link>http://projectdelve.com/computational/quchempedia-at-home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/computational/quchempedia-at-home/</guid>
+      <description>QuChemPedIA@home View the project here.
+Overview Molecular chemistry is lagging behind in term of open science. Although modelization by quantum mechanics applied to chemistry has become almost mandatory in any major publication, computational raw data is most of the time kept in the labs or destroyed. Furthermore, the software used in this area tend to lack effective quality control and computational details are usually incomplete in the articles and the information may not be reused or reproduced.</description>
+    </item>
+    
+    <item>
+      <title>SiDock@home</title>
+      <link>http://projectdelve.com/computational/sidock-at-home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/computational/sidock-at-home/</guid>
+      <description>SiDock@home View the project here.
+Overview Sidock@home is an international volunteer computing project aimed at drug discovery. The first mission of the project is discovery of possible drugs against the SARS-CoV-2 virus. It started as an extension of the project COVID.SI to engage the BOINC community into the drug discovery.
+You can help with your computer. With the help of BOINC, you will download a subset of compounds on your computer, examine the compounds in the context of the studied target and send the results to a server where they are collected for later analysis.</description>
+    </item>
+    
+    <item>
+      <title>Zwicky Chemical Factory</title>
+      <link>http://projectdelve.com/sciencein/zwicky-chemical-factory/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/sciencein/zwicky-chemical-factory/</guid>
+      <description>Zwicky Chemical Factory View the project here.
+Overview Every year astronomers discover thousands of new supernovae (exploding stars). Once these spectacular events are found, we use spectroscopy to understand the chemical elements in the explosion and what type of star exploded. Help us classify these explosions!
+The elements created by an individual supernova (SN) differ depending on the type of SN (for example, oxygen and sodium are primarily created when massive stars explode, whereas iron is primarily created when white dwarf stars explode).</description>
+    </item>
+    
+  </channel>
+</rss>

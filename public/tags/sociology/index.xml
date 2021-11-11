@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sociology on Project Delve</title>
+    <link>http://projectdelve.com/tags/sociology/</link>
+    <description>Recent content in sociology on Project Delve</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://projectdelve.com/tags/sociology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LabintheWild</title>
+      <link>http://projectdelve.com/humanities/labinthewild/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/humanities/labinthewild/</guid>
+      <description>LabintheWild View the project here.
+Overview LabintheWild tests your abilities and preferences. At the end of each experiment, you will see a page with your personalized feedback, which lets you compare yourself and your performance to other people around the world.
+By participating, you contribute to research on people&amp;rsquo;s similarities and differences and help improve users&#39; experience when interacting with technology. We believe that research should be done in collaboration with people—people like you from all over the world who are interested in learning about themselves and helping research.</description>
+    </item>
+    
+  </channel>
+</rss>

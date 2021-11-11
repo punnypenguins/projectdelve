@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>geography on Project Delve</title>
+    <link>http://projectdelve.com/tags/geography/</link>
+    <description>Recent content in geography on Project Delve</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://projectdelve.com/tags/geography/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The National Map Corps</title>
+      <link>http://projectdelve.com/humanities/national-map-corps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/humanities/national-map-corps/</guid>
+      <description>The National Map Corps View the project here.
+Overview By updating and verifying structures data, volunteers are making significant contributions to USGS National Structures Database, The National Map, and ultimately U.S. Topo Maps!
+TNMCorps is an online crowdsourcing mapping project with volunteers successfully editing structures in all 50 States, Puerto Rico, and the U.S. Virgin Islands.
+Anyone with an interest in contributing can volunteer. It is easy to sign up and get started!</description>
+    </item>
+    
+  </channel>
+</rss>

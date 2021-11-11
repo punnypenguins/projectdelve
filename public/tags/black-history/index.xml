@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>black history on Project Delve</title>
+    <link>http://projectdelve.com/tags/black-history/</link>
+    <description>Recent content in black history on Project Delve</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://projectdelve.com/tags/black-history/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agents of Enslavement</title>
+      <link>http://projectdelve.com/historical/agents-of-enslavement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/historical/agents-of-enslavement/</guid>
+      <description>Agents of Enslavement View the project here.
+Overview Agents of Enslavement? is a research project, which seeks to explore the ways in which colonial newspapers in the Caribbean facilitated and challenged the practice of slavery.
+It also seeks to identify the networks and voices of enslaved people hidden within these newspapers.
+These crowdsourcing tasks are integral to both these aims as your help will create new datasets for analysis.
+One of the goals of this project is to create a database of enslaved people identified within these newspapers.</description>
+    </item>
+    
+    <item>
+      <title>Freedom on the Move</title>
+      <link>http://projectdelve.com/historical/freedom-on-the-move/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/historical/freedom-on-the-move/</guid>
+      <description>PROJECT NAME View the project here.
+Overview We need your help to turn our collection of handwritten correspondence between anti-slavery activists in the 19th century into texts that can be more easily read and researched by students, teachers, historians, and big data applications.
+Location: Online</description>
+    </item>
+    
+  </channel>
+</rss>

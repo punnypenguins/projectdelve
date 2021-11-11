@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Distributed Computing Projects on Project Delve</title>
+    <link>http://projectdelve.com/computational/</link>
+    <description>Recent content in Distributed Computing Projects on Project Delve</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://projectdelve.com/computational/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Africa Rainfall Project</title>
+      <link>http://projectdelve.com/computational/africa-rainfall/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/computational/africa-rainfall/</guid>
+      <description>Africa Rainfall Project View the project here.
+Overview In sub-Saharan Africa, 95 percent of agriculture depends on rainfall, which makes accurate weather forecasts absolutely crucial. However, because rainfall in this area is often localized—sometimes almost at the level of one farm—it&amp;rsquo;s difficult to forecast accurately with satellite data, which show larger weather patterns.
+Through the Africa Rainfall Project, researchers at Delft University of Technology will create high-resolution computer simulations of localized rainstorms in sub-Saharan Africa.</description>
+    </item>
+    
+    <item>
+      <title>Amicable Pairs</title>
+      <link>http://projectdelve.com/computational/amicable-pairs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/computational/amicable-pairs/</guid>
+      <description>Amicable Pairs View the project here.
+Overview Though mathematics is not an experimental science, mathematicians often look for examples to test conjectures (which they then hope to prove). As the number of examples increases, so does (in a sense) their understanding of the distribution.
+The goal is to collect all amicable numbers up to a very large limit. This data will facilitate theoretical research in the field: 1, 2, 3 to name a few examples.</description>
+    </item>
+    
+    <item>
+      <title>BOINC@TACC</title>
+      <link>http://projectdelve.com/computational/boinc-at-tacc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/computational/boinc-at-tacc/</guid>
+      <description>BOINC@TACC View the project here.
+Overview BOINC@TACC is a project based on the Volunteer Computing (VC) model. It helps TACC/XSEDE researchers in running applications from a wide range of scientific domains (such as, aerospace engineering, computational biology, and earthquake engineering) on the laptops, desktops, tablets, or cloud-based Virtual Machines (VMs) owned by volunteers.
+Volunteers can help scientific research by signing up for the BOINC@TACC project and allowing it to run applications on their computers and VMs.</description>
+    </item>
+    
+    <item>
+      <title>climateprediction.net</title>
+      <link>http://projectdelve.com/computational/climateprediction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/computational/climateprediction/</guid>
+      <description>climateprediction.net View the project here.
+Overview Climateprediction.net is a volunteer computing climate modeling project.
+We run climate models on people’s home computers to help answer questions about how climate change is affecting our world, now and in the future. Evidence of how our climate is changing is vital to encourage investment in reducing greenhouse gas emissions, as well as coping with inevitable change.
+You can help discover how the climate could look by running our free software on your computer.</description>
+    </item>
+    
+    <item>
+      <title>Collatz Conjecture</title>
+      <link>http://projectdelve.com/computational/collatz-conjecture/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/computational/collatz-conjecture/</guid>
+      <description>Collatz Conjecture View the project here.
+Overview Collatz is a research project that uses Internet-connected computers to do research in mathematics. You can contribute to our research by running a free program on your computer.
+Collatz Conjecture is based in Wood Dale, Illinois. It is a privately managed BOINC project attempting to disprove the Collatz Conjecture. For more information about the Collatz Conjecture, check out the Wikipedia Collatz page. The Collatz Conjecture project makes use of the parity sequence optimization and runs on Linux, Windows, and OS X and can utilize CPUs as well as AMD, nVidia, and Intel graphics cards.</description>
+    </item>
+    
+    <item>
+      <title>Cosmology@Home</title>
+      <link>http://projectdelve.com/computational/cosmology-at-home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/computational/cosmology-at-home/</guid>
+      <description>Cosmology@Home View the project here.
+Overview Cosmology@Home lets you volunteer your spare computer time (like when your screen saver is on) to help better understand our universe by searching for the range of theoretical models that agree with cutting-edge cosmological and particle physics data.
+Runs on:  Linux MacOS Windows  </description>
+    </item>
+    
+    <item>
+      <title>COVID.SI</title>
+      <link>http://projectdelve.com/computational/covid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/computational/covid/</guid>
+      <description>CITIZEN SCIENCE AND THE FIGHT AGAINST THE CORONAVIRUS (COVID.SI) View the project here.
+Overview “CITIZEN SCIENCE AND THE FIGHT AGAINST THE CORONAVIRUS” is an open project by a collective of good-willed researchers and volunteers, who with to contribute a stone in the mosaic of the full picture of SARS-CoV-2 and COVID-19, with the sum of our work, knowledge and experience. The group is lead by dr. Črtomir Podlipnik and dr. Marko Jukić, experts with years of experience in computer supported molecular modelling, pharmaceutical chemistry and chemo/bioinformatics.</description>
+    </item>
+    
+    <item>
+      <title>Einstein@Home</title>
+      <link>http://projectdelve.com/computational/einstein-at-home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/computational/einstein-at-home/</guid>
+      <description>Einstein@Home View the project here.
+Overview Einstein@Home is a World Year of Physics 2005 and an International Year of Astronomy 2009 project. It is supported by the American Physical Society (APS), the US National Science Foundation (NSF), the Max Planck Society (MPG), and a number of international organizations.
+Einstein@Home uses your computer&amp;rsquo;s idle time to search for weak astrophysical signals from spinning neutron stars (often called pulsars) using data from the LIGO gravitational-wave detectors, the Arecibo radio telescope, and the Fermi gamma-ray satellite.</description>
+    </item>
+    
+    <item>
+      <title>Gerasim@Home</title>
+      <link>http://projectdelve.com/computational/gerasim-at-home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/computational/gerasim-at-home/</guid>
+      <description>Gerasim@Home View the project here.
+Overview The project uses internet-connected computers to do research in discrete mathematics and logic control.
+The current goal: testing and comparison of heuristic methods for getting separations of parallel algorithms working in the CAD system for designing logic control systems.
+Runs on:  Linux MacOS Windows  </description>
+    </item>
+    
+    <item>
+      <title>GPUGRID.net</title>
+      <link>http://projectdelve.com/computational/gpugrid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/computational/gpugrid/</guid>
+      <description>GPUGRID.net View the project here.
+Overview GPUGRID.net is a distributed computing infrastructure devoted to biomedical research. Thanks to the contribution of volunteers, GPUGRID scientists can perform molecular simulations to understand the function of proteins in health and disease.
+This is a volunteer distributed computing project for biomedical research from the Universitat Pompeu Fabra in Barcelona (Spain). GPUGRID is made of many graphics cards (GPUs) joined together to deliver high-performance all-atom biomolecular simulations.</description>
+    </item>
+    
+    <item>
+      <title>Help Stop TB</title>
+      <link>http://projectdelve.com/computational/help-stop-tb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/computational/help-stop-tb/</guid>
+      <description>Help Stop TB View the project here.
+Overview Tuberculosis (TB) is one of the world&amp;rsquo;s most dangerous diseases, and has plagued humans for thousands of years. About one-third of the world&amp;rsquo;s population harbors the TB bacterium, with 1.5 million people dying in 2014 alone, and the World Health Organization now ranks TB alongside HIV as the world&amp;rsquo;s deadliest infectious disease. Through Help Stop TB, researchers are using World Community Grid to help fight this deadly disease.</description>
+    </item>
+    
+    <item>
+      <title>iThena.Computational</title>
+      <link>http://projectdelve.com/computational/ithena/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/computational/ithena/</guid>
+      <description>iThena.Computational View the project here.
+Overview The project is brand-new as of early November 2021, and does not yet have a description posted. More info will be added as it becomes available.
+The previous iThena project iThena.Measurements is in a closed beta phase.
+Runs on:  Linux MacOS Windows  </description>
+    </item>
+    
+    <item>
+      <title>LHC@Home</title>
+      <link>http://projectdelve.com/computational/lhc-at-home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/computational/lhc-at-home/</guid>
+      <description>&amp;ldquo;LHC@Home&amp;rdquo; View the project here.
+Overview The Large Hadron Collider @ Home project from CERN is a volunteer computing project that uses Internet-connected computers to advance Particle and Accelerator Physics. Participate by downloading and running a free program on your computer.
+Runs on:  Linux MacOS Windows  </description>
+    </item>
+    
+    <item>
+      <title>Mapping Cancer Markers</title>
+      <link>http://projectdelve.com/computational/mapping-cancer-markers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/computational/mapping-cancer-markers/</guid>
+      <description>PROJECT NAME View the project here.
+Overview Mapping Cancer Markers on World Community Grid aims to identify the markers associated with various types of cancer. The project is analyzing millions of data points collected from thousands of healthy and cancerous patient tissue samples. These include tissues with lung, ovarian, prostate, pancreatic and breast cancers. By comparing these different data points, researchers aim to identify patterns of markers for different cancers and correlate them with different outcomes, including responsiveness to various treatment options.</description>
+    </item>
+    
+    <item>
+      <title>MilkyWay@home</title>
+      <link>http://projectdelve.com/computational/milkyway-at-home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/computational/milkyway-at-home/</guid>
+      <description>MilkyWay@home View the project here.
+Overview Milkyway@Home uses the BOINC platform to harness volunteered computing resources, creating a highly accurate three dimensional model of the Milky Way galaxy using data gathered by the Sloan Digital Sky Survey. This project enables research in both astroinformatics and computer science.
+In computer science, the project is investigating different optimization methods which are resilient to the fault-prone, heterogeneous and asynchronous nature of Internet computing; such as evolutionary and genetic algorithms, as well as asynchronous newton methods.</description>
+    </item>
+    
+    <item>
+      <title>Minecraft@Home</title>
+      <link>http://projectdelve.com/computational/minecraft-at-home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/computational/minecraft-at-home/</guid>
+      <description>Minecraft@Home View the project here.
+Overview This is a volunteer computing project which allows anyone on the internet to contribute resources to research projects related to Minecraft.
+We are an open community seeking to solve some of Minecraft&amp;rsquo;s biggest mysteries. Minecraft@Home enables the study of the fundemental laws of Minecraft to answer unanswered questions regarding the features and true limits of the game.
+The project&amp;rsquo;s GitHub is here and project list is viewable here.</description>
+    </item>
+    
+    <item>
+      <title>MLC@Home</title>
+      <link>http://projectdelve.com/computational/mlc-at-home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/computational/mlc-at-home/</guid>
+      <description>MLC@Home View the project here.
+Overview MLC@Home is a distributed computing project dedicated to understanding and interpreting complex machine learning models, with an emphasis on neural networks. It uses the BOINC distributed computing platform. You can find more information on our main website here: https://www.mlcathome.org.
+Neural Networks have fuelled a machine learning revolution over the past decade that has led to machines accomplishing amazingly complex tasks. However, these models are largly black boxes: we know they work, but they are so complex (up to hundreds of millions of parameters!</description>
+    </item>
+    
+    <item>
+      <title>Moo! Wrapper</title>
+      <link>http://projectdelve.com/computational/moo-wrapper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/computational/moo-wrapper/</guid>
+      <description>Moo! Wrapper View the project here.
+Overview Moo! Wrapper brings together BOINC volunteer computing network resources and the Distributed.net projects. It allows a BOINC Client to participate in the RC5-72 challenge.
+Having successfully completed RC5-56 and RC5-64, we are now working on the 72-bit variant of this encryption algorithm! More information is available on the RC5 Project Page.
+Runs on:  Linux MacOS Windows  </description>
+    </item>
+    
+    <item>
+      <title>nanoHUB@Home</title>
+      <link>http://projectdelve.com/computational/nanohub-at-home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/computational/nanohub-at-home/</guid>
+      <description>nanoHUB@Home View the project here.
+Overview nanoHUB is a research project, based at nanoHUB.org, that uses Internet-connected computers to do research in nanoscience and nanotechnology. You can contribute to our research by running a free program on your computer.
+This project supports over 200 simulation tools deployed at nanoHUB.org. These tools are used for both education and research, and they enable simulations that can run in a few minutes or over several hours.</description>
+    </item>
+    
+    <item>
+      <title>NFS@Home</title>
+      <link>http://projectdelve.com/computational/nfs-at-home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/computational/nfs-at-home/</guid>
+      <description>NFS@Home View the project here.
+Overview NFS@Home is a research project that uses Internet-connected computers to do the lattice sieving step in the Number Field Sieve factorization of large integers. As a young school student, you gained your first experience at breaking an integer into prime factors, such as 15 = 3 * 5 or 35 = 5 * 7. NFS@Home is a continuation of that experience, only with integers that are hundreds of digits long.</description>
+    </item>
+    
+    <item>
+      <title>NumberFields@Home</title>
+      <link>http://projectdelve.com/computational/numberfields-at-home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/computational/numberfields-at-home/</guid>
+      <description>NumberFields@Home View the project here.
+Overview NumberFields@home is a research project that uses Internet-connected computers to do research in number theory. You can participate by downloading and running a free program on your computer.
+NumberFields@home searches for fields with special properties. The primary application of this research is in the realm of algebraic number theory. Number theorists can mine the data for interesting patterns to help them formulate conjectures about number fields.</description>
+    </item>
+    
+    <item>
+      <title>ODLK1</title>
+      <link>http://projectdelve.com/computational/odlk1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/computational/odlk1/</guid>
+      <description>ODLK1 View the project here.
+Overview BOINC-project ODLK1 continues to solve the problem of BOINC-project ODLK. The project generates a database of canonical forms (CF) of diagonal Latin squares (DLS) of order 10 having orthogonal diagonal Latin squares (ODLS).
+The necessary definitions for the theme can be found here:
+ Latin square (English) Latin square (Russian)  Runs on:  Linux MacOS Windows  </description>
+    </item>
+    
+    <item>
+      <title>OpenPandemics - COVID-19</title>
+      <link>http://projectdelve.com/computational/openpandemics-covid19/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/computational/openpandemics-covid19/</guid>
+      <description>OpenPandemics - COVID-19 View the project here.
+Overview COVID-19 is a disease caused by SARS-CoV2, a virus of the coronavirus family. These viruses cause diseases that affect mainly the human respiratory system and potentially other major organs. COVID-19 can lead to serious illness or even death.
+As of the launch of this project, there is no treatment, cure, or vaccine for COVID-19.
+Scientists at Scripps Research are doing molecular modeling simulations to look for possible candidates for the development of treatments for COVID-19, but to be successful they need massive computing power to carry out millions of simulated laboratory experiments.</description>
+    </item>
+    
+    <item>
+      <title>PrimeGrid</title>
+      <link>http://projectdelve.com/computational/primegrid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/computational/primegrid/</guid>
+      <description>PrimeGrid View the project here.
+Overview PrimeGrid&amp;rsquo;s primary goal is to advance mathematics by enabling everyday computer users to contribute their system&amp;rsquo;s processing power towards prime finding. By simply downloading and installing BOINC and attaching to the PrimeGrid project, participants can choose from a variety of prime forms to search. With a little patience, you may find a large or even record breaking prime and enter into Chris Caldwell&amp;rsquo;s The Largest Known Primes Database with a multi-million digit prime!</description>
+    </item>
+    
+    <item>
+      <title>QuChemPedIA@home</title>
+      <link>http://projectdelve.com/computational/quchempedia-at-home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/computational/quchempedia-at-home/</guid>
+      <description>QuChemPedIA@home View the project here.
+Overview Molecular chemistry is lagging behind in term of open science. Although modelization by quantum mechanics applied to chemistry has become almost mandatory in any major publication, computational raw data is most of the time kept in the labs or destroyed. Furthermore, the software used in this area tend to lack effective quality control and computational details are usually incomplete in the articles and the information may not be reused or reproduced.</description>
+    </item>
+    
+    <item>
+      <title>Radioactive@Home</title>
+      <link>http://projectdelve.com/computational/radioactive-at-home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/computational/radioactive-at-home/</guid>
+      <description>Radioactive@Home View the project here.
+Overview Radioactive@Home is a polish science project using distributed computing capabilities of BOINC platform. The main goal of the project is to create free and constantly updated map of radiation available for all people, by gathering information about gamma radiation using using sensors connected to computers of volunteers willing to participate in the project. The project uses dedicated hardware sensor; without it the app does nothing and no credits are granted.</description>
+    </item>
+    
+    <item>
+      <title>RakeSearch</title>
+      <link>http://projectdelve.com/computational/rakesearch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/computational/rakesearch/</guid>
+      <description>RakeSearch View the project here.
+Overview The enormous size of the diagonal Latin squares space makes it unfeasible to enumerate all its objects straightforwardly in reasonable time. So, in order to discover the structure of this space, sophisticated search methods are needed. In RakeSearch project, we implement an application that picks up separate pairs of mutually orthogonal DLSs, which allows to reconstruct full graphs of their orthogonality.
+Runs on:  Linux MacOS Windows  </description>
+    </item>
+    
+    <item>
+      <title>RNA World (beta)</title>
+      <link>http://projectdelve.com/computational/rna-world/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/computational/rna-world/</guid>
+      <description>RNA World (beta) View the project here.
+Overview RNA World is a distributed supercomputer that uses Internet-connected computers to advance RNA research. This system is dedicated to identify, analyze, structurally predict and design RNA molecules on the basis of established bioinformatics software in a high-performance, high-throughput fashion.
+In contrast to classical bioinformatic approaches, RNA World does not rely on individual desktop computers, web servers or supercomputers. Instead, it represents a continuously evolving cluster of world-wide distributed machines of any type.</description>
+    </item>
+    
+    <item>
+      <title>Rosetta@home</title>
+      <link>http://projectdelve.com/computational/rosetta-at-home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/computational/rosetta-at-home/</guid>
+      <description>Rosetta@home View the project here.
+Overview By running Rosetta@home on your computer when you&amp;rsquo;re not using it you will speed up and extend our efforts to design new proteins and to predict their 3-dimensional shapes. Proteins are the molecular machines and building blocks of life. You can read more about protein folding and design here.
+Runs on:  Linux MacOS Windows  </description>
+    </item>
+    
+    <item>
+      <title>SiDock@home</title>
+      <link>http://projectdelve.com/computational/sidock-at-home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/computational/sidock-at-home/</guid>
+      <description>SiDock@home View the project here.
+Overview Sidock@home is an international volunteer computing project aimed at drug discovery. The first mission of the project is discovery of possible drugs against the SARS-CoV-2 virus. It started as an extension of the project COVID.SI to engage the BOINC community into the drug discovery.
+You can help with your computer. With the help of BOINC, you will download a subset of compounds on your computer, examine the compounds in the context of the studied target and send the results to a server where they are collected for later analysis.</description>
+    </item>
+    
+    <item>
+      <title>Smash Childhood Cancer (paused)</title>
+      <link>http://projectdelve.com/computational/smash-childhood-cancer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/computational/smash-childhood-cancer/</guid>
+      <description>Smash Childhood Cancer View the project here.
+Overview In the past 20 years, only a small number of new drugs designed to treat childhood cancer have been approved by the US Food and Drug Administration. Half of all the chemotherapy treatments used for children with cancer have been in existence for 25 years or longer.
+Members of the Smash Childhood Cancer research team have identified proteins and other molecules that play key roles in certain childhood cancers.</description>
+    </item>
+    
+    <item>
+      <title>SRBase</title>
+      <link>http://projectdelve.com/computational/srbase/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/computational/srbase/</guid>
+      <description>SRBase View the project here.
+Overview SRBase is a mathematical research project that uses Internet-connected computers trying to solve Sierpinski / Riesel Bases up to 1030. You can participate by downloading and running a free program on your computer.
+The project is in collaboration with the Mersenne CRUS project. The server is running on a private computer in a VM.
+Runs on:  Linux MacOS Windows  </description>
+    </item>
+    
+    <item>
+      <title>Universe@home</title>
+      <link>http://projectdelve.com/computational/universe-at-home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/computational/universe-at-home/</guid>
+      <description>Universe@home View the project here.
+Overview Universe@home project&amp;rsquo;s two main goals are:
+ to provide scientist with a necessary computational power and to provide the way of involvement for anyone equipped with a computer and willing to take part in the research  We live in times which are marked by the fastest scientific development in the history. Our knowledge grows faster than ever before. We explore the structures of the Universe, nuclei of stars and evolution of galaxies.</description>
+    </item>
+    
+    <item>
+      <title>yoyo@home</title>
+      <link>http://projectdelve.com/computational/yoyo-at-home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/computational/yoyo-at-home/</guid>
+      <description>yoyo@home View the project here.
+Overview yoyo@home brings existing distributed computing projects to the BOINC world using the BOINC Wrapper technology.
+yoyo@home is currently running the following sub-projects:
+ M Queens (tackling the M Queens puzzle) Siever (Sieve Files for the CRUS-project) ECM (for Elliptic Curve Factorization) OGR (Optimal Golumb Ruler)  Runs on:  Linux MacOS Windows  </description>
+    </item>
+    
+    <item>
+      <title>ОДЛК</title>
+      <link>http://projectdelve.com/computational/%D0%BE%D0%B4%D0%BB%D0%BA/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/computational/%D0%BE%D0%B4%D0%BB%D0%BA/</guid>
+      <description>ОДЛК View the project here.
+Overview В проекте составляется база данных канонических форм (КФ) диагональных латинских квадратов (ДЛК) 10-го порядка, имеющих ортогональные диагональные латинские квадраты (ОДЛК). Необходимые определения по теме можно найти здесь:
+Первые три ортогональные пары ДЛК были найдены в 1992 году, они опубликованы в статье “Completion of the Spectrum of Orthogonal Diagonal Latin Squares” (J. W. Brown и другие).
+В 2012-2016 гг. действовал научный BOINC-проект SAT@home, в котором искались новые ортогональные пары ДЛК 10-го порядка.</description>
+    </item>
+    
+  </channel>
+</rss>

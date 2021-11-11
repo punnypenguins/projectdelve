@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Project Delve</title>
+    <link>http://projectdelve.com/about/</link>
+    <description>Recent content in About on Project Delve</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://projectdelve.com/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contribute</title>
+      <link>http://projectdelve.com/about/contributing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/about/contributing/</guid>
+      <description>If you notice any typos, know a project that hasn&amp;rsquo;t been added yet, or have suggestions for the website, email me with all the relevant information and I&amp;rsquo;ll get back with you as soon as I can.
+When I have more time, I&amp;rsquo;ll add a section on this page giving instructions on how to contribute edits and new entries on your own via GitHub pull requests.</description>
+    </item>
+    
+    <item>
+      <title>Sources</title>
+      <link>http://projectdelve.com/about/sources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/about/sources/</guid>
+      <description>As all scientists learn, one of the most important things when sharing work with others is to be transparent about your sources, methods, and evidence. Here are mine.
+Hub websites you can sign up on to help with (and keep track of) a lot of volunteer science projects at once:  Zooniverse - The world’s largest and most popular platform for people-powered research. World Community Grid - Donate your device’s spare computing power to help scientists solve the world’s biggest problems in health and sustainability.</description>
+    </item>
+    
+  </channel>
+</rss>

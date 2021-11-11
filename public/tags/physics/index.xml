@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>physics on Project Delve</title>
+    <link>http://projectdelve.com/tags/physics/</link>
+    <description>Recent content in physics on Project Delve</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://projectdelve.com/tags/physics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LHC@Home</title>
+      <link>http://projectdelve.com/computational/lhc-at-home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/computational/lhc-at-home/</guid>
+      <description>&amp;ldquo;LHC@Home&amp;rdquo; View the project here.
+Overview The Large Hadron Collider @ Home project from CERN is a volunteer computing project that uses Internet-connected computers to advance Particle and Accelerator Physics. Participate by downloading and running a free program on your computer.
+Runs on:  Linux MacOS Windows  </description>
+    </item>
+    
+    <item>
+      <title>New Particle Search at CERN</title>
+      <link>http://projectdelve.com/sciencein/new-particle-cern/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/sciencein/new-particle-cern/</guid>
+      <description>New Particle Search at CERN View the project here.
+Overview You have the opportunity to contribute to the search for undiscovered particles, which are produced from the collisions of high-energy protons at the Large Hadron Collider (LHC), the world’s most powerful particle accelerator.
+While the Higgs boson was discovered in 2012, after about 40 years of intense experimental and theoretical research, and was the last missing component of our present model of particle physics, there are still many unanswered questions and even more theories that try to answer them.</description>
+    </item>
+    
+    <item>
+      <title>Radioactive@Home</title>
+      <link>http://projectdelve.com/computational/radioactive-at-home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/computational/radioactive-at-home/</guid>
+      <description>Radioactive@Home View the project here.
+Overview Radioactive@Home is a polish science project using distributed computing capabilities of BOINC platform. The main goal of the project is to create free and constantly updated map of radiation available for all people, by gathering information about gamma radiation using using sensors connected to computers of volunteers willing to participate in the project. The project uses dedicated hardware sensor; without it the app does nothing and no credits are granted.</description>
+    </item>
+    
+  </channel>
+</rss>

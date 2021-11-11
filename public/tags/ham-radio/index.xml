@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ham radio on Project Delve</title>
+    <link>http://projectdelve.com/tags/ham-radio/</link>
+    <description>Recent content in ham radio on Project Delve</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://projectdelve.com/tags/ham-radio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HamSCI</title>
+      <link>http://projectdelve.com/sciencein/hamsci/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/sciencein/hamsci/</guid>
+      <description>HamSCI View the project here.
+Overview Since the beginning of the United States amateur radio service in 1912, amateur radio operators have made significant contributions to radio technology and the understanding of radio science. This work must be continued today, as Part 97 of the FCC rules states that a primary purpose of the amateur radio service is the “Continuation and extension of the amateur&amp;rsquo;s proven ability to contribute to the advancement of the radio art.</description>
+    </item>
+    
+    <item>
+      <title>Radio JOVE</title>
+      <link>http://projectdelve.com/sciencein/radio-jove/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/sciencein/radio-jove/</guid>
+      <description>Radio JOVE View the project here.
+Overview Radio JOVE students and amateur scientists from around the world observe and analyze natural radio emissions of Jupiter, the Sun, and our galaxy building their own radio telescope from an easy to build kit or using remote radio telescopes through the Internet.
+ Build and use your own Decametric Radio Telescope Share your observations with other project members Teachers, See Our Lesson Ideas and other Educational Materials  There is much more to astronomy than what can be learned by peering at the skies through an optical telescope!</description>
+    </item>
+    
+  </channel>
+</rss>

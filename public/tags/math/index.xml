@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>math on Project Delve</title>
+    <link>http://projectdelve.com/tags/math/</link>
+    <description>Recent content in math on Project Delve</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://projectdelve.com/tags/math/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Amicable Pairs</title>
+      <link>http://projectdelve.com/computational/amicable-pairs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/computational/amicable-pairs/</guid>
+      <description>Amicable Pairs View the project here.
+Overview Though mathematics is not an experimental science, mathematicians often look for examples to test conjectures (which they then hope to prove). As the number of examples increases, so does (in a sense) their understanding of the distribution.
+The goal is to collect all amicable numbers up to a very large limit. This data will facilitate theoretical research in the field: 1, 2, 3 to name a few examples.</description>
+    </item>
+    
+    <item>
+      <title>Collatz Conjecture</title>
+      <link>http://projectdelve.com/computational/collatz-conjecture/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/computational/collatz-conjecture/</guid>
+      <description>Collatz Conjecture View the project here.
+Overview Collatz is a research project that uses Internet-connected computers to do research in mathematics. You can contribute to our research by running a free program on your computer.
+Collatz Conjecture is based in Wood Dale, Illinois. It is a privately managed BOINC project attempting to disprove the Collatz Conjecture. For more information about the Collatz Conjecture, check out the Wikipedia Collatz page. The Collatz Conjecture project makes use of the parity sequence optimization and runs on Linux, Windows, and OS X and can utilize CPUs as well as AMD, nVidia, and Intel graphics cards.</description>
+    </item>
+    
+    <item>
+      <title>Gerasim@Home</title>
+      <link>http://projectdelve.com/computational/gerasim-at-home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/computational/gerasim-at-home/</guid>
+      <description>Gerasim@Home View the project here.
+Overview The project uses internet-connected computers to do research in discrete mathematics and logic control.
+The current goal: testing and comparison of heuristic methods for getting separations of parallel algorithms working in the CAD system for designing logic control systems.
+Runs on:  Linux MacOS Windows  </description>
+    </item>
+    
+    <item>
+      <title>NFS@Home</title>
+      <link>http://projectdelve.com/computational/nfs-at-home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/computational/nfs-at-home/</guid>
+      <description>NFS@Home View the project here.
+Overview NFS@Home is a research project that uses Internet-connected computers to do the lattice sieving step in the Number Field Sieve factorization of large integers. As a young school student, you gained your first experience at breaking an integer into prime factors, such as 15 = 3 * 5 or 35 = 5 * 7. NFS@Home is a continuation of that experience, only with integers that are hundreds of digits long.</description>
+    </item>
+    
+    <item>
+      <title>ODLK1</title>
+      <link>http://projectdelve.com/computational/odlk1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/computational/odlk1/</guid>
+      <description>ODLK1 View the project here.
+Overview BOINC-project ODLK1 continues to solve the problem of BOINC-project ODLK. The project generates a database of canonical forms (CF) of diagonal Latin squares (DLS) of order 10 having orthogonal diagonal Latin squares (ODLS).
+The necessary definitions for the theme can be found here:
+ Latin square (English) Latin square (Russian)  Runs on:  Linux MacOS Windows  </description>
+    </item>
+    
+    <item>
+      <title>PrimeGrid</title>
+      <link>http://projectdelve.com/computational/primegrid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/computational/primegrid/</guid>
+      <description>PrimeGrid View the project here.
+Overview PrimeGrid&amp;rsquo;s primary goal is to advance mathematics by enabling everyday computer users to contribute their system&amp;rsquo;s processing power towards prime finding. By simply downloading and installing BOINC and attaching to the PrimeGrid project, participants can choose from a variety of prime forms to search. With a little patience, you may find a large or even record breaking prime and enter into Chris Caldwell&amp;rsquo;s The Largest Known Primes Database with a multi-million digit prime!</description>
+    </item>
+    
+    <item>
+      <title>RakeSearch</title>
+      <link>http://projectdelve.com/computational/rakesearch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/computational/rakesearch/</guid>
+      <description>RakeSearch View the project here.
+Overview The enormous size of the diagonal Latin squares space makes it unfeasible to enumerate all its objects straightforwardly in reasonable time. So, in order to discover the structure of this space, sophisticated search methods are needed. In RakeSearch project, we implement an application that picks up separate pairs of mutually orthogonal DLSs, which allows to reconstruct full graphs of their orthogonality.
+Runs on:  Linux MacOS Windows  </description>
+    </item>
+    
+    <item>
+      <title>SRBase</title>
+      <link>http://projectdelve.com/computational/srbase/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/computational/srbase/</guid>
+      <description>SRBase View the project here.
+Overview SRBase is a mathematical research project that uses Internet-connected computers trying to solve Sierpinski / Riesel Bases up to 1030. You can participate by downloading and running a free program on your computer.
+The project is in collaboration with the Mersenne CRUS project. The server is running on a private computer in a VM.
+Runs on:  Linux MacOS Windows  </description>
+    </item>
+    
+    <item>
+      <title>yoyo@home</title>
+      <link>http://projectdelve.com/computational/yoyo-at-home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/computational/yoyo-at-home/</guid>
+      <description>yoyo@home View the project here.
+Overview yoyo@home brings existing distributed computing projects to the BOINC world using the BOINC Wrapper technology.
+yoyo@home is currently running the following sub-projects:
+ M Queens (tackling the M Queens puzzle) Siever (Sieve Files for the CRUS-project) ECM (for Elliptic Curve Factorization) OGR (Optimal Golumb Ruler)  Runs on:  Linux MacOS Windows  </description>
+    </item>
+    
+    <item>
+      <title>ОДЛК</title>
+      <link>http://projectdelve.com/computational/%D0%BE%D0%B4%D0%BB%D0%BA/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/computational/%D0%BE%D0%B4%D0%BB%D0%BA/</guid>
+      <description>ОДЛК View the project here.
+Overview В проекте составляется база данных канонических форм (КФ) диагональных латинских квадратов (ДЛК) 10-го порядка, имеющих ортогональные диагональные латинские квадраты (ОДЛК). Необходимые определения по теме можно найти здесь:
+Первые три ортогональные пары ДЛК были найдены в 1992 году, они опубликованы в статье “Completion of the Spectrum of Orthogonal Diagonal Latin Squares” (J. W. Brown и другие).
+В 2012-2016 гг. действовал научный BOINC-проект SAT@home, в котором искались новые ортогональные пары ДЛК 10-го порядка.</description>
+    </item>
+    
+  </channel>
+</rss>

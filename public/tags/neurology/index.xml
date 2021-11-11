@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>neurology on Project Delve</title>
+    <link>http://projectdelve.com/tags/neurology/</link>
+    <description>Recent content in neurology on Project Delve</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://projectdelve.com/tags/neurology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LabintheWild</title>
+      <link>http://projectdelve.com/humanities/labinthewild/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/humanities/labinthewild/</guid>
+      <description>LabintheWild View the project here.
+Overview LabintheWild tests your abilities and preferences. At the end of each experiment, you will see a page with your personalized feedback, which lets you compare yourself and your performance to other people around the world.
+By participating, you contribute to research on people&amp;rsquo;s similarities and differences and help improve users&#39; experience when interacting with technology. We believe that research should be done in collaboration with people—people like you from all over the world who are interested in learning about themselves and helping research.</description>
+    </item>
+    
+    <item>
+      <title>TestMyBrain</title>
+      <link>http://projectdelve.com/humanities/testmybrain/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/humanities/testmybrain/</guid>
+      <description>TestMyBrain View the project here.
+Overview TestMyBrain is a not-for-profit initiative dedicated to collaborating with citizen scientists throughout the world by providing measurement tools that allow people to engage in science and learn about themselves.
+At TestMyBrain, we have the same goal that you do - to understand more about your brain. All of our experiments are designed to provide personalized feedback that is specific to you and will help you learn more about your own mind and brain.</description>
+    </item>
+    
+  </channel>
+</rss>

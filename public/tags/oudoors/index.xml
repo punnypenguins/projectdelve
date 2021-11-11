@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>oudoors on Project Delve</title>
+    <link>http://projectdelve.com/tags/oudoors/</link>
+    <description>Recent content in oudoors on Project Delve</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://projectdelve.com/tags/oudoors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>eBird</title>
+      <link>http://projectdelve.com/scienceout/ebird/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/scienceout/ebird/</guid>
+      <description>eBird View the project here.
+Overview eBird transforms the global birding community’s passion for birds into a powerful resource for research, conservation, and education. Your sightings contribute to hundreds of conservation decisions and peer-reviewed papers, thousands of student projects, and help inform bird research worldwide.
+eBird is among the world’s largest biodiversity-related science projects, with more than 100 million bird sightings contributed annually by eBirders around the world and an average participation growth rate of approximately 20% year over year.</description>
+    </item>
+    
+    <item>
+      <title>Eyes of the Reef Hawaii</title>
+      <link>http://projectdelve.com/scienceout/eyes-of-the-reef/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/scienceout/eyes-of-the-reef/</guid>
+      <description>Eyes of the Reef Hawaii View the project here.
+Overview The Eyes of the Reef Network is a volunteer member-based organization developed to increase public awareness and engage communities in the monitoring and reporting of coral bleaching and disease, marine invasive species, Crown-of-Thorn Sea Star (COTS) outbreaks and other reef diseases.
+The statewide network is the first tier of a rapid response protocol developed by the Division of Aquatic Resources and the Climate Change and Marine Disease Local Action Strategy, implemented by Reef Check Hawai‘i.</description>
+    </item>
+    
+    <item>
+      <title>FrogWatch USA</title>
+      <link>http://projectdelve.com/scienceout/frogwatch-usa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/scienceout/frogwatch-usa/</guid>
+      <description>FrogWatch USA View the project here.
+Overview FrogWatch USA™ is a citizen science program of the Association of Zoos and Aquariums that invites individuals and families to learn about the wetlands in their communities and help conserve amphibians by reporting data on the calls of local frogs and toads.
+Volunteers are trained to collect information about the calls from frogs and toads during the monitoring season of February through August.</description>
+    </item>
+    
+  </channel>
+</rss>

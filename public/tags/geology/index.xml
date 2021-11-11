@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>geology on Project Delve</title>
+    <link>http://projectdelve.com/tags/geology/</link>
+    <description>Recent content in geology on Project Delve</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://projectdelve.com/tags/geology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI4Mars</title>
+      <link>http://projectdelve.com/sciencein/ai4mars/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/sciencein/ai4mars/</guid>
+      <description>AI4Mars View the project here.
+Overview We need YOUR help to make future Mars rovers safer!
+By participating in this project, you will help improve the rovers’ ability to identify different, sometimes dangerous terrain - an essential skill for autonomous exploration!
+You’ll be using your superior cognitive and artistic abilities to label images from the Curiosity Rover, collectively creating the first open-source navigation-classification dataset of the Red Planet. It will be used - like the cityscapes dataset - by teams to train rovers to understand Martian environments, laying the way for future missions to unlock the secrets of our nearest neighbor!</description>
+    </item>
+    
+    <item>
+      <title>Landslides @ NASA</title>
+      <link>http://projectdelve.com/scienceout/landslides-at-nasa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/scienceout/landslides-at-nasa/</guid>
+      <description>Landslides @ NASA View the project here.
+Overview NASA scientists are building an open global inventory of landslides and we need your help! Knowing where and when landslides occur can help communities worldwide prepare for these disasters. Become a citizen scientist and you can help inform decisions that could save lives and property today.
+Landslides cause billions of dollars in infrastructural damage and thousands of deaths every year worldwide. Data on past landslide events guides future disaster prevention, but to date we do not have a global picture of exactly when and where landslides occur.</description>
+    </item>
+    
+    <item>
+      <title>Project Four</title>
+      <link>http://projectdelve.com/sciencein/project-four/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/sciencein/project-four/</guid>
+      <description>Project Four View the project here.
+Overview Welcome to Planet Four, a citizen science project designed to help planetary scientists identify and measure features on the surface of Mars&amp;hellip; the likes of which don’t exist on Earth. All of the images on this site depict the south polar region, where dark seasonal fans and blotches appear during the Spring. By mapping these features in images from the HiRISE camera, the highest resolution camera ever sent to a planet, we can explore the Martian climate and how it changes over time.</description>
+    </item>
+    
+  </channel>
+</rss>

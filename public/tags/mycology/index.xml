@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mycology on Project Delve</title>
+    <link>http://projectdelve.com/tags/mycology/</link>
+    <description>Recent content in mycology on Project Delve</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://projectdelve.com/tags/mycology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Citizen Science Soil Collection Program</title>
+      <link>http://projectdelve.com/scienceout/citizen-science-soil/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/scienceout/citizen-science-soil/</guid>
+      <description>Citizen Science Soil Collection Program View the project here.
+Overview The key to the next life-saving biomedical discovery might be living right below your feet. Dozens of fungi can occupy a single handful of soil and many of them are adept at making new compounds called natural products. These remarkable molecules hold tremendous promise for treating human diseases.
+It only takes a few minutes to help by collecting a scoop of soil.</description>
+    </item>
+    
+  </channel>
+</rss>
