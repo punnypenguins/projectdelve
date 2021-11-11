@@ -1,0 +1,9 @@
+baseURL = 'http://projectdelve.com/'
+languageCode = 'en-us'
+title = 'Project Delve'
+theme = "hugo-theme-learn"
+
+# change theme color
+[params]
+  # Change default color scheme with a variant one. Can be "red", "blue", "green".
+  themeVariant = "green"
