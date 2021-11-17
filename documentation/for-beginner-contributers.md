@@ -1,4 +1,4 @@
-# New to GitHub? Never fear! Start here. 👍
+# New to GitHub? Never fear, just start right here! 👍
 
 This page will guide you through each part of the process in order.  
 
