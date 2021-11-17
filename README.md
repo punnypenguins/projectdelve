@@ -1,8 +1,10 @@
+# 📘 README 📘
+
 ## The Project
 
 Project Delve was originally conceived as a one-stop-shop where people could find only *active* distributed computing and citizen science projects, and find *all* of them—no more needing to search google, click through pages of listings on various project hub sites, or clicking through fifty links just to find that all but seven of them were months or years out of date.
 
-The point is, I got frustrated, decided to do something about it, taught myself to build a site, and threw this whole thing together in about a month. 
+The point is, I got frustrated, decided to do something about it, taught myself to build a site, and threw this whole thing together in about a month.
 
 As I started to build the site in earnest, I came across so many other online volunteer projects for historical records, media archives, and fields in the humanities, that I decided to expand the scope of Project Delve to include those too.
 
