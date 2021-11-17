@@ -16,10 +16,6 @@ Before you begin, make sure you've met the following requirements:
 * You know how to create a [branch](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)
 * You know how to create a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
 
-## Additional resources
-
-Include links to additional resources, such as docs, bugs, and communication venues (developer listserv, emails, etc).
-
 ## Suggesting a project or other addition
 
 Provide information on the process for requsting new features. Do you have a specific label that should be applied? Is sign-off needed?
@@ -37,6 +33,10 @@ This project is written in [Markdown](https://www.markdownguide.org/basic-syntax
 ### Review process
 
 Once your pull request is submitted, I'll review it within a week and request changes if necessary. Once I confirm everything is good to go, your pull request will be accepted and merged with the master branch.
+
+## Additional resources
+
+Include links to additional resources, such as docs, bugs, and communication venues (developer listserv, emails, etc).
 
 ## Questions
 
