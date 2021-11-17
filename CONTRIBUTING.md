@@ -3,7 +3,7 @@
 Write something nice and instructive as an intro. Talk about what kind of contributions you are interested in.
 
 There are two paths to choose between if you plan to contribute:
-* **New to GitHub** - Pause here. Go follow the guide I created [**here**](/docs/for-beginner-contributors.md) to walk you through everything.
+* **New to GitHub** - Pause here. Go follow the guide I created [**here**](https://github.com/punnypenguins/projectdelve/blob/main/for-beginner-contributers.md) to walk you through everything.
 * **Already know GitHub's workflow** - Continue on to the following sections of this doc.
 
 ### Getting Started
