@@ -24,9 +24,9 @@ So if you're looking for more projects than you find listed individually on here
 
 ## Contributing
 
-If you notice any typos, know a project that hasn't been added yet, or have suggestions for the website, [**email me**](kgeerling@protonmail.com) with all the relevant information and I'll get back with you as soon as I can.
+TODO: link contributing section 
 
-Section coming soon on how to contribute in various ways via GitHub.
+Alternatively, you can always [**email me**](kgeerling@protonmail.com) with relevant information and I'll get back with you as soon as I can.
 
 ## The Creator
 
