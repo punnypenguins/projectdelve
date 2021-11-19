@@ -1,4 +1,4 @@
-![website](https://img.shields.io/website?down_color=critical&down_message=down&up_color=brightgreen&up_message=up&url=https%3A%2F%2Fprojectdelve.com%2F) ![open issues](https://img.shields.io/github/issues-raw/punnypenguins/projectdelve?logoColor=orange)
+[![website](https://img.shields.io/website?down_color=critical&down_message=down&up_color=brightgreen&up_message=up&url=https%3A%2F%2Fprojectdelve.com%2F)](https://projectdelve.com/) [![open issues](https://img.shields.io/github/issues-raw/punnypenguins/projectdelve?logoColor=orange)](https://github.com/punnypenguins/projectdelve/issues)
  
 # 📘 README 📘
 
