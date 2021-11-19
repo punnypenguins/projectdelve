@@ -1,4 +1,4 @@
-[![Issues](https://img.shields.io/github/issues-raw/tterb/PlayMusic.svg?maxAge=25000)](https://github.com/punnypenguins/projectdelve/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/cdnjs/cdnjs.svg?style=flat)]() [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)  
+![(https://img.shields.io/github/languages/count/punnypenguins/projectdelve)]
 
 # 📘 README 📘
 
