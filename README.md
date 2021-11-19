@@ -1,3 +1,5 @@
+[![Issues](https://img.shields.io/github/issues-raw/tterb/PlayMusic.svg?maxAge=25000)](https://github.com/punnypenguins/projectdelve/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/cdnjs/cdnjs.svg?style=flat)]() [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)  
+
 # 📘 README 📘
 
 ![alt text](https://github.com/punnypenguins/projectdelve/blob/main/public/images/project-delve-logo.png)
@@ -24,7 +26,7 @@ So if you're looking for more projects than you find listed individually on here
 
 ## Contributing
 
-TODO: link contributing section 
+TODO: link contributing section
 
 Alternatively, you can always [**email me**](kgeerling@protonmail.com) with relevant information and I'll get back with you as soon as I can.
 
