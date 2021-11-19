@@ -1,4 +1,4 @@
-![(https://img.shields.io/github/languages/count/punnypenguins/projectdelve)]
+![languages](https://img.shields.io/github/languages/count/punnypenguins/projectdelve)
 
 # 📘 README 📘
 
