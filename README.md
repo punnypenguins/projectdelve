@@ -1,4 +1,4 @@
- ![open issues](https://img.shields.io/github/issues-raw/punnypenguins/projectdelve?logoColor=important) ![open pull requests](https://img.shields.io/github/issues-pr-raw/punnypenguins/projectdelve?logoColor=blueviolet) ![website](https://img.shields.io/website?down_color=critical&down_message=down&up_color=brightgreen&up_message=up&url=https%3A%2F%2Fprojectdelve.com%2F)
+ ![open issues](https://img.shields.io/github/issues-raw/punnypenguins/projectdelve?logoColor=blueviolet) ![open pull requests](https://img.shields.io/github/issues-pr-raw/punnypenguins/projectdelve?logoColor=important) ![website](https://img.shields.io/website?down_color=critical&down_message=down&up_color=brightgreen&up_message=up&url=https%3A%2F%2Fprojectdelve.com%2F)
  
 # 📘 README 📘
 
