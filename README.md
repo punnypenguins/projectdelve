@@ -1,10 +1,11 @@
-![languages](https://img.shields.io/github/languages/count/punnypenguins/projectdelve)
-
+ https://img.shields.io/github/languages/top/punnypenguins/projectdelve?logoColor=important ![languages](https://img.shields.io/github/languages/count/punnypenguins/projectdelve?logoColor=brightgreen) ![repo size](https://img.shields.io/github/repo-size/punnypenguins/projectdelve?logoColor=informational) ![open issues](https://img.shields.io/github/issues-raw/punnypenguins/projectdelve?logoColor=brightgreen) ![open pull requests](https://img.shields.io/github/issues-pr-raw/punnypenguins/projectdelve?logoColor=important)
+ 
 # 📘 README 📘
 
 ![alt text](https://github.com/punnypenguins/projectdelve/blob/main/public/images/project-delve-logo.png)
 
 ## The Project
+![website](https://img.shields.io/website?down_color=critical&down_message=down&up_color=brightgreen&up_message=up&url=https%3A%2F%2Fprojectdelve.com%2F)
 
 Project Delve was originally conceived as a one-stop-shop where people could find only *active* distributed computing and citizen science projects, and find *all* of them—no more needing to search google, click through pages of listings on various project hub sites, or clicking through fifty links just to find that all but seven of them were months or years out of date.
 
