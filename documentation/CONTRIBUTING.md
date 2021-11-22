@@ -16,7 +16,7 @@ Before you begin, make sure you've met all of the following requirements:
 
 * You have a GitHub [account](https://github.com/join)
 * You have [GitHub Desktop](https://desktop.github.com/) set up
-* You have forked and cloned the [projectdelve repository](https://github.com/punnypenguins/projectdelve)
+* You have forked and cloned the [Project Delve repository](https://github.com/punnypenguins/projectdelve)
 * You know how to create a [branch](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)
 * You know how to create a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
 
