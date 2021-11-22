@@ -2,13 +2,17 @@
 
 Write something nice and instructive as an intro. Talk about what kind of contributions you are interested in.
 
-There are two paths to choose between if you plan to contribute:
-* **New to GitHub** - Pause here. Go follow the guide I created [**here**](https://github.com/punnypenguins/projectdelve/blob/main/documentation/for-beginner-contributers.md) to walk you through everything.
-* **Already know GitHub's workflow** - Continue on to the following sections of this doc.
+There are two paths to choose between if you plan to contribute...
+* ...and you're **new to GitHub** - Pause here. Go follow the guide I created specially [**for beginners**](https://github.com/punnypenguins/projectdelve/blob/main/documentation/for-beginner-contributers.md) to walk you through everything.
+* ...and you **already know GitHub's workflow** - Continue on to the following sections of this doc.
 
-### Getting Started
+# Style Guidelines
 
-Before you begin, make sure you've met the following requirements:
+This project is primarily written in [Markdown](https://www.markdownguide.org/basic-syntax/), and its front matter formatting follows [Hugo's](https://gohugo.io/content-management/front-matter/) syntax.
+
+# Getting Started
+
+Before you begin, make sure you've met all of the following requirements:
 
 * You have a GitHub [account](https://github.com/join)
 * You have [GitHub Desktop](https://desktop.github.com/) set up
@@ -16,28 +20,34 @@ Before you begin, make sure you've met the following requirements:
 * You know how to create a [branch](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)
 * You know how to create a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
 
-## Suggesting a project or other addition
-
-Provide information on the process for requsting new features. Do you have a specific label that should be applied? Is sign-off needed?
-
-Share roadmap, goals, or development philosophies.
-
-## Suggesting an edit/update
+# Suggesting a project or other addition
 
 TODO
 
-### Style Guidelines
+# Suggesting an edit/update
 
-This project is written in [Markdown](https://www.markdownguide.org/basic-syntax/), and its front matter formatting follows [Hugo's](https://gohugo.io/content-management/front-matter/) syntax.
+TODO
 
-### Review process
+# To run the site for local development
 
-Once your pull request is submitted, I'll review it within a week and request changes if necessary. Once I confirm everything is good to go, your pull request will be accepted and merged with the master branch.
+## Windows users:
+You will need:
 
-## Additional resources
+## Mac users:
+You will need:
+* Access to Terminal
 
-Include links to additional resources, such as docs, bugs, and communication venues (developer listserv, emails, etc).
+## Linux users:
+You will need:
 
-## Questions
+# Review process
+
+After your pull request is submitted, I'll review it within a week and request changes if necessary. Once I confirm everything is good to go, your pull request will be accepted and merged into the `master` branch.
+
+# Additional resources
+
+*
+
+# Questions
 
 If you have any questions that I haven't addressed here, feel free to ask in a [new issue](https://github.com/punnypenguins/projectdelve/issues) (please add the `question` tag to it) or by [shooting me an email](kgeerling@protonmail.com).
