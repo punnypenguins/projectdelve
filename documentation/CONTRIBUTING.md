@@ -28,14 +28,13 @@ TODO
 
 TODO
 
-# To run the site for local development
+# Running the site for local development
 
 ## Windows users:
 You will need:
 
 ## Mac users:
 You will need:
-* Access to Terminal
 
 ## Linux users:
 You will need:
