@@ -26,7 +26,7 @@ So if you're looking for more projects than you find listed individually on here
 
 ## Contributing
 
-TODO: link contributing section
+The guide to contributing to this project via GitHub has everything you need to know over in [`CONTRIBUTING.md`](https://github.com/punnypenguins/projectdelve/blob/main/documentation/CONTRIBUTING.md)
 
 Alternatively, you can always [**email me**](kgeerling@protonmail.com) with relevant information and I'll get back with you as soon as I can.
 
