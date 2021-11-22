@@ -4,7 +4,7 @@
 
 ![alt text](https://github.com/punnypenguins/projectdelve/blob/main/public/images/project-delve-logo.png)
 
-## The Project
+# The Project
 
 Project Delve was originally conceived as a one-stop-shop where people could find only *active* distributed computing and citizen science projects, and find *all* of them—no more needing to search google, click through pages of listings on various project hub sites, or clicking through fifty links just to find that all but seven of them were months or years out of date.
 
@@ -24,13 +24,13 @@ I will be adding more projects to the site as I find them and as people send the
 
 So if you're looking for more projects than you find listed individually on here, make sure you check the hub websites out; you'll find many of them probably have exactly the category you were looking for.
 
-## Contributing
+# Contributing
 
-TODO: link contributing section
+The guide to contributing to this project via GitHub has everything you need to know over in [`CONTRIBUTING.md`](https://github.com/punnypenguins/projectdelve/blob/main/documentation/CONTRIBUTING.md)
 
-Alternatively, you can always [**email me**](kgeerling@protonmail.com) with relevant information and I'll get back with you as soon as I can.
+If you're not able to edit/contribute via GitHub, you can always [**email me**](kgeerling@protonmail.com) with relevant information and I'll get back with you as soon as I can.
 
-## The Creator
+# The Creator
 
 I'm Katie. You don't need to know about me, because the point of this website is—shocking, I know—the actual *website*. But if you're looking to get in contact with me, or want to see my other work, you can follow the links below.
 - [LinkedIn](https://www.linkedin.com/in/katherine-geerling-774929111)
