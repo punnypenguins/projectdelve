@@ -49,13 +49,11 @@ If you don't want to use the [command line](https://en.wikipedia.org/wiki/Comman
 
 *Read more about GitHub Desktop in its documentation [here](https://docs.github.com/en/desktop).*
 
-`🌟 GitHub Desktop also has the advantage of being already integrated with [Atom](https://atom.io/), so if Atom is your preferred code editor, you're in luck!`
+🌟 GitHub Desktop also has the advantage of being already integrated with [Atom](https://atom.io/), so if Atom is your preferred code editor, you're in luck!
 
 # Fork a repository
 
-The first step to contributing to anyone else's repository on GitHub is [forking](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/about-forks).
-
-To learn to fork any general repository, follow the steps in GitHub's documentation [here](https://docs.github.com/en/get-started/quickstart/fork-a-repo).
+The first step to contributing to anyone else's repository on GitHub is [forking](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/about-forks). To learn to fork a repository, follow the steps in GitHub's documentation [here](https://docs.github.com/en/get-started/quickstart/fork-a-repo).
 
 To fork the **Project Delve repository** specifically, you can simply [click here](https://github.com/punnypenguins/projectdelve/fork).
 
@@ -63,7 +61,7 @@ To fork the **Project Delve repository** specifically, you can simply [click her
 
 When you're on GitHub.com looking at a repository, what you're seeing is a cloud-based repository. GitHub calls this `remote`, a term you'll see pop up a lot if you use GitHub desktop.
 
-To work on a GitHub repository locally on your own computer, you need to first do something called **cloning**. You can read about cloning and find the instructions on how to do it in GitHub's documentation [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).
+To work on a GitHub repository locally on your own computer, you need to first do something called **cloning**. You can read about cloning and find instructions on doing it in GitHub's documentation [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).
 
 If you're using the command line, you can copy-paste the cloning command for a specific repository via the dropdown menu under that repository's green `Code` button. If you're using GitHub Desktop, select the option that says `Open with GitHub Desktop` (this will take you to GitHub Desktop and start the process to create a copy of repository on your device) from the same dropdown menu.
 
@@ -73,21 +71,21 @@ You can do all the parts of this process via GitHub Desktop, the command line, o
 
 So, you want to edit or add to someone else's repository. You've already **forked** the repository, creating a new, connected duplicate under your own profile. Now it's time to create a **branch** from that duplicate, make some changes, "push" the changes, and submit a **pull request** once you're ready for your changes to be merged with the original repository someone else owns.
 
-## Create a new branch
+## 1. Create a new branch
 
 Learn about branches [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches).
 
 Learn to **create a branch** [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository).
 
-## Create or edit a file
+## 2. Create or edit a file
 
 You can do this any way that you normally prefer to create new files that you're going to work with. My personal go-to is to open a repository's files in Atom and create a new file via right clicking, but everyone has their own preference. Pick a method and create a new file, or open a file that already exists and start adding/editing away.
 
-## Push changes to GitHub
+## 3. Push changes to GitHub 
 
 Learn about pushing changes to GitHub [here](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/pushing-changes-to-github).
 
-## Submit a pull request
+## 4. Submit a pull request
 
 Learn about pull requests [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests).
 
