@@ -62,7 +62,7 @@ To run this site via localhost on your computer, first make sure that you've eit
 
 Once you're sure the site files are all locally on your device, follow the instructions below for installing Hugo on whichever operating system you're using. I've only written instructions for quick installation via package managers; if you want to install Hugo via Tarball or building from the source, you can follow the steps listed in [Hugo's installation guide](https://gohugo.io/getting-started/installing/).
 
-🌟 `If you're a fan of using [Docker](https://www.docker.com/), Hugo doesn't have an *official* image but [*does* recommend this one](https://hub.docker.com/r/klakegg/hugo/) if you wish to go the Docker route.``
+🌟 `If you're a fan of using [Docker](https://www.docker.com/), Hugo doesn't have an *official* image but [*does* recommend this one](https://hub.docker.com/r/klakegg/hugo/) if you wish to go the Docker route.`
 
 ## 1. Install Hugo
 
