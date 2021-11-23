@@ -88,13 +88,13 @@ Ensure you're currently in the folder that contains the Project Delve site files
 > EXAMPLE: If you're using GitHub Desktop to interface with the repository on a Mac, the default location would be [your user] > `Documents` > `GitHub` > `projectdelve`. In this case, you would open a new Terminal shell and type in `cd Documents/GitHub/projectdelve` to get to the correct folder.
 
 <p align="center">
-  <img src="/images/cd-navigate.png" alt="Terminal window showing example navigation"/>
+  <img src="https://github.com/punnypenguins/projectdelve/blob/main/documentation/images/cd-navigate.png" alt="Terminal window showing example navigation"/>
 </p>
 
 Once you're sure you're in the correct directory, run `hugo server` in the command line. You should see something similar to the image below as its output. Don't panic if it takes a few seconds to run!
 
 <p align="center">
-  <img src="/images/hugo-server.png" alt="Terminal window showing hugo server output"/>
+  <img src="https://github.com/punnypenguins/projectdelve/blob/main/documentation/images/hugo-server.png" alt="Terminal window showing hugo server output"/>
 </p>
 
 Until you end this command or quit the shell process, you will now be able to see the Project Delve site at [http://localhost:1313/](http://localhost:1313/) and all changes you make to the local files will be visible there in real time.
