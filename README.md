@@ -35,8 +35,9 @@ If you're not able to edit/contribute via GitHub, you can always [**email me**](
 # The Creator
 
 I'm Katie. You don't need to know about me, because the point of this website is—shocking, I know—the actual *website*. But if you're looking to get in contact with me, or want to see my other work, you can follow the links below.
-- [LinkedIn](https://www.linkedin.com/in/katherine-geerling-774929111)
-- [GitHub](https://github.com/punnypenguins)
-- [Blog](https://somemossthoughts.wordpress.com/)
+- My [resume](https://punnypenguins.github.io/)
+- My [writing samples](https://github.com/punnypenguins/writing-samples/tree/main/Documentation)
+- My [LinkedIn profile](https://www.linkedin.com/in/katherine-geerling-774929111)
+- My [GitHub profile](https://github.com/punnypenguins)
 - My [Ko-fi](https://ko-fi.com/punnypenguins)
 - My [Email](kgeerling@protonmail.com)
