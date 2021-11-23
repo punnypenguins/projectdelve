@@ -58,24 +58,57 @@ After your pull request is submitted, I'll review it within a week and request c
 
 # Running the site for local development
 
-To run this site via localhost on your computer, first make sure that you've either cloned the repository or downloaded it via .zip file and unpacked it already. Place the repository folder somewhere that's preferrably not sixteen-folders-deep, because you're going to be using the command line to `cd` in to it and it's not very fun to type a seven-item-long file path to do so. Unless you enjoy that, personally, in which case go ahead and sub-folder away to your heart's content!
+To run this site via localhost on your computer, first make sure that you've either cloned the repository or downloaded it via .zip file and unpacked it already.
 
-Once you're sure the site files are all locally on your device, follow the instructions below for the operating system you're using.
+Once you're sure the site files are all locally on your device, follow the instructions below for installing Hugo on whichever operating system you're using. I've only written instructions for quick installation via package managers; if you want to install Hugo via Tarball or building from the source, you can follow the steps listed in [Hugo's installation guide](https://gohugo.io/getting-started/installing/).
+
+🌟 `If you're a fan of using [Docker](https://www.docker.com/), Hugo doesn't have an *official* image but [*does* recommend this one](https://hub.docker.com/r/klakegg/hugo/) if you wish to go the Docker route.``
+
+## 1. Install Hugo
 
 ### Windows users:
-You will need:
+
+If you use [Chocolatey](https://chocolatey.org/), run `choco install hugo -confirm` in the command line.
+
+If you use [Scoop](https://scoop.sh/), run `choco install hugo -confirm` in the command line.
 
 ### Mac users:
-You will need:
+
+If you use [Homebrew](https://brew.sh/), run `brew install hugo` in the command line.
+
+If you use [MacPorts](https://www.macports.org/), run `port install hugo` in the command line.
 
 ### Linux users:
-You will need:
+
+If you use [Homebrew on Linux](https://docs.brew.sh/Homebrew-on-Linux), run `brew install hugo` in the command line.
+
+## 2. Set up the local server
+
+Ensure you're currently in the folder that contains the Project Delve site files.
+> EXAMPLE: If you're using GitHub Desktop to interface with the repository on a Mac, the default location would be [your user] > `Documents` > `GitHub` > `projectdelve`. In this case, you would open a new Terminal shell and type in `cd Documents/GitHub/projectdelve` to get to the correct folder.
+
+<p align="center">
+  <img src="/images/cd-navigate.png" alt="Terminal window showing example navigation"/>
+</p>
+
+Once you're sure you're in the correct directory, run `hugo server` in the command line. You should see something similar to the image below as its output. Don't panic if it takes a few seconds to run!
+
+<p align="center">
+  <img src="/images/hugo-server.png" alt="Terminal window showing hugo server output"/>
+</p>
+
+Until you end this command or quit the shell process, you will now be able to see the Project Delve site at [http://localhost:1313/](http://localhost:1313/) and all changes you make to the local files will be visible there in real time.
+
+`🌟 For more information on running Hugo locally, see [hugo server](https://gohugo.io/commands/hugo_server/) in Hugo's documentation.`
 
 
 # Additional resources
 
-TODO
-
+* [GitHub documentation](https://docs.github.com/en)
+* [Hugo documentation](https://gohugo.io/documentation/)
+* [Markdown Guide](https://www.markdownguide.org/)
+* My [guide](https://github.com/punnypenguins/writing-samples/blob/main/Assorted/beginner-open-source.md) for beginners to open source
+* My [Ko-fi](https://ko-fi.com/punnypenguins) if you feel like helping out with hosting costs or just tipping me as a "Thanks!"
 
 # Questions
 
