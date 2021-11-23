@@ -10,7 +10,7 @@ If you notice any typos, know a project that hasn't been added yet, or have sugg
 
 🌟 If you're new to using GitHub, I have a guide just for you [**written here**](https://github.com/punnypenguins/projectdelve/blob/main/documentation/for-beginner-contributers.md)!
 
-Full contribution guidelines and instructions are available on GitHub in [`CONTRIBUTING.md`](https://github.com/punnypenguins/projectdelve/blob/main/documentation/CONTRIBUTING.md).
+Full contribution guidelines and instructions are available on GitHub in `[CONTRIBUTING.md](https://github.com/punnypenguins/projectdelve/blob/main/documentation/CONTRIBUTING.md)`.
 
 If you already know how to use GitHub, you can check out [**open issues**](https://github.com/punnypenguins/projectdelve/issues) for this site's repository and see if there are any you can help with.
 
