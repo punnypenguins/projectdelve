@@ -2,35 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://projectdelve.com/humanities/tag-with-adler/</loc>
-  </url><url>
-    <loc>http://projectdelve.com/humanities/ted-translate/</loc>
+    <loc>http://projectdelve.com/about/</loc>
   </url><url>
     <loc>http://projectdelve.com/sciencein/active-asteroids/</loc>
-  </url><url>
-    <loc>http://projectdelve.com/sciencein/buzzy-bee/</loc>
-  </url><url>
-    <loc>http://projectdelve.com/sciencein/dark-energy-explorers/</loc>
-  </url><url>
-    <loc>http://projectdelve.com/sciencein/drones-for-ducks/</loc>
-  </url><url>
-    <loc>http://projectdelve.com/sciencein/etch-a-cell/</loc>
-  </url><url>
-    <loc>http://projectdelve.com/sciencein/floating-forests/</loc>
-  </url><url>
-    <loc>http://projectdelve.com/sciencein/iberian-camera-trap/</loc>
-  </url><url>
-    <loc>http://projectdelve.com/sciencein/penguin-map/</loc>
-  </url><url>
-    <loc>http://projectdelve.com/sciencein/planet-hunters-tess/</loc>
-  </url><url>
-    <loc>http://projectdelve.com/sciencein/snapshot-wisconsin/</loc>
-  </url><url>
-    <loc>http://projectdelve.com/sciencein/whooping-cranes/</loc>
-  </url><url>
-    <loc>http://projectdelve.com/sciencein/woodpecker-cavity-cam/</loc>
-  </url><url>
-    <loc>http://projectdelve.com/about/</loc>
   </url><url>
     <loc>http://projectdelve.com/historical/addressing-health/</loc>
   </url><url>
@@ -47,6 +21,8 @@
     <loc>http://projectdelve.com/computational/amicable-pairs/</loc>
   </url><url>
     <loc>http://projectdelve.com/historical/ancestry-world-archives/</loc>
+  </url><url>
+    <loc>http://projectdelve.com/tags/asrophysics/</loc>
   </url><url>
     <loc>http://projectdelve.com/tags/astrophysics/</loc>
   </url><url>
@@ -75,6 +51,8 @@
     <loc>http://projectdelve.com/tags/botany/</loc>
   </url><url>
     <loc>http://projectdelve.com/sciencein/bursts-from-space/</loc>
+  </url><url>
+    <loc>http://projectdelve.com/sciencein/buzzy-bee/</loc>
   </url><url>
     <loc>http://projectdelve.com/historical/canadian-wildlife/</loc>
   </url><url>
@@ -118,6 +96,8 @@
   </url><url>
     <loc>http://projectdelve.com/scienceout/cyanoscope/</loc>
   </url><url>
+    <loc>http://projectdelve.com/sciencein/dark-energy-explorers/</loc>
+  </url><url>
     <loc>http://projectdelve.com/historical/davy-notebooks/</loc>
   </url><url>
     <loc>http://projectdelve.com/scienceout/delaware-bay-crabs/</loc>
@@ -131,6 +111,8 @@
     <loc>http://projectdelve.com/historical/diy-history/</loc>
   </url><url>
     <loc>http://projectdelve.com/scienceout/dragonfly-mercury/</loc>
+  </url><url>
+    <loc>http://projectdelve.com/sciencein/drones-for-ducks/</loc>
   </url><url>
     <loc>http://projectdelve.com/scienceout/earthecho-water-challenge/</loc>
   </url><url>
@@ -146,6 +128,8 @@
   </url><url>
     <loc>http://projectdelve.com/tags/environmental-science/</loc>
   </url><url>
+    <loc>http://projectdelve.com/sciencein/etch-a-cell/</loc>
+  </url><url>
     <loc>http://projectdelve.com/sciencein/eterna/</loc>
   </url><url>
     <loc>http://projectdelve.com/historical/every-name-counts/</loc>
@@ -157,6 +141,8 @@
     <loc>http://projectdelve.com/scienceout/fireballs/</loc>
   </url><url>
     <loc>http://projectdelve.com/historical/public-broadcasting-archives/</loc>
+  </url><url>
+    <loc>http://projectdelve.com/sciencein/floating-forests/</loc>
   </url><url>
     <loc>http://projectdelve.com/computational/folding-at-home/</loc>
   </url><url>
@@ -208,6 +194,8 @@
   </url><url>
     <loc>http://projectdelve.com/tags/humanities/</loc>
   </url><url>
+    <loc>http://projectdelve.com/sciencein/iberian-camera-trap/</loc>
+  </url><url>
     <loc>http://projectdelve.com/scienceout/inaturalist/</loc>
   </url><url>
     <loc>http://projectdelve.com/sciencein/instant-wild/</loc>
@@ -237,6 +225,8 @@
     <loc>http://projectdelve.com/historical/macdonald-dictionary/</loc>
   </url><url>
     <loc>http://projectdelve.com/computational/mapping-cancer-markers/</loc>
+  </url><url>
+    <loc>http://projectdelve.com/sciencein/mapping-penguins/</loc>
   </url><url>
     <loc>http://projectdelve.com/tags/marine-biology/</loc>
   </url><url>
@@ -342,6 +332,8 @@
   </url><url>
     <loc>http://projectdelve.com/sciencein/planet-hunters-ngts/</loc>
   </url><url>
+    <loc>http://projectdelve.com/sciencein/planet-hunters-tess/</loc>
+  </url><url>
     <loc>http://projectdelve.com/sciencein/planet-patrol/</loc>
   </url><url>
     <loc>http://projectdelve.com/scienceout/plants-of-concern/</loc>
@@ -412,6 +404,8 @@
   </url><url>
     <loc>http://projectdelve.com/sciencein/smoke-sense/</loc>
   </url><url>
+    <loc>http://projectdelve.com/sciencein/snapshot-wisconsin/</loc>
+  </url><url>
     <loc>http://projectdelve.com/hubs/social-psych-network/</loc>
   </url><url>
     <loc>http://projectdelve.com/tags/sociology/</loc>
@@ -433,6 +427,8 @@
     <loc>http://projectdelve.com/historical/stories-of-st-james/</loc>
   </url><url>
     <loc>http://projectdelve.com/sciencein/swipes-for-science/</loc>
+  </url><url>
+    <loc>http://projectdelve.com/humanities/tag-with-adler/</loc>
   </url><url>
     <loc>http://projectdelve.com/tags/</loc>
   </url><url>
@@ -460,6 +456,8 @@
   </url><url>
     <loc>http://projectdelve.com/tags/transcribing/</loc>
   </url><url>
+    <loc>http://projectdelve.com/humanities/ted-translate/</loc>
+  </url><url>
     <loc>http://projectdelve.com/sciencein/ubiqomix/</loc>
   </url><url>
     <loc>http://projectdelve.com/tags/uk-history/</loc>
@@ -480,6 +478,8 @@
   </url><url>
     <loc>http://projectdelve.com/sciencein/whale-chat/</loc>
   </url><url>
+    <loc>http://projectdelve.com/sciencein/whooping-cranes/</loc>
+  </url><url>
     <loc>http://projectdelve.com/scienceout/wild-and-scenic-rivers/</loc>
   </url><url>
     <loc>http://projectdelve.com/sciencein/wild-mont-blanc/</loc>
@@ -487,6 +487,8 @@
     <loc>http://projectdelve.com/sciencein/wildlife-of-la/</loc>
   </url><url>
     <loc>http://projectdelve.com/sciencein/wildwatch-burrowing-owl/</loc>
+  </url><url>
+    <loc>http://projectdelve.com/sciencein/woodpecker-cavity-cam/</loc>
   </url><url>
     <loc>http://projectdelve.com/hubs/world-community-grid/</loc>
   </url><url>

@@ -7,31 +7,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://projectdelve.com/humanities/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>http://projectdelve.com/humanities/tag-with-adler/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://projectdelve.com/humanities/tag-with-adler/</guid>
-      <description>title = &amp;ldquo;Tag Along with Adler&amp;rdquo; tags = [&amp;ldquo;humanities&amp;rdquo; &amp;ldquo;history&amp;rdquo; &amp;ldquo;online&amp;rdquo;] +++
-Tag Along with Adler View the project here.
-Overview Help the Adler Planetarium tag our collections to expand how we catalogue our objects, and how our users can find them!
-As museums add collections online, the language that describes the objects - known as metadata - affects how people find and search for these objects. Cataloguers and museum staff create metadata based on standards and rules.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://projectdelve.com/humanities/ted-translate/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://projectdelve.com/humanities/ted-translate/</guid>
-      <description>title = &amp;ldquo;Translate TED Talks&amp;rdquo; tags = [&amp;ldquo;humanities&amp;rdquo; &amp;ldquo;linguistics&amp;rdquo; &amp;ldquo;online&amp;rdquo;] +++
-Translate TED Talks View the project here.
-Overview TED Translators are a global community of volunteers who subtitle TED Talks, and enable the inspiring ideas in them to crisscross languages and borders.
-Help make TED accessible to your language! Join our global community of volunteers.
-Location: Online</description>
-    </item>
-    
-    <item>
       <title>LabintheWild</title>
       <link>http://projectdelve.com/humanities/labinthewild/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -51,6 +26,17 @@ By participating, you contribute to research on people&amp;rsquo;s similarities 
       <description>small world of words View the project here.
 Overview The small world of words project is a large-scale scientific study that aims to build a mental dictionary or lexicon in the major languages of the world and make this information widely available.
 In contrast to a thesaurus or dictionary, we use word associations to learn about what words mean and which ones are central in the human mind. This enables psychologists, linguists, neuro-scientists and others to test new theories about how we represent and process language.</description>
+    </item>
+    
+    <item>
+      <title>Tag Along with Adler</title>
+      <link>http://projectdelve.com/humanities/tag-with-adler/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/humanities/tag-with-adler/</guid>
+      <description>Tag Along with Adler View the project here.
+Overview Help the Adler Planetarium tag our collections to expand how we catalogue our objects, and how our users can find them!
+As museums add collections online, the language that describes the objects - known as metadata - affects how people find and search for these objects. Cataloguers and museum staff create metadata based on standards and rules. This means access is often limited to only those who understand the style used.</description>
     </item>
     
     <item>
@@ -74,6 +60,18 @@ At TestMyBrain, we have the same goal that you do - to understand more about you
 Overview By updating and verifying structures data, volunteers are making significant contributions to USGS National Structures Database, The National Map, and ultimately U.S. Topo Maps!
 TNMCorps is an online crowdsourcing mapping project with volunteers successfully editing structures in all 50 States, Puerto Rico, and the U.S. Virgin Islands.
 Anyone with an interest in contributing can volunteer. It is easy to sign up and get started!</description>
+    </item>
+    
+    <item>
+      <title>Translate TED Talks</title>
+      <link>http://projectdelve.com/humanities/ted-translate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/humanities/ted-translate/</guid>
+      <description>Translate TED Talks View the project here.
+Overview TED Translators are a global community of volunteers who subtitle TED Talks, and enable the inspiring ideas in them to crisscross languages and borders.
+Help make TED accessible to your language! Join our global community of volunteers.
+Location: Online</description>
     </item>
     
   </channel>

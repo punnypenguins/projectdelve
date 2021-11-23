@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>asrophysics on Project Delve</title>
+    <link>http://projectdelve.com/tags/asrophysics/</link>
+    <description>Recent content in asrophysics on Project Delve</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://projectdelve.com/tags/asrophysics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dark Energy Explorers</title>
+      <link>http://projectdelve.com/sciencein/dark-energy-explorers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/sciencein/dark-energy-explorers/</guid>
+      <description>Dark Energy Explorers View the project here.
+Overview The Hobby-Eberly Dark Energy Experiment (HETDEX) is designed to find over one million galaxies that are 9 billion to 11 billion light-years away, yielding the largest map of the universe ever produced. The map will allow HETDEX astronomers to measure how fast the universe was expanding at different times in its history. Changes in the expansion rate will reveal the role of dark energy at different epochs.</description>
+    </item>
+    
+  </channel>
+</rss>

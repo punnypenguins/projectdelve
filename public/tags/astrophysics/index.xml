@@ -7,6 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://projectdelve.com/tags/astrophysics/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Active Asteroids</title>
+      <link>http://projectdelve.com/sciencein/active-asteroids/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/sciencein/active-asteroids/</guid>
+      <description>Active Asteroids View the project here.
+Overview Active Asteroids &amp;ndash; asteroids with comet-like activity such as tails &amp;ndash; are poorly understood in part because so few of these objects have been found. At the time of this project launch, fewer than 30 active asteroids have been found since 1949. Finding more active asteroids will enable scientists to study these enigmatic objects as a population. The implications for science and engineering are far-reaching, including:</description>
+    </item>
+    
+    <item>
       <title>AI4Mars</title>
       <link>http://projectdelve.com/sciencein/ai4mars/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -126,6 +136,16 @@ In computer science, the project is investigating different optimization methods
       <guid>http://projectdelve.com/sciencein/planet-hunters-ngts/</guid>
       <description>Planet Hunters NGTS View the project here.
 Overview The Next-Generation Transit Survey have been searching for transiting exoplanets around the brightest stars in the sky. We need your help sifting through the observations flagged by the computers to search for hidden worlds that might have been missed in the NGTS team&amp;rsquo;s review. Most of the planets in the dataset have likely been found already, but you just might be the first to find a new exoplanet not known before!</description>
+    </item>
+    
+    <item>
+      <title>Planet Hunters TESS</title>
+      <link>http://projectdelve.com/sciencein/planet-hunters-tess/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/sciencein/planet-hunters-tess/</guid>
+      <description>Planet Hunters TESS View the project here.
+Overview The recently launched Transiting Exoplanet Survey Satellite (TESS) is providing us with a huge amount of data that lets us look for planets outside of our own Solar System, including planets that could support life. With your help, we are going to find planets that will help us understand how these extrasolar systems form and evolve over time. The results may even bring us closer to answering the question that we all want to answer: Are we alone in the Universe?</description>
     </item>
     
     <item>
