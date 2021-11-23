@@ -1,5 +1,5 @@
 [![website](https://img.shields.io/website?down_color=critical&down_message=down&up_color=brightgreen&up_message=up&url=https%3A%2F%2Fprojectdelve.com%2F)](https://projectdelve.com/) [![open issues](https://img.shields.io/github/issues-raw/punnypenguins/projectdelve?logoColor=orange)](https://github.com/punnypenguins/projectdelve/issues)
- 
+
 # 📘 README 📘
 
 ![alt text](https://github.com/punnypenguins/projectdelve/blob/main/public/images/project-delve-logo.png)
@@ -23,6 +23,8 @@ In its current iteration, Project Delve holds **six major categories of voluntee
 I will be adding more projects to the site as I find them and as people send them to me. As of right now, the website contains individual listings of every active project I found around the internet except for those from many of the websites in the "Hub Websites" section. I intended to add those as well, but as some of them had hundreds to 1,000+ projects listed, I decided it would be a better user experience if you *didn't* have to scroll through hundreds and hundreds of projects on this one static web page.
 
 So if you're looking for more projects than you find listed individually on here, make sure you check the hub websites out; you'll find many of them probably have exactly the category you were looking for.
+
+For more information on where this project is headed in the future, check out [Project Delve's roadmap]() on GitHub.
 
 # Contributing
 

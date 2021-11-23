@@ -20,9 +20,21 @@ Before you begin, make sure you've met all of the following requirements:
 * You know how to create a [branch](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)
 * You know how to create a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
 
-# Suggesting a project or other addition
+# Adding a new project to the site
 
-TODO
+### To add a new project: 
+1. Make sure you're in your fork of the Project Delve repository.
+2. Create a new **branch**. Name it something that is clear and easy for you to understand, such as "adding-new-project-x" or "[issue number]-project-x".
+3. Follow the [template instructions]() for the category the new project falls under.
+4. Once the file is ready, save your work and push the changes to GitHub.
+5. Open a **pull request** for your work:
+  - Give it a simple title, preferrably containing the project name, please!
+  - You don't have to write a description or summary for the pull request, but please **DO** type inside that box "Issue #[issue-number-here]". This will connect your pull request with the issue you're addressing, and make it easy for me to track changes and close issues instead of leaving one open on accident.
+    - If there's not an issue open already for the project you're adding, please take a minute to open a new issue for it and then connect your pull request to that. Thanks!
+6. Once your pull request has been submitted, I'll review it as soon as I can. If any changes are needed, I'll let you know so you can make them and then have me check again.
+7. If everything is good to go, I'll merge your pull request with the master branch and the new project will be loaded onto the site ASAP!
+
+Thank you so much for helping all of us find more projects to join!
 
 # Suggesting an edit/update
 

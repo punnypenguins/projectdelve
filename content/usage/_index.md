@@ -6,7 +6,9 @@ Project Delve is nice and simple. All content is viewable from one single menu, 
 
 ## Sidebar/Menu Sections
 
-On the left hand side of your screen (if you're on desktop), you'll see the green **sidebar** with various terms in it. These are the website's **main categories**, which are:
+If you're using a desktop computer, you will see a **blue sidebar** on the left side of your screen. If you're on mobile, this sidebar will be tucked into a drop-down menu, which you can find by clicking the symbol with **three horizontal lines** in the top left corner of your device's screen. In each case, you will see that the menu holds a list of several topics.
+
+These items are the website's **main categories**, which are:
 - About
   - Contains the "About" page, how to contribute to Project Delve, and the sources I pulled all these projects from.
 - Distributed Computing Projects
