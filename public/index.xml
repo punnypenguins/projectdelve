@@ -503,7 +503,7 @@ This project aims to improve our understanding of snow depth variability in moun
       <guid>http://projectdelve.com/about/contributing/</guid>
       <description>Contribute via email If you notice any typos, know a project that hasn&amp;rsquo;t been added yet, or have suggestions for the website, email me with all the relevant information and I&amp;rsquo;ll get back with you as soon as I can.
 Contribute via GitHub 🌟 If you&amp;rsquo;re new to using GitHub, I have a guide just for you written here!
-Full contribution guidelines and instructions are available on GitHub in [CONTRIBUTING.md](https://github.com/punnypenguins/projectdelve/blob/main/documentation/CONTRIBUTING.md).</description>
+Full contribution guidelines and instructions are available on GitHub in CONTRIBUTING.md.</description>
     </item>
     
     <item>
@@ -679,6 +679,17 @@ Thousands of volunteers are contributing to this first major digital memorial, w
       <description>Eyes of the Reef Hawaii View the project here.
 Overview The Eyes of the Reef Network is a volunteer member-based organization developed to increase public awareness and engage communities in the monitoring and reporting of coral bleaching and disease, marine invasive species, Crown-of-Thorn Sea Star (COTS) outbreaks and other reef diseases.
 The statewide network is the first tier of a rapid response protocol developed by the Division of Aquatic Resources and the Climate Change and Marine Disease Local Action Strategy, implemented by Reef Check Hawai‘i.</description>
+    </item>
+    
+    <item>
+      <title>Eyewire</title>
+      <link>http://projectdelve.com/sciencein/eyewire/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/sciencein/eyewire/</guid>
+      <description>Eyewire View the project here.
+Overview Eyewire is a game to map the brain. Anyone can play and you need no scientific background. Hundreds of thousands of people from around the world already do. Together we are mapping the 3D structure of neurons and advancing our quest to understand ourselves.
+By joining Eyewire, you can help map the connectome, starting with connections between retinal neurons. Eyewire gameplay advances neuroscience by helping researchers discover how neurons connect and network to process information.</description>
     </item>
     
     <item>
