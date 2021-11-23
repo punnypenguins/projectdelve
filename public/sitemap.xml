@@ -2,19 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://projectdelve.com/humanities/distributed-proofreaders/</loc>
-  </url><url>
-    <loc>http://projectdelve.com/humanities/librivox/</loc>
-  </url><url>
-    <loc>http://projectdelve.com/humanities/map-swipe/</loc>
-  </url><url>
     <loc>http://projectdelve.com/humanities/tag-with-adler/</loc>
   </url><url>
     <loc>http://projectdelve.com/humanities/ted-translate/</loc>
   </url><url>
     <loc>http://projectdelve.com/sciencein/active-asteroids/</loc>
-  </url><url>
-    <loc>http://projectdelve.com/sciencein/angling-for-data/</loc>
   </url><url>
     <loc>http://projectdelve.com/sciencein/buzzy-bee/</loc>
   </url><url>
@@ -86,8 +78,6 @@
   </url><url>
     <loc>http://projectdelve.com/historical/canadian-wildlife/</loc>
   </url><url>
-    <loc>http://projectdelve.com/sciencein/catalina-survey/</loc>
-  </url><url>
     <loc>http://projectdelve.com/categories/</loc>
   </url><url>
     <loc>http://projectdelve.com/scienceout/celebrate-urban-birds/</loc>
@@ -101,8 +91,6 @@
     <loc>http://projectdelve.com/scienceout/budburst-chicago-ecoflora/</loc>
   </url><url>
     <loc>http://projectdelve.com/sciencein/chimp-and-see/</loc>
-  </url><url>
-    <loc>http://projectdelve.com/sciencein/citizen-asas/</loc>
   </url><url>
     <loc>http://projectdelve.com/sciencein/citizen-endo/</loc>
   </url><url>
@@ -164,11 +152,11 @@
   </url><url>
     <loc>http://projectdelve.com/scienceout/eyes-of-the-reef/</loc>
   </url><url>
-    <loc>http://projectdelve.com/humanities/faceresearch/</loc>
-  </url><url>
     <loc>http://projectdelve.com/scienceout/fireballs/</loc>
   </url><url>
     <loc>http://projectdelve.com/historical/public-broadcasting-archives/</loc>
+  </url><url>
+    <loc>http://projectdelve.com/computational/folding-at-home/</loc>
   </url><url>
     <loc>http://projectdelve.com/sciencein/foldit/</loc>
   </url><url>
@@ -179,8 +167,6 @@
     <loc>http://projectdelve.com/sciencein/frogsong/</loc>
   </url><url>
     <loc>http://projectdelve.com/scienceout/frogwatch-usa/</loc>
-  </url><url>
-    <loc>http://projectdelve.com/humanities/gameswithwords/</loc>
   </url><url>
     <loc>http://projectdelve.com/tags/geography/</loc>
   </url><url>
@@ -202,8 +188,6 @@
   </url><url>
     <loc>http://projectdelve.com/tags/ham-radio/</loc>
   </url><url>
-    <loc>http://projectdelve.com/sciencein/hamsci/</loc>
-  </url><url>
     <loc>http://projectdelve.com/computational/help-stop-tb/</loc>
   </url><url>
     <loc>http://projectdelve.com/historical/</loc>
@@ -212,15 +196,15 @@
   </url><url>
     <loc>http://projectdelve.com/historical/hms-nhs/</loc>
   </url><url>
-    <loc>http://projectdelve.com/usage/</loc>
+    <loc>http://projectdelve.com/about/how-to-use-this-site/</loc>
   </url><url>
     <loc>http://projectdelve.com/hubs/</loc>
   </url><url>
     <loc>http://projectdelve.com/tags/hubs/</loc>
   </url><url>
-    <loc>http://projectdelve.com/tags/humanities/</loc>
-  </url><url>
     <loc>http://projectdelve.com/humanities/</loc>
+  </url><url>
+    <loc>http://projectdelve.com/tags/humanities/</loc>
   </url><url>
     <loc>http://projectdelve.com/scienceout/inaturalist/</loc>
   </url><url>
@@ -231,8 +215,6 @@
     <loc>http://projectdelve.com/scienceout/iwitness-pollution-map/</loc>
   </url><url>
     <loc>http://projectdelve.com/tags/k-12/</loc>
-  </url><url>
-    <loc>http://projectdelve.com/humanities/keeping-pace/</loc>
   </url><url>
     <loc>http://projectdelve.com/humanities/labinthewild/</loc>
   </url><url>
@@ -296,8 +278,6 @@
   </url><url>
     <loc>http://projectdelve.com/tags/neurology/</loc>
   </url><url>
-    <loc>http://projectdelve.com/sciencein/new-particle-cern/</loc>
-  </url><url>
     <loc>http://projectdelve.com/historical/nypl-menu/</loc>
   </url><url>
     <loc>http://projectdelve.com/tags/new-zealand-history/</loc>
@@ -313,10 +293,6 @@
     <loc>http://projectdelve.com/sciencein/nfn-tx-and-ok/</loc>
   </url><url>
     <loc>http://projectdelve.com/sciencein/nfn-herbarium/</loc>
-  </url><url>
-    <loc>http://projectdelve.com/sciencein/nfn-invert-time-machine/</loc>
-  </url><url>
-    <loc>http://projectdelve.com/sciencein/nfn-plants-of-arkansas/</loc>
   </url><url>
     <loc>http://projectdelve.com/sciencein/nfn-se-us-biodiversity/</loc>
   </url><url>
@@ -354,8 +330,6 @@
   </url><url>
     <loc>http://projectdelve.com/tags/outdoors/</loc>
   </url><url>
-    <loc>http://projectdelve.com/sciencein/project-panoptes/</loc>
-  </url><url>
     <loc>http://projectdelve.com/historical/war-department-papers/</loc>
   </url><url>
     <loc>http://projectdelve.com/scienceout/budburst-phenology-and-climate/</loc>
@@ -374,11 +348,7 @@
   </url><url>
     <loc>http://projectdelve.com/scienceout/budburst-pollinators-and-climate/</loc>
   </url><url>
-    <loc>http://projectdelve.com/sciencein/pollinatorwatch/</loc>
-  </url><url>
     <loc>http://projectdelve.com/computational/primegrid/</loc>
-  </url><url>
-    <loc>http://projectdelve.com/</loc>
   </url><url>
     <loc>http://projectdelve.com/scienceout/project-feederwatch/</loc>
   </url><url>
@@ -422,13 +392,9 @@
   </url><url>
     <loc>http://projectdelve.com/tags/science/</loc>
   </url><url>
-    <loc>http://projectdelve.com/sciencein/ss-placenta-profiles/</loc>
-  </url><url>
     <loc>http://projectdelve.com/hubs/science-united/</loc>
   </url><url>
     <loc>http://projectdelve.com/hubs/scistarter/</loc>
-  </url><url>
-    <loc>http://projectdelve.com/sciencein/seabird-soundscapes/</loc>
   </url><url>
     <loc>http://projectdelve.com/computational/sidock-at-home/</loc>
   </url><url>
@@ -463,8 +429,6 @@
     <loc>http://projectdelve.com/scienceout/stardust-at-home/</loc>
   </url><url>
     <loc>http://projectdelve.com/historical/stories-of-st-james/</loc>
-  </url><url>
-    <loc>http://projectdelve.com/sciencein/superwasp/</loc>
   </url><url>
     <loc>http://projectdelve.com/sciencein/swipes-for-science/</loc>
   </url><url>
@@ -507,6 +471,8 @@
     <loc>http://projectdelve.com/hubs/volunteerscience/</loc>
   </url><url>
     <loc>http://projectdelve.com/sciencein/weather-rescue-at-sea/</loc>
+  </url><url>
+    <loc>http://projectdelve.com/</loc>
   </url><url>
     <loc>http://projectdelve.com/sciencein/wesselman-woods/</loc>
   </url><url>

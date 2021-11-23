@@ -48,6 +48,17 @@ Eterna is a game that allows players to design RNAs by solving puzzles. Each puz
     </item>
     
     <item>
+      <title>Folding@Home</title>
+      <link>http://projectdelve.com/computational/folding-at-home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/computational/folding-at-home/</guid>
+      <description>PROJECT NAME View the project here.
+Overview Install our software to become a citizen scientist and contribute your compute power to help fight global health threats like COVID19, Alzheimer’s Disease, and cancer!
+Folding@Home began in October 2000 in the lab of Dr. Vijay Pande at Stanford University. Since 2019, the project has been in the hands of Dr. Gregory Bowman, a former Pande Lab graduate student. In addition to the numerous scientists who have worked on the project over the years, F@h has been supported by thousands of dedicated volunteers who have enabled outstanding scientific research and computational achievements.</description>
+    </item>
+    
+    <item>
       <title>GPUGRID.net</title>
       <link>http://projectdelve.com/computational/gpugrid/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -119,17 +130,6 @@ Our governance is shared between people with diabetes and people working on the 
       <description>Quantified Flu View the project here.
 Overview The question we want to answer is: Can the various physiological parameters tracked by our wearables help to predict when we’re getting sick? With the COVID-19 pandemic influencing all of our lives right now, this question seems more timely than ever. But it&amp;rsquo;s not only the pandemic, this question equally applies to the flu and the common cold!
 There is some preliminary data which shows that the data from wearables (like resting heart rate and sleep quality) might be predictive of coming down with a cold.</description>
-    </item>
-    
-    <item>
-      <title>Science Scribbler: Placenta Profiles</title>
-      <link>http://projectdelve.com/sciencein/ss-placenta-profiles/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://projectdelve.com/sciencein/ss-placenta-profiles/</guid>
-      <description>Science Scribbler: Placenta Profiles View the project here.
-Overview Help us understand mitochondrial dynamics in the placenta, and train computers to analyse new data even faster in the future!
-The placenta is the organ that connects a mother to her baby during pregnancy and enables the baby to grow. This vital organ has many essential jobs to do such as transferring oxygen and nutrients from the mother to her growing baby.</description>
     </item>
     
     <item>

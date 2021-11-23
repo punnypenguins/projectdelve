@@ -28,7 +28,7 @@ For more information on where this project is headed in the future, check out [P
 
 # Contributing
 
-The guide to contributing to this project via GitHub has everything you need to know over in [`CONTRIBUTING.md`](https://github.com/punnypenguins/projectdelve/blob/main/documentation/CONTRIBUTING.md)
+The guide to contributing to this project via GitHub has everything you need to know over in `[CONTRIBUTING.md](https://github.com/punnypenguins/projectdelve/blob/main/documentation/CONTRIBUTING.md)`.
 
 If you're not able to edit/contribute via GitHub, you can always [**email me**](kgeerling@protonmail.com) with relevant information and I'll get back with you as soon as I can.
 

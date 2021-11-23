@@ -52,29 +52,6 @@ Sounds easy right?</description>
     </item>
     
     <item>
-      <title>Catalina Outer Solar System Survey</title>
-      <link>http://projectdelve.com/sciencein/catalina-survey/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://projectdelve.com/sciencein/catalina-survey/</guid>
-      <description>Catalina Outer Solar System Survey View the project here.
-Overview For over twenty years the Catalina Sky Survey has been collecting images of the sky night after night. Hidden deep in these images are exotic and primordial solar-system worlds yet to be discovered: Trans-Neptunian Objects (TNOs).
-By looking at images of the same patch of sky over several months, the motion of distant TNOs can be detected. However, computers often make false detections, and this is where you come in!</description>
-    </item>
-    
-    <item>
-      <title>Citizen ASAS-SN</title>
-      <link>http://projectdelve.com/sciencein/citizen-asas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://projectdelve.com/sciencein/citizen-asas/</guid>
-      <description>Citizen ASAS-SN View the project here.
-Overview Classify the light curves of variable stars and help us find the most unusual ones!
-Variable stars are useful astrophysical tools that have been used to study the evolution of stars, the structure of our Galaxy and they also form a rung in the astrophysical distance ladder to nearby star clusters and galaxies.
-The goal of this project is to classify the light curves of variable stars identified in the ASAS-SN g-band data.</description>
-    </item>
-    
-    <item>
       <title>Cosmological jellyfish</title>
       <link>http://projectdelve.com/sciencein/cosmological-jellyfish/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -131,16 +108,6 @@ The November 2021 campaign is using the Constellation Perseus. Check out the dat
     </item>
     
     <item>
-      <title>HamSCI</title>
-      <link>http://projectdelve.com/sciencein/hamsci/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://projectdelve.com/sciencein/hamsci/</guid>
-      <description>HamSCI View the project here.
-Overview Since the beginning of the United States amateur radio service in 1912, amateur radio operators have made significant contributions to radio technology and the understanding of radio science. This work must be continued today, as Part 97 of the FCC rules states that a primary purpose of the amateur radio service is the “Continuation and extension of the amateur&amp;rsquo;s proven ability to contribute to the advancement of the radio art.</description>
-    </item>
-    
-    <item>
       <title>MilkyWay@home</title>
       <link>http://projectdelve.com/computational/milkyway-at-home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -149,16 +116,6 @@ Overview Since the beginning of the United States amateur radio service in 1912,
       <description>MilkyWay@home View the project here.
 Overview Milkyway@Home uses the BOINC platform to harness volunteered computing resources, creating a highly accurate three dimensional model of the Milky Way galaxy using data gathered by the Sloan Digital Sky Survey. This project enables research in both astroinformatics and computer science.
 In computer science, the project is investigating different optimization methods which are resilient to the fault-prone, heterogeneous and asynchronous nature of Internet computing; such as evolutionary and genetic algorithms, as well as asynchronous newton methods.</description>
-    </item>
-    
-    <item>
-      <title>PANOPTES</title>
-      <link>http://projectdelve.com/sciencein/project-panoptes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://projectdelve.com/sciencein/project-panoptes/</guid>
-      <description>Panoptic Astronomical Networked Observatories for a Public Transiting Exoplanets Survey (PANOPTES) View the project here.
-Overview PANOPTES is an open source citizen science project designed to find transiting exoplanets with digital cameras. The goal of PANOPTES is to establish a global network of of robotic cameras run by amateur astronomers and schools (or anyone!) in order to monitor, as continuously as possible, a very large number of stars. For more general information about the project, including the science case and resources for interested individuals, see the project overview.</description>
     </item>
     
     <item>
@@ -265,17 +222,6 @@ Overview On January 15, 2006, the Stardust spacecraft’s sample return capsule 
       <guid>http://projectdelve.com/scienceout/stardust-at-home/</guid>
       <description>Stardust@home View the project here.
 Overview The interstellar dust particles returned to Earth by the Stardust mission are the first such pristine dust particles ever collected in space, and scientists are eager to “get their hands” on them. We estimate that Stardust collected less than 100 interstellar dust particles. They are tiny-only about a micron (a millionth of a meter) in size! These miniscule particles were captured in an aerogel collector about 1,000 square centimeters in size, and in about 150 square centimeters of aluminum metal foils.</description>
-    </item>
-    
-    <item>
-      <title>SuperWASP: Black Hole Hunters</title>
-      <link>http://projectdelve.com/sciencein/superwasp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://projectdelve.com/sciencein/superwasp/</guid>
-      <description>SuperWASP: Black Hole Hunters View the project here.
-Overview any astronomers believe that the Milky Way is teeming with black holes, but so far we have only found a handful. In this project you will search for tell-tale signals that may reveal the hidden black holes in our galaxy.
-Location: Online</description>
     </item>
     
     <item>

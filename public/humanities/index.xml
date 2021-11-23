@@ -1,45 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Humanities Projects on Project Delve</title>
+    <title>Humanities on Project Delve</title>
     <link>http://projectdelve.com/humanities/</link>
-    <description>Recent content in Humanities Projects on Project Delve</description>
+    <description>Recent content in Humanities on Project Delve</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://projectdelve.com/humanities/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>http://projectdelve.com/humanities/distributed-proofreaders/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://projectdelve.com/humanities/distributed-proofreaders/</guid>
-      <description>title = &amp;ldquo;Distributed Proofreaders&amp;rdquo; tags = [&amp;ldquo;humanities&amp;rdquo; &amp;ldquo;online&amp;rdquo;] +++
-PROJECT NAME View the project here.
-Overview Distributed Proofreaders provides a web-based method to ease the conversion of Public Domain books into e-books. By dividing the workload into individual pages, many volunteers can work on a book at the same time, which significantly speeds up the creation process.
-During proofreading, volunteers are presented with a scanned page image and the corresponding OCR text on a single web page.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://projectdelve.com/humanities/librivox/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://projectdelve.com/humanities/librivox/</guid>
-      <description>title = &amp;ldquo;LibriVox&amp;rdquo; tags = [&amp;ldquo;humanities&amp;rdquo; &amp;ldquo;online&amp;rdquo;] +++
-PLibriVox View the project here.
-Overview LibriVox volunteers record chapters of books in the public domain, and then we release the audio files back onto the net for free. All our audio is in the public domain, so you may use it for whatever purpose you wish. Please note: Our readers are free to choose the books they wish to record. LibriVox sees itself as a library of audiobooks.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://projectdelve.com/humanities/map-swipe/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://projectdelve.com/humanities/map-swipe/</guid>
-      <description>title = &amp;ldquo;Map Swipe&amp;rdquo; tags = [&amp;ldquo;humanities&amp;rdquo; &amp;ldquo;geography&amp;rdquo; &amp;ldquo;online&amp;rdquo;] +++
-Map Swipe View the project here.
-Overview MapSwipe is an open-source mobile app that is making mapping around the world more coordinated and efficient. We believe that anyone, anywhere should be able to contribute to the Missing Maps project. We aim to proactively map places in the world that are most vulnerable to crisis before a crisis happens. From the comfort of a mobile phone, MapSwipe allows any individual to support humanitarian response in three simple steps:</description>
-    </item>
-    
     <item>
       <title></title>
       <link>http://projectdelve.com/humanities/tag-with-adler/</link>
@@ -62,40 +28,6 @@ As museums add collections online, the language that describes the objects - kno
 Translate TED Talks View the project here.
 Overview TED Translators are a global community of volunteers who subtitle TED Talks, and enable the inspiring ideas in them to crisscross languages and borders.
 Help make TED accessible to your language! Join our global community of volunteers.
-Location: Online</description>
-    </item>
-    
-    <item>
-      <title>FaceResearch.org</title>
-      <link>http://projectdelve.com/humanities/faceresearch/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://projectdelve.com/humanities/faceresearch/</guid>
-      <description>FaceResearch.org View the project here.
-Overview FaceResearch.org allows you to participate in short online psychology experiments, most of which are about how we perceive faces and voices. All experiments can be found listed here, and you can play with face demos here.
-In addition to participating in face perception experiments, you can also complete lifestyle and personality questionnaires about characteristics that may be associated with face and voice perception and see how you compare to others.</description>
-    </item>
-    
-    <item>
-      <title>GamesWithWords.org</title>
-      <link>http://projectdelve.com/humanities/gameswithwords/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://projectdelve.com/humanities/gameswithwords/</guid>
-      <description>GamesWithWords.org View the project here.
-Overview GamesWithWords.org is a Web-based research laboratory. The quizzes and projects are research studies probing the nature of language.
-Current Quizzes:
- Which English - Help us map the grammar of English around the world? See our best guess as to which world English you speak. The Vocab Quiz - How many words do you know? See your results at the end.  Location: Online</description>
-    </item>
-    
-    <item>
-      <title>Keeping Pace</title>
-      <link>http://projectdelve.com/humanities/keeping-pace/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://projectdelve.com/humanities/keeping-pace/</guid>
-      <description>Keeping Pace View the project here.
-Overview Keeping Pace seeks to study data about how we move around, to understand how seasons and local environment influence our movement patterns.
 Location: Online</description>
     </item>
     
