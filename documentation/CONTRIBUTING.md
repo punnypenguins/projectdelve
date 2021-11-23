@@ -62,7 +62,7 @@ To run this site via localhost on your computer, first make sure that you've eit
 
 Once you're sure the site files are all locally on your device, follow the instructions below for installing Hugo on whichever operating system you're using. I've only written instructions for quick installation via package managers; if you want to install Hugo via Tarball or building from the source, you can follow the steps listed in [Hugo's installation guide](https://gohugo.io/getting-started/installing/).
 
-🌟 `If you're a fan of using [Docker](https://www.docker.com/), Hugo doesn't have an *official* image but [*does* recommend this one](https://hub.docker.com/r/klakegg/hugo/) if you wish to go the Docker route.``
+🌟 If you're a fan of using [Docker](https://www.docker.com/), Hugo doesn't have an *official* image but [*does* recommend this one](https://hub.docker.com/r/klakegg/hugo/) if you wish to go the Docker route.
 
 ## 1. Install Hugo
 
@@ -99,7 +99,7 @@ Once you're sure you're in the correct directory, run `hugo server` in the comma
 
 Until you end this command or quit the shell process, you will now be able to see the Project Delve site at [http://localhost:1313/](http://localhost:1313/) and all changes you make to the local files will be visible there in real time.
 
-`🌟 For more information on running Hugo locally, see [hugo server](https://gohugo.io/commands/hugo_server/) in Hugo's documentation.`
+🌟 For more information on running Hugo locally, see [hugo server](https://gohugo.io/commands/hugo_server/) in Hugo's documentation.
 
 
 # Additional resources
