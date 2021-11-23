@@ -3,7 +3,7 @@ title = "Eyewire"
 tags = ["science" "biology" "medical" "neurology" "online"]
 +++
 
-## PROJECT NAME
+## Eyewire
 
 View the project [**here**](https://eyewire.org/explore).
 
