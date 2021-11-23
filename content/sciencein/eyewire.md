@@ -18,4 +18,4 @@ Players in Eyewire have charted never-before-known circuits and discovered six n
 > You can read a great explanation of the [science of brain mapping](https://science.eyewire.org/) that Eyewire is based on, and explore [neurons discovered by people like you](http://museum.eyewire.org/?neurons=26065,20117,26051,17212), too!
 
 ### Location:
-TODO
+Online
