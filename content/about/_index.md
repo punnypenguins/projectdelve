@@ -9,7 +9,7 @@ weight = 1
 
 This website has two driving goals:
 1. Provide a simple, singular space where students, individuals, and groups can easily find currently-available volunteer science and historical data opportunities
-2. Work to increase scientific, experiental, and volunteering [accessibility](https://www.seewritehear.com/learn/what-is-accessibility/) for those often left behind—disabled individuals, students, rural citizens, low-income households, and the elderly. *(Read more about [these access issues]() and [how I try to combat them]() in this particular project)*
+2. Work to increase scientific, experiental, and volunteering accessibility for those often left behind—disabled individuals, students, rural citizens, low-income households, and the elderly. *(Read more about [these access issues]() and [how I try to combat them]() in this particular project)*
 
 ### Brief history
 
