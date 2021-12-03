@@ -11,6 +11,8 @@ There are two paths to choose between if you plan to contribute...
 
 This project is primarily written in [Markdown](https://www.markdownguide.org/basic-syntax/), and its front matter formatting follows [Hugo's](https://gohugo.io/content-management/front-matter/) syntax.
 
+The shade of blue this site uses as its main color is `#1c90f3`. Please use that hex code for reference if you're working on any new site elements or logo/site icon improvements.
+
 
 # Getting Started
 
