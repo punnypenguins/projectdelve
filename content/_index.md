@@ -1,5 +1,5 @@
 +++
-title = "Welcome to the site!"
+title = "Home"
 chapter = true
 +++
 

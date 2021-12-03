@@ -1,7 +1,8 @@
 +++
 title = "Why this site matters"
+chapter = true
 weight = 8
 +++
 
-# TODO
+# This website matters, and I'll explainin why.
 TODO
