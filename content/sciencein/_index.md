@@ -1,6 +1,7 @@
 +++
 title = "Online Scientific Projects"
 chapter = true
+weight = 6
 +++
 
 # Scientific projects to do at home

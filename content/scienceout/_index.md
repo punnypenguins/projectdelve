@@ -1,6 +1,7 @@
 +++
 title = "Outdoor Scientific Projects"
 chapter = true
+weight = 7
 +++
 
 # Scientific projects to do outdoors

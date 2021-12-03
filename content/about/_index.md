@@ -1,5 +1,6 @@
 +++
 title = "About"
+weight = 1
 +++
 
 ## The Project

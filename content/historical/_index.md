@@ -1,6 +1,7 @@
 +++
 title = "Historical Projects"
 chapter = true
+weight = 3
 +++
 
 # Historical Projects

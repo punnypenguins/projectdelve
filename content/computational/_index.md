@@ -1,6 +1,7 @@
 +++
 title = "Distributed Computing Projects"
 chapter = true
+weight = 2
 +++
 
 # Distributed Computing Projects
