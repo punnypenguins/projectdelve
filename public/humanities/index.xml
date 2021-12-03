@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Humanities on Project Delve</title>
+    <title>Humanities Projects on Project Delve</title>
     <link>http://projectdelve.com/humanities/</link>
-    <description>Recent content in Humanities on Project Delve</description>
+    <description>Recent content in Humanities Projects on Project Delve</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://projectdelve.com/humanities/index.xml" rel="self" type="application/rss+xml" />
     <item>

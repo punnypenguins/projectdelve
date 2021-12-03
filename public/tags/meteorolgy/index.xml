@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>meteorolgy on Project Delve</title>
+    <link>http://projectdelve.com/tags/meteorolgy/</link>
+    <description>Recent content in meteorolgy on Project Delve</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://projectdelve.com/tags/meteorolgy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meteororum ad Extremum Terrae</title>
+      <link>http://projectdelve.com/sciencein/meteorum-ad-extremum-terrae/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/sciencein/meteorum-ad-extremum-terrae/</guid>
+      <description>Meteororum ad Extremum Terrae View the project here.
+Overview Meteororum ad Extremum Terrae (MET - Meteorology of the End of the World) aims to recover weather and oceanic data record in Argentina since at least the beginning of the XIXth Century. The first currently known records date back to 1801. Other than the Oficina Meteorológica Argentina, later Servicio Meteorológico Nacional, many public and private organizations have registered weather data. Argentine Navy ships, lighthouses, railway stations, &amp;ldquo;estancias&amp;rdquo; are among many data sources.</description>
+    </item>
+    
+  </channel>
+</rss>

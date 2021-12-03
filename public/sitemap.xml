@@ -4,6 +4,40 @@
   <url>
     <loc>http://projectdelve.com/about/</loc>
   </url><url>
+    <loc>http://projectdelve.com/computational/</loc>
+  </url><url>
+    <loc>http://projectdelve.com/historical/</loc>
+  </url><url>
+    <loc>http://projectdelve.com/hubs/</loc>
+  </url><url>
+    <loc>http://projectdelve.com/humanities/</loc>
+  </url><url>
+    <loc>http://projectdelve.com/sciencein/</loc>
+  </url><url>
+    <loc>http://projectdelve.com/scienceout/</loc>
+  </url><url>
+    <loc>http://projectdelve.com/this-site-matters/</loc>
+  </url><url>
+    <loc>http://projectdelve.com/sciencein/superwasp-black-hole-hunters/</loc>
+  </url><url>
+    <loc>http://projectdelve.com/this-site-matters/disabled-access/</loc>
+  </url><url>
+    <loc>http://projectdelve.com/this-site-matters/equity-vs-equality/</loc>
+  </url><url>
+    <loc>http://projectdelve.com/this-site-matters/financial-inequality-us/</loc>
+  </url><url>
+    <loc>http://projectdelve.com/this-site-matters/internet-access-inequity/</loc>
+  </url><url>
+    <loc>http://projectdelve.com/this-site-matters/rural-access-issues/</loc>
+  </url><url>
+    <loc>http://projectdelve.com/this-site-matters/scientific-access-issues/</loc>
+  </url><url>
+    <loc>http://projectdelve.com/this-site-matters/senior-friendly-content/</loc>
+  </url><url>
+    <loc>http://projectdelve.com/this-site-matters/technology-access-issues/</loc>
+  </url><url>
+    <loc>http://projectdelve.com/this-site-matters/what-is-accessibility/</loc>
+  </url><url>
     <loc>http://projectdelve.com/sciencein/active-asteroids/</loc>
   </url><url>
     <loc>http://projectdelve.com/historical/addressing-health/</loc>
@@ -106,8 +140,6 @@
   </url><url>
     <loc>http://projectdelve.com/tags/distributed-computing/</loc>
   </url><url>
-    <loc>http://projectdelve.com/computational/</loc>
-  </url><url>
     <loc>http://projectdelve.com/historical/diy-history/</loc>
   </url><url>
     <loc>http://projectdelve.com/scienceout/dragonfly-mercury/</loc>
@@ -174,23 +206,21 @@
   </url><url>
     <loc>http://projectdelve.com/computational/gpugrid/</loc>
   </url><url>
+    <loc>http://projectdelve.com/sciencein/gwitchhunters/</loc>
+  </url><url>
     <loc>http://projectdelve.com/tags/ham-radio/</loc>
   </url><url>
     <loc>http://projectdelve.com/computational/help-stop-tb/</loc>
-  </url><url>
-    <loc>http://projectdelve.com/historical/</loc>
   </url><url>
     <loc>http://projectdelve.com/tags/history/</loc>
   </url><url>
     <loc>http://projectdelve.com/historical/hms-nhs/</loc>
   </url><url>
+    <loc>http://projectdelve.com/</loc>
+  </url><url>
     <loc>http://projectdelve.com/about/how-to-use-this-site/</loc>
   </url><url>
-    <loc>http://projectdelve.com/hubs/</loc>
-  </url><url>
     <loc>http://projectdelve.com/tags/hubs/</loc>
-  </url><url>
-    <loc>http://projectdelve.com/humanities/</loc>
   </url><url>
     <loc>http://projectdelve.com/tags/humanities/</loc>
   </url><url>
@@ -236,9 +266,13 @@
   </url><url>
     <loc>http://projectdelve.com/tags/medical/</loc>
   </url><url>
+    <loc>http://projectdelve.com/tags/meteorolgy/</loc>
+  </url><url>
     <loc>http://projectdelve.com/tags/meteorology/</loc>
   </url><url>
     <loc>http://projectdelve.com/sciencein/m-a-e-terrae/</loc>
+  </url><url>
+    <loc>http://projectdelve.com/sciencein/meteorum-ad-extremum-terrae/</loc>
   </url><url>
     <loc>http://projectdelve.com/scienceout/mexican-coral-reefs/</loc>
   </url><url>
@@ -268,7 +302,11 @@
   </url><url>
     <loc>http://projectdelve.com/sciencein/nqg-mourning-doves/</loc>
   </url><url>
+    <loc>http://projectdelve.com/sciencein/nest-quest-go-sparrows/</loc>
+  </url><url>
     <loc>http://projectdelve.com/tags/neurology/</loc>
+  </url><url>
+    <loc>http://projectdelve.com/sciencein/new-particle-search-cern/</loc>
   </url><url>
     <loc>http://projectdelve.com/historical/nypl-menu/</loc>
   </url><url>
@@ -308,8 +346,6 @@
   </url><url>
     <loc>http://projectdelve.com/tags/online/</loc>
   </url><url>
-    <loc>http://projectdelve.com/sciencein/</loc>
-  </url><url>
     <loc>http://projectdelve.com/sciencein/open-insulin/</loc>
   </url><url>
     <loc>http://projectdelve.com/computational/openpandemics-covid19/</loc>
@@ -317,8 +353,6 @@
     <loc>http://projectdelve.com/tags/ornithology/</loc>
   </url><url>
     <loc>http://projectdelve.com/tags/oudoors/</loc>
-  </url><url>
-    <loc>http://projectdelve.com/scienceout/</loc>
   </url><url>
     <loc>http://projectdelve.com/tags/outdoors/</loc>
   </url><url>
@@ -341,6 +375,8 @@
     <loc>http://projectdelve.com/sciencein/plasticorigins/</loc>
   </url><url>
     <loc>http://projectdelve.com/scienceout/budburst-pollinators-and-climate/</loc>
+  </url><url>
+    <loc>http://projectdelve.com/sciencein/prickly-pear-project-kenya/</loc>
   </url><url>
     <loc>http://projectdelve.com/computational/primegrid/</loc>
   </url><url>
@@ -389,6 +425,8 @@
     <loc>http://projectdelve.com/hubs/science-united/</loc>
   </url><url>
     <loc>http://projectdelve.com/hubs/scistarter/</loc>
+  </url><url>
+    <loc>http://projectdelve.com/sciencein/seed-sleuth/</loc>
   </url><url>
     <loc>http://projectdelve.com/computational/sidock-at-home/</loc>
   </url><url>
@@ -471,8 +509,6 @@
     <loc>http://projectdelve.com/hubs/volunteerscience/</loc>
   </url><url>
     <loc>http://projectdelve.com/sciencein/weather-rescue-at-sea/</loc>
-  </url><url>
-    <loc>http://projectdelve.com/</loc>
   </url><url>
     <loc>http://projectdelve.com/sciencein/wesselman-woods/</loc>
   </url><url>

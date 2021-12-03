@@ -4,7 +4,126 @@
 	"title": "About",
 	"tags": [],
 	"description": "",
-	"content": "The Project Project Delve was originally conceived as a one-stop-shop where people could find only active distributed computing and citizen science projects, and find all of them—no more needing to search google, click through pages of listings on various project hub sites, or clicking through fifty links just to find that all but seven of them were months or years out of date.\nThe point is, I got frustrated, decided to do something about it, taught myself to build a site, and threw this whole thing together in about a month.\nAs I started to build the site in earnest, I came across so many other online volunteer projects for historical records, media archives, and fields in the humanities, that I decided to expand the scope of Project Delve to include those too.\nIn its current iteration, Project Delve holds six major categories of volunteer projects:\n Distributed computing projects Historical record and archive projects Hub websites that host or point you toward many more projects Projects from various fields in the humanities Citizen science projects that can be done on devices alone Citizen science projects that require you to go outside at least once  I will be adding more projects to the site as I find them and as people send them to me. As of right now, the website contains individual listings of every active project I found around the internet except for those from many of the websites in the \u0026ldquo;Hub Websites\u0026rdquo; section. I intended to add those as well, but as some of them had hundreds to 1,000+ projects listed, I decided it would be a better user experience if you didn\u0026rsquo;t have to scroll through hundreds and hundreds of projects on this one static web page.\nSo if you\u0026rsquo;re looking for more projects than you find listed individually on here, make sure you check the hub websites out; you\u0026rsquo;ll find many of them probably have exactly the category you were looking for.\nThe Creator I\u0026rsquo;m Katie. You don\u0026rsquo;t need to know about me, because the point of this website is—shocking, I know—the actual website. But if you\u0026rsquo;re looking to get in contact with me, or want to see my other work, you can follow the links below.\n LinkedIn GitHub Blog My Ko-fi My Email  "
+	"content": "The Project Project goals This website has two driving goals:\n Provide a simple, singular space where students, individuals, and groups can easily find currently-available volunteer science and historical data opportunities Work to increase scientific, experiental, and volunteering accessibility for those often left behind—disabled individuals, students, rural citizens, low-income households, and the elderly. (Read more about these access issues and how I try to combat them in this particular project)  Brief history Project Delve was originally conceived as a one-stop-shop where people could find only active distributed computing and citizen science projects, and find all of them—no more needing to search google, click through pages of listings on various project hub sites, or clicking through fifty links just to find that all but seven of them were months or years out of date.\nThe point is, I got frustrated, decided to do something about it, taught myself to build a site, and threw this whole thing together in about a month.\nAs I started to build the site in earnest, I came across so many other online volunteer projects for historical records, media archives, and fields in the humanities, that I decided to expand the scope of Project Delve to include those too.\nCurrent project overview In its current iteration, Project Delve holds six major categories of volunteer projects:\n Distributed computing projects Historical record and archive projects Hub websites that host or point you toward many more projects Projects from various fields in the humanities Citizen science projects that can be done on devices alone Citizen science projects that require you to go outside at least once  I will be adding more projects to the site as I find them and as people send them to me. As of right now, the website contains individual listings of every active project I found around the internet except for those from many of the websites in the \u0026ldquo;Hub Websites\u0026rdquo; section. I intended to add those as well, but as some of them had hundreds to 1,000+ projects listed, I decided it would be a better user experience if you didn\u0026rsquo;t have to scroll through hundreds and hundreds of projects on this one static web page.\nSo if you\u0026rsquo;re looking for more projects than you find listed individually on here, make sure you check those hub websites out; you\u0026rsquo;ll find many of them probably have exactly the category you were looking for.\nThe Creator I\u0026rsquo;m Katie. You don\u0026rsquo;t need to know about me, because the point of this website is—shocking, I know—the actual website. But if you\u0026rsquo;re looking to get in contact with me, or want to see my other work, you can follow the links below.\n Online resume LinkedIn GitHub Blog My Ko-fi My Email  "
+},
+{
+	"uri": "http://projectdelve.com/computational/",
+	"title": "Distributed Computing Projects",
+	"tags": [],
+	"description": "",
+	"content": "Distributed Computing Projects This section has all active volunteer distributed computing projects, which ask people to volunteer some of their computers' background processing power for researchers to use in their efforts to crunch massive data sets, run mathematical simulations, and perform other computations.\nNOTE: Many of these projects are built with BOINC, which has certain system requirements for the devices it can run on. To see if your device meets them, you can check the specifications here.\nLearn about distributed Computing  A hideously ugly but still solid page on it from a 2001 Stanford computer science course Solid and detailed summary from Science Direct (available for PDF download AND automatic adding to Mendeley!) Detailed guide from IBM Distributed Computing (journal) on Springer Khan Academy\u0026rsquo;s AP Computer Science section on distributed computing BOINC, from Berkeley, the backbone of most scientific distributed computing projects Yale Computer Science\u0026rsquo;s page on distributed computing Wikipedia\u0026rsquo;s list of distributed computing projects This not-up-to-date but still semi-relevant https://www.distributedcomputing.info/ website  "
+},
+{
+	"uri": "http://projectdelve.com/historical/",
+	"title": "Historical Projects",
+	"tags": [],
+	"description": "",
+	"content": "Historical Projects This section has all active volunteer historical records and archives projects that people can contribute to from home.\n"
+},
+{
+	"uri": "http://projectdelve.com/hubs/",
+	"title": "Hub Websites",
+	"tags": [],
+	"description": "",
+	"content": "Hub Websites This section contains the websites that are hubs or platforms for multiple projects.\n"
+},
+{
+	"uri": "http://projectdelve.com/humanities/",
+	"title": "Humanities Projects",
+	"tags": [],
+	"description": "",
+	"content": "Humanities Projects This section has all active volunteer projects for humanities disciplines (linguistics, sociology, etc.) that people can contribute to from home.\n"
+},
+{
+	"uri": "http://projectdelve.com/sciencein/",
+	"title": "Online Scientific Projects",
+	"tags": [],
+	"description": "",
+	"content": "Scientific projects to do at home This section has all active volunteer citizen science projects that can be contributed to online or at home.\n"
+},
+{
+	"uri": "http://projectdelve.com/scienceout/",
+	"title": "Outdoor Scientific Projects",
+	"tags": [],
+	"description": "",
+	"content": "Scientific projects to do outdoors This section has all active volunteer citizen science projects that require at least some outdoor time, from backyard observations all the way to detailed surveys of endangered plants in specific areas and snow level monitoring in mountainous areas.\n"
+},
+{
+	"uri": "http://projectdelve.com/this-site-matters/",
+	"title": "Why this site matters",
+	"tags": [],
+	"description": "",
+	"content": "This website matters, and I\u0026rsquo;ll explainin why. TODO\n"
+},
+{
+	"uri": "http://projectdelve.com/sciencein/superwasp-black-hole-hunters/",
+	"title": "",
+	"tags": [],
+	"description": "",
+	"content": "title = \u0026ldquo;SuperWASP: Black Hole Hunters\u0026rdquo; tags = [\u0026ldquo;science\u0026rdquo; \u0026ldquo;astronomy\u0026rdquo; \u0026ldquo;physics\u0026rdquo; \u0026ldquo;online\u0026rdquo;] +++\nSuperWASP: Black Hole Hunters View the project here.\nOverview SuperWASP is the Wide Angle Search for Planets; due to the combination of sky coverage (all latitudes above and below the Galactic plane), observing cadence (how regularly each star is observed) and long temporal baseline (the overall lengths of the lightcurves for each star) the archive is the ideal place to start searching for periodic lensing on the timescales of hours to years.\nThe signals you\u0026rsquo;re looking for are extremely rare. Even though we think there are lots of hidden black holes in our galaxy, only a handful will be orbiting in a plane that means they pass in front of their companion star when viewed from the Earth using SuperWASP. The rarity of these perfectly aligned systems means we will be lucky if we find a handful of signals among the millions of stellar lightcurves that SuperWASP has assembled. So far, nobody has seen conclusive evidence of a self-lensing signal from a black hole. If you help to find one you will be making science history!\nLocation: Online\n"
+},
+{
+	"uri": "http://projectdelve.com/this-site-matters/disabled-access/",
+	"title": "",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://projectdelve.com/this-site-matters/equity-vs-equality/",
+	"title": "",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://projectdelve.com/this-site-matters/financial-inequality-us/",
+	"title": "",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://projectdelve.com/this-site-matters/internet-access-inequity/",
+	"title": "",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://projectdelve.com/this-site-matters/rural-access-issues/",
+	"title": "",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://projectdelve.com/this-site-matters/scientific-access-issues/",
+	"title": "",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://projectdelve.com/this-site-matters/senior-friendly-content/",
+	"title": "",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://projectdelve.com/this-site-matters/technology-access-issues/",
+	"title": "",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://projectdelve.com/this-site-matters/what-is-accessibility/",
+	"title": "Accessibility Defined",
+	"tags": [],
+	"description": "",
+	"content": "What is accessibility? Wikipedia:\nMy favorite one-page summary: https://www.seewritehear.com/learn/what-is-accessibility/\n"
 },
 {
 	"uri": "http://projectdelve.com/sciencein/active-asteroids/",
@@ -291,7 +410,7 @@
 	"title": "Contribute",
 	"tags": [],
 	"description": "",
-	"content": "Contribute via email If you notice any typos, know a project that hasn\u0026rsquo;t been added yet, or have suggestions for the website, email me with all the relevant information and I\u0026rsquo;ll get back with you as soon as I can.\nContribute via GitHub 🌟 If you\u0026rsquo;re new to using GitHub, I have a guide just for you written here!\nFull contribution guidelines and instructions are available on GitHub in CONTRIBUTING.md.\nIf you already know how to use GitHub, you can check out open issues for this site\u0026rsquo;s repository and see if there are any you can help with.\nDonate I\u0026rsquo;m not trying to make any profit off this site, but it does cost bit of money to host it and purchase the domain name. If you feel like helping out with the site maintenance costs, or just want to toss me a little thank-you tip, you can do so over on my Ko-fi page.\n"
+	"content": "Contribute via email If you notice any typos, know a project that hasn\u0026rsquo;t been added yet, or have suggestions for the website, email me with all the relevant information and I\u0026rsquo;ll get back with you as soon as I can.\nContribute via GitHub 🌟 If you\u0026rsquo;re new to using GitHub, I have a guide just for you written here!\nFull contribution guidelines and instructions are available on GitHub in CONTRIBUTING.md.\nIf you already know how to use GitHub, you can check out open issues for this site\u0026rsquo;s repository and see if there are any you can help with.\nDonate I\u0026rsquo;m not trying to make any profit off this site, but it does cost money to host it and hold on to its domain name. If you feel like helping out with the site maintenance costs, or just want to toss me a little thank-you tip, you can do so over on my Ko-fi page.\n"
 },
 {
 	"uri": "http://projectdelve.com/sciencein/cosmological-jellyfish/",
@@ -362,13 +481,6 @@
 	"tags": [],
 	"description": "",
 	"content": ""
-},
-{
-	"uri": "http://projectdelve.com/computational/",
-	"title": "Distributed Computing Projects",
-	"tags": [],
-	"description": "",
-	"content": "Distributed Computing Projects This section has all active volunteer distributed computing projects, which ask people to volunteer some of their computers' background processing power for researchers to use in their efforts to crunch massive data sets, run mathematical simulations, and perform other computations.\nNOTE: Many of these projects are built with BOINC, which has certain system requirements for the devices it can run on. To see if your device meets them, you can check the specifications here.\nLearn about distributed Computing  A hideously ugly but still solid page on it from a 2001 Stanford computer science course Solid and detailed summary from Science Direct (available for PDF download AND automatic adding to Mendeley!) Detailed guide from IBM Distributed Computing (journal) on Springer Khan Academy\u0026rsquo;s AP Computer Science section on distributed computing BOINC, from Berkeley, the backbone of most scientific distributed computing projects Yale Computer Science\u0026rsquo;s page on distributed computing Wikipedia\u0026rsquo;s list of distributed computing projects This not-up-to-date but still semi-relevant https://www.distributedcomputing.info/ website  "
 },
 {
 	"uri": "http://projectdelve.com/historical/diy-history/",
@@ -602,6 +714,13 @@
 	"content": "GPUGRID.net View the project here.\nOverview GPUGRID.net is a distributed computing infrastructure devoted to biomedical research. Thanks to the contribution of volunteers, GPUGRID scientists can perform molecular simulations to understand the function of proteins in health and disease.\nThis is a volunteer distributed computing project for biomedical research from the Universitat Pompeu Fabra in Barcelona (Spain). GPUGRID is made of many graphics cards (GPUs) joined together to deliver high-performance all-atom biomolecular simulations. The molecular simulations performed by our volunteers are some of the most common types performed by scientists in the field, but they are also some of the most computationally demanding and usually require a supercomputer. Running GPUGRID on GPUs innovates volunteer computing by delivering supercomputing class applications on a cost effective infrastructure which will greatly impact the way biomedical research is performed.\nRuns on:  Linux MacOS Windows  "
 },
 {
+	"uri": "http://projectdelve.com/sciencein/gwitchhunters/",
+	"title": "GWitchHunters",
+	"tags": ["science", "physics", "online"],
+	"description": "",
+	"content": "GWitchHunters View the project here.\nOverview GWITCHHUNTERS aims at improving the performance of current Gravitational Wave detectors in the experimental study of the Universe. Such instruments have reached extraordinary sensitivities to accomplish this task, but they are also very delicate and prone to spurious disturbances of non-astrophysical origin. Our goal is to better understand their disturbances and find new solutions to them.\nWe are a team of researchers devoted to this very challenging task, involving state of the art technologies and analysis methods. It is not a simple one though, because of the extreme complexity of the apparatuses and their interconnections. For this reason, we need your help to join us in the exciting endeavour of Gravitational Wave research!\nLocation: Online\n"
+},
+{
 	"uri": "http://projectdelve.com/tags/ham-radio/",
 	"title": "ham radio",
 	"tags": [],
@@ -614,13 +733,6 @@
 	"tags": ["distributed computing", "biology", "chemistry", "medical"],
 	"description": "",
 	"content": "Help Stop TB View the project here.\nOverview Tuberculosis (TB) is one of the world\u0026rsquo;s most dangerous diseases, and has plagued humans for thousands of years. About one-third of the world\u0026rsquo;s population harbors the TB bacterium, with 1.5 million people dying in 2014 alone, and the World Health Organization now ranks TB alongside HIV as the world\u0026rsquo;s deadliest infectious disease. Through Help Stop TB, researchers are using World Community Grid to help fight this deadly disease.\nAlthough a vaccine and several drugs have been developed to help combat TB, the TB bacterium has been evolving resistance to available treatments. Drug treatment can last up to two years, but when patients interrupt or discontinue treatment, the bacteria can develop resistance. This, along with inconsistent availability of drugs, and increased risk of infection for HIV patients with weakened immune systems, have all contributed to a resurgence of the disease. Nearly half of European cases are now resistant to at least one drug, and 4% of all cases worldwide are resistant to a combination of drugs.\nThe bacterium has an unusual coat which protects it from many drugs and the patient\u0026rsquo;s immune system. Among the fats, sugars and proteins in this coat, the TB bacterium contains a type of fatty molecules called mycolic acids. Help Stop TB will use the massive amount of computing power donated by World Community Grid members to simulate the behavior of these molecules in their many configurations to better understand how they offer protection to the TB bacteria. Scientists hope to use the resulting information to finally develop better treatments for this deadly disease.\nRuns on:  Linux MacOS Windows  "
-},
-{
-	"uri": "http://projectdelve.com/historical/",
-	"title": "Historical Projects",
-	"tags": [],
-	"description": "",
-	"content": "Historical Projects This section has all active volunteer historical records and archives projects that people can contribute to from home.\n"
 },
 {
 	"uri": "http://projectdelve.com/tags/history/",
@@ -637,6 +749,13 @@
 	"content": "HMS NHS: The Nautical Health Service View the project here.\nOverview Transcribing a hundred years of seafarer\u0026rsquo;s medical data from the Dreadnought Seamen\u0026rsquo;s Hospital in Greenwich, 1826-1930.\n\u0026lsquo;HMS NHS: The Nautical Health Service\u0026rsquo;, refers to the records of the Dreadnought Seamen’s Hospital at Greenwich. This was the main clinical site of the Seamen’s Hospital Society (now Seafarer’s Hospital Society), founded with the philanthropic mission of providing relief to sick and injured seafarers of all nations. Throughout the period 1821-1870 it was a floating hospital, based in three successive converted warships, the first named Grampus and later HMS Dreadnought, a veteran of the battle of Trafalgar. It then moved on land and until 1986 occupied the buildings which are now a student hub for the University of Greenwich.\nThe Admissions Registers we are transcribing include details such as a seafarer\u0026rsquo;s name, age and place of birth, rank, employer and last vessel served on. Medical information includes dates of admission and discharge, medical condition, illness or injury and, at discharge, whether they were cured or not! Reflecting the international traffic of the port of London, the patients were seafarers from all over the globe. Casualties from local emergencies, among them women and children, were also admitted, as were naval personnel during wartime.\nTraditionally used by family historians to trace individual maritime ancestors, the records also have significant research potential, including the history of medicine and diseases and the evolution of treatment of specific illnesses and injuries within the maritime workforce. They also show which illnesses were most prevalent in seaman returning from specific parts of the world, together with an almost unlimited number of case studies for examining how treatments changed in response to advances in medical knowledge, and the effect this had on recovery times. In addition, the records also offer additional perspectives on diverse subjects, such as the history of black and Asian communities within the maritime world. Viewed quantitatively, they show the variety and prevalence of disease, injuries and common ailments in the merchant navy for over a hundred years.\nLocation: Online\n"
 },
 {
+	"uri": "http://projectdelve.com/",
+	"title": "Home",
+	"tags": [],
+	"description": "",
+	"content": "Welcome to the site! Project Delve is a database that helps people find every currently-active distributed computing, citizen science, volunteer archivist, volunteer humanities research project you can do on the internet or remotely.\nHow do I use the site? Project background View GitHub repository So who built this thing, anyway? Most recent update: December 3, 2021\n"
+},
+{
 	"uri": "http://projectdelve.com/about/how-to-use-this-site/",
 	"title": "How to use this site",
 	"tags": [],
@@ -644,22 +763,8 @@
 	"content": "Project Delve is nice and simple. All content is viewable from one single menu, so you can\u0026rsquo;t get lost.\nSidebar/Menu Sections If you\u0026rsquo;re using a desktop computer, you will see a blue sidebar on the left side of your screen. If you\u0026rsquo;re on mobile, this sidebar will be tucked into a drop-down menu, which you can find by clicking the symbol with three horizontal lines in the top left corner of your device\u0026rsquo;s screen. In each case, you will see that the menu holds a list of several topics.\nThese items are the website\u0026rsquo;s main categories, which are:\n About  Contains the \u0026ldquo;About\u0026rdquo; page, how to contribute to Project Delve, and the sources I pulled all these projects from.   Distributed Computing Projects Historical Projects Humanities Projects Online Scientific Projects Outdoor Scientific Projects Project Hub Websites  Contains entries for websites that are not projects themselves but instead host or link to many projects. Some are simply project lists, and some are project hubs that you can log into.    All you need to do to find projects is click the section you\u0026rsquo;re interested and then start scrolling through the list of projects you\u0026rsquo;ll see there.\nThe Tag System As you navigate this site, you\u0026rsquo;ll notice that every project page has some near the top. These are clickable as well, and will take you to a page that lists every single website entry that contains that tag. There are main tags for all of the major categories (distributed computing, history, humanities, science), location tags (specifying whether a project can be done on devices or must be done outside), and specialty tags (which cover major subject matter and assorted academic fields—some examples would be \u0026ldquo;new zealand history\u0026rdquo;, \u0026ldquo;ornithology\u0026rdquo;, and \u0026ldquo;linguistics\u0026rdquo;).\nAll are clickable, all will take you to relevant subject matter.\nThe Search Bar And, of course, you always have access to the tried and true search bar in the sidebar as well. It works like—well. You know. Every other search bar. If you suddenly find that it DOESN\u0026rsquo;T, please, by all means, click on over to the \u0026ldquo;Contributing\u0026rdquo; page under \u0026ldquo;About\u0026rdquo; and shoot me an email to let me know!\n"
 },
 {
-	"uri": "http://projectdelve.com/hubs/",
-	"title": "Hub Websites",
-	"tags": [],
-	"description": "",
-	"content": "Hub Websites This section contains the websites that are hubs or platforms for multiple projects.\n"
-},
-{
 	"uri": "http://projectdelve.com/tags/hubs/",
 	"title": "hubs",
-	"tags": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "http://projectdelve.com/humanities/",
-	"title": "Humanities",
 	"tags": [],
 	"description": "",
 	"content": ""
@@ -819,6 +924,13 @@
 	"content": ""
 },
 {
+	"uri": "http://projectdelve.com/tags/meteorolgy/",
+	"title": "meteorolgy",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
 	"uri": "http://projectdelve.com/tags/meteorology/",
 	"title": "meteorology",
 	"tags": [],
@@ -831,6 +943,13 @@
 	"tags": ["science", "meteorology", "online"],
 	"description": "",
 	"content": "Meteororum ad Extremum Terrae View the project here.\nOverview Meteororum ad Extremum Terrae (MET - Meteorology of the End of the World) aims to recover weather and oceanic data record in Argentina since at least the beginning of the XIXth Century. The first currently known records date back to 1801. Other than the Oficina Meteorológica Argentina, later Servicio Meteorológico Nacional, many public and private organizations have registered weather data. Argentine Navy ships, lighthouses, railway stations, \u0026ldquo;estancias\u0026rdquo; are among many data sources. It is necessary to recover and digitize them. With these valuable records you help us recover for science, we can then study the evolution of climate in this part of the Southern Hemisphere, from the edge of Tropic of Capricorn into Antarctica. We can work with these records to assess climate processes and variability. We can improve international atmospheric models.\nTackling Climate Change requires that the past be understood to build a better future.\nWe invite you to volunteer for the task of recovering the past, for history and for research.\nLocation: ONline\n"
+},
+{
+	"uri": "http://projectdelve.com/sciencein/meteorum-ad-extremum-terrae/",
+	"title": "Meteororum ad Extremum Terrae",
+	"tags": ["science", "history", "meteorolgy", "science"],
+	"description": "",
+	"content": "Meteororum ad Extremum Terrae View the project here.\nOverview Meteororum ad Extremum Terrae (MET - Meteorology of the End of the World) aims to recover weather and oceanic data record in Argentina since at least the beginning of the XIXth Century. The first currently known records date back to 1801. Other than the Oficina Meteorológica Argentina, later Servicio Meteorológico Nacional, many public and private organizations have registered weather data. Argentine Navy ships, lighthouses, railway stations, \u0026ldquo;estancias\u0026rdquo; are among many data sources. It is necessary to recover and digitize them. With these valuable records you help us recover for science, we can then study the evolution of climate in this part of the Southern Hemisphere, from the edge of Tropic of Capricorn into Antarctica. We can work with these records to assess climate processes and variability. We can improve international atmospheric models.\nTackling Climate Change requires that the past be understood to build a better future. We invite you to volunteer for the task of recovering the past, for history and for research.\nLocation: Online\n"
 },
 {
 	"uri": "http://projectdelve.com/scienceout/mexican-coral-reefs/",
@@ -931,11 +1050,25 @@
 	"content": "Nest Quest Go: Mourning Doves View the project here.\nOverview Join the Cornell Lab of Ornithology\u0026rsquo;s Citizen-Science Project, NestWatch, in understanding the historical nesting patterns of Mourning Doves. In North America, Mourning Doves are the most abundant and widespread game bird.\nWhile they are hunted in North America, these nest-record cards demonstrate a different kind of hunting: the quest for data!\nThese nest record cards are a subset of a larger collection of more than 300,000 nest records that NestWatch is working on digitizing and transcribing. Valuable scientific questions can be asked and answered regarding the nesting behavior of birds over time by examining historical records. We hope to bring new discoveries to light using these previously hidden datasets.\nLocation: Online\n"
 },
 {
+	"uri": "http://projectdelve.com/sciencein/nest-quest-go-sparrows/",
+	"title": "Nest Quest Go: Sparrows",
+	"tags": ["science", "ecology", "ornithology", "online"],
+	"description": "",
+	"content": "Nest Quest Go: Sparrows View the project here.\nOverview Join the Cornell Lab of Ornithology\u0026rsquo;s Citizen-Science Project, NestWatch in understanding the historical nesting patterns of various sparrows, including Black-throated Sparrow, Vesper Sparrow, Savannah Sparrow, Chipping Sparrow, Song Sparrow, Field Sparrow, Lark Sparrow, Eastern Towhee and many more! Generally, for most types of sparrows, the female searches for a nest location and builds her nest with little to no help from the male, who often guards the nesting territory. However, Song Sparrows look for a nesting site together with their mate, often choosing somewhere low to the ground and near humans or water. Join us to learn more about sparrow-nesters!\nThese nest record cards are a subset of a larger collection of more than 300,000 nest records that NestWatch is working on digitizing and transcribing. Valuable scientific questions can be asked and answered regarding the nesting behavior of birds over time by examining historical records. We hope to bring new discoveries to light using these previously hidden datasets.\nLocation: Online\n"
+},
+{
 	"uri": "http://projectdelve.com/tags/neurology/",
 	"title": "neurology",
 	"tags": [],
 	"description": "",
 	"content": ""
+},
+{
+	"uri": "http://projectdelve.com/sciencein/new-particle-search-cern/",
+	"title": "New Particle Search at CERN",
+	"tags": ["science", "physics", "online"],
+	"description": "",
+	"content": "New Particle Search at CERN View the project here.\nOverview You have the opportunity to contribute to the search for undiscovered particles, which are produced from the collisions of high-energy protons at the Large Hadron Collider (LHC), the world’s most powerful particle accelerator.\nWhile the Higgs boson was discovered in 2012, after about 40 years of intense experimental and theoretical research, and was the last missing component of our present model of particle physics, there are still many unanswered questions and even more theories that try to answer them. Through the visual study of proton-collision events at the LHC, you will learn data analysis skills, support the optimisation of the detectors, and help develop new knowledge in the structure of matter.\nThis project has been created by researchers of the ATLAS experiment collaboration, who are actively studying the Higgs boson and searching for yet-undiscovered particles. The data you will study, come from the collisions of proton beams in the LHC, and have been recorded by the ATLAS detector.\nLocation: Online\n"
 },
 {
 	"uri": "http://projectdelve.com/historical/nypl-menu/",
@@ -1071,13 +1204,6 @@
 	"content": ""
 },
 {
-	"uri": "http://projectdelve.com/sciencein/",
-	"title": "Online Scientific Projects",
-	"tags": [],
-	"description": "",
-	"content": "Scientific projects to do at home This section has all active volunteer citizen science projects that can be contributed to online or at home.\n"
-},
-{
 	"uri": "http://projectdelve.com/sciencein/open-insulin/",
 	"title": "Open Insulin",
 	"tags": ["science", "medical", "biology"],
@@ -1104,13 +1230,6 @@
 	"tags": [],
 	"description": "",
 	"content": ""
-},
-{
-	"uri": "http://projectdelve.com/scienceout/",
-	"title": "Outdoor Scientific Projects",
-	"tags": [],
-	"description": "",
-	"content": "Scientific projects to do outdoors This section has all active volunteer citizen science projects that require at least some outdoor time, from backyard observations all the way to detailed surveys of endangered plants in specific areas and snow level monitoring in mountainous areas.\n"
 },
 {
 	"uri": "http://projectdelve.com/tags/outdoors/",
@@ -1188,6 +1307,13 @@
 	"tags": ["science", "ecology", "entomology", "outdoors"],
 	"description": "",
 	"content": "Pollinators and Climate View the project here.\nOverview Help us understand how plant-pollinator interactions are responding to a changing climate.\nChanges in pollination has significant impacts on how we humans live our lives and interact with our environment on a daily basis. Pollinator and pollinator health changes the success of fruiting for plants and our food supply and therefore our health. We know that phenological events can vary from year to year, but how are pollinators affected by these variations. Submit data to help us understand how insect emergence, pollen availability, and climate conditions impacts plant-pollinator interaction.\nResearch Question: How is climate change affecting plant-pollinator interactions?\nChallenges:\n First Flowers - Spring is important as pollinators emerge! Help us track when they appear. Summer Pollination - Help us track what pollinators are doing during the hottest time of the year. Fall Flowers - Help us track pollinator activity this fall as they get ready to hibernate.  Location: Outdoors\n"
+},
+{
+	"uri": "http://projectdelve.com/sciencein/prickly-pear-project-kenya/",
+	"title": "Prickly Pear Project Kenya",
+	"tags": ["science", "botany", "ecology", "online"],
+	"description": "",
+	"content": "Prickly Pear Project Kenya View the project here.\nOverview Prickly pear cacti (Opuntia sp.) are one of the worst invasive plants in East Africa. We are a team of researchers from Durham University (UK) and Mpala Research Centre (Kenya) using camera traps to understand how Opuntia affects the habitat use of medium to large mammal species. This research has important implications for human-wildlife conflict and the future spread of the cactus.\nBy classifying the animals in our camera trap photos, you are helping us to understand the impacts of Opuntia so that we can predict and manage them more effectively.\nLocation: Online\n"
 },
 {
 	"uri": "http://projectdelve.com/computational/primegrid/",
@@ -1356,6 +1482,13 @@
 	"tags": ["science", "hubs"],
 	"description": "",
 	"content": "SciStarter View the project here.\nOverview SciStarter is a globally acclaimed, online citizen science hub where more than 3,000 projects, searchable by location, topic, age level, etc, have been registered by individual project leaders or imported through partnerships with federal governments, NGOs, and universities. As a research affiliate of NCSU and ASU, and a popular citizen science portal, SciStarter hosts an active community of close to 100,000 registered citizen scientists and millions of additional site visitors. Hundreds of citizen science projects use SciStarter\u0026rsquo;s NSF-supported APIs to help citizen scientists earn credit for their participation in their SciStarter dashboard, across projects and platforms.\nSciStarter helps bring together the millions of citizen scientists in the world; the thousands of potential projects offered by researchers, organizations, and companies; and the resources, products, and services that enable citizens to pursue and enjoy these activities. We aim to:\n Enable and encourage people to learn about, participate in, and contribute to science through both informal recreational activities and formal research efforts. Inspire greater appreciation and promote a better understanding of science and technology among the general public. Create a shared space where scientists can talk with citizens interested in working on or learning about their research projects. Satisfy the popular urge to tinker, build, and explore by making it simple and fun for people—singles, parents, grandparents, kids—to jump in and get their hands dirty with science.  Location: Online and Outdoors\n"
+},
+{
+	"uri": "http://projectdelve.com/sciencein/seed-sleuth/",
+	"title": "Seed Sleuth",
+	"tags": ["science", "biology", "botany", "online"],
+	"description": "",
+	"content": "Seed Sleuth View the project here.\nOverview Arabidopsis thaliana (Arabidopsis) was the first plant to have its genome completely sequenced (circa 2000). Although technically a weed, this small plant has been transformed into an important model system for plant research.\nThis project aims to provide ABRC with new information about these seed lines by asking citizen scientists to quantify the number of mutant phenotypes and dead seeds in different seed samples. This citizen science project is valuable to the Arabidopsis Biological Resource Center and the plant science community because it allows us to gather data for a large number of seed lines that we might not otherwise have the time to analyze.\nLocation: Online\n"
 },
 {
 	"uri": "http://projectdelve.com/computational/sidock-at-home/",
@@ -1643,13 +1776,6 @@
 	"tags": ["science", "meteorology", "online"],
 	"description": "",
 	"content": "Weather Rescue At Sea View the project here.\nOverview The aim of the Weather Rescue At Sea project is to construct and extended the global surface temperature record back to the 1780s, based on the air temperature observations recorded across the planet.\nThis will be achieved by crowd-sourcing the recovery (or data rescue) of the weather observations from historical ship logbooks, station records, weather journals and other sources, to produce a longer, and more consistent dataset of global surface temperature.\nHelp us better understand our changing climate by transcribing ship weather logbooks from the early industrial era!\nLocation: Online\n"
-},
-{
-	"uri": "http://projectdelve.com/",
-	"title": "Welcome to the site!",
-	"tags": [],
-	"description": "",
-	"content": "Welcome to the site! Project Delve is a database that helps people find every currently-active distributed computing, citizen science, volunteer archivist, volunteer humanities research project you can do on the internet or remotely.\nHow do I use the site? Project background View GitHub repository So who built this thing, anyway? Most recent update: November 23, 2021\n"
 },
 {
 	"uri": "http://projectdelve.com/sciencein/wesselman-woods/",

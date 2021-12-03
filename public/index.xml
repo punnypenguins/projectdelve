@@ -1,11 +1,104 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome to the site! on Project Delve</title>
+    <title>Home on Project Delve</title>
     <link>http://projectdelve.com/</link>
-    <description>Recent content in Welcome to the site! on Project Delve</description>
+    <description>Recent content in Home on Project Delve</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://projectdelve.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://projectdelve.com/sciencein/superwasp-black-hole-hunters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/sciencein/superwasp-black-hole-hunters/</guid>
+      <description>title = &amp;ldquo;SuperWASP: Black Hole Hunters&amp;rdquo; tags = [&amp;ldquo;science&amp;rdquo; &amp;ldquo;astronomy&amp;rdquo; &amp;ldquo;physics&amp;rdquo; &amp;ldquo;online&amp;rdquo;] +++
+SuperWASP: Black Hole Hunters View the project here.
+Overview SuperWASP is the Wide Angle Search for Planets; due to the combination of sky coverage (all latitudes above and below the Galactic plane), observing cadence (how regularly each star is observed) and long temporal baseline (the overall lengths of the lightcurves for each star) the archive is the ideal place to start searching for periodic lensing on the timescales of hours to years.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://projectdelve.com/this-site-matters/disabled-access/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/this-site-matters/disabled-access/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://projectdelve.com/this-site-matters/equity-vs-equality/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/this-site-matters/equity-vs-equality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://projectdelve.com/this-site-matters/financial-inequality-us/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/this-site-matters/financial-inequality-us/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://projectdelve.com/this-site-matters/internet-access-inequity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/this-site-matters/internet-access-inequity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://projectdelve.com/this-site-matters/rural-access-issues/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/this-site-matters/rural-access-issues/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://projectdelve.com/this-site-matters/scientific-access-issues/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/this-site-matters/scientific-access-issues/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://projectdelve.com/this-site-matters/senior-friendly-content/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/this-site-matters/senior-friendly-content/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://projectdelve.com/this-site-matters/technology-access-issues/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/this-site-matters/technology-access-issues/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accessibility Defined</title>
+      <link>http://projectdelve.com/this-site-matters/what-is-accessibility/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/this-site-matters/what-is-accessibility/</guid>
+      <description>What is accessibility? Wikipedia:
+My favorite one-page summary: https://www.seewritehear.com/learn/what-is-accessibility/</description>
+    </item>
+    
     <item>
       <title>Active Asteroids</title>
       <link>http://projectdelve.com/sciencein/active-asteroids/</link>
@@ -741,6 +834,17 @@ This is a volunteer distributed computing project for biomedical research from t
     </item>
     
     <item>
+      <title>GWitchHunters</title>
+      <link>http://projectdelve.com/sciencein/gwitchhunters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/sciencein/gwitchhunters/</guid>
+      <description>GWitchHunters View the project here.
+Overview GWITCHHUNTERS aims at improving the performance of current Gravitational Wave detectors in the experimental study of the Universe. Such instruments have reached extraordinary sensitivities to accomplish this task, but they are also very delicate and prone to spurious disturbances of non-astrophysical origin. Our goal is to better understand their disturbances and find new solutions to them.
+We are a team of researchers devoted to this very challenging task, involving state of the art technologies and analysis methods.</description>
+    </item>
+    
+    <item>
       <title>Help Stop TB</title>
       <link>http://projectdelve.com/computational/help-stop-tb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -955,6 +1059,16 @@ Overview Meteororum ad Extremum Terrae (MET - Meteorology of the End of the Worl
     </item>
     
     <item>
+      <title>Meteororum ad Extremum Terrae</title>
+      <link>http://projectdelve.com/sciencein/meteorum-ad-extremum-terrae/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/sciencein/meteorum-ad-extremum-terrae/</guid>
+      <description>Meteororum ad Extremum Terrae View the project here.
+Overview Meteororum ad Extremum Terrae (MET - Meteorology of the End of the World) aims to recover weather and oceanic data record in Argentina since at least the beginning of the XIXth Century. The first currently known records date back to 1801. Other than the Oficina Meteorológica Argentina, later Servicio Meteorológico Nacional, many public and private organizations have registered weather data. Argentine Navy ships, lighthouses, railway stations, &amp;ldquo;estancias&amp;rdquo; are among many data sources.</description>
+    </item>
+    
+    <item>
       <title>Mexican Coral Reefs</title>
       <link>http://projectdelve.com/scienceout/mexican-coral-reefs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1096,6 +1210,27 @@ Data from the NeMO-Net game is fed to NASA NeMO-Net, the first neural multi-moda
 Overview Join the Cornell Lab of Ornithology&amp;rsquo;s Citizen-Science Project, NestWatch, in understanding the historical nesting patterns of Mourning Doves. In North America, Mourning Doves are the most abundant and widespread game bird.
 While they are hunted in North America, these nest-record cards demonstrate a different kind of hunting: the quest for data!
 These nest record cards are a subset of a larger collection of more than 300,000 nest records that NestWatch is working on digitizing and transcribing.</description>
+    </item>
+    
+    <item>
+      <title>Nest Quest Go: Sparrows</title>
+      <link>http://projectdelve.com/sciencein/nest-quest-go-sparrows/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/sciencein/nest-quest-go-sparrows/</guid>
+      <description>Nest Quest Go: Sparrows View the project here.
+Overview Join the Cornell Lab of Ornithology&amp;rsquo;s Citizen-Science Project, NestWatch in understanding the historical nesting patterns of various sparrows, including Black-throated Sparrow, Vesper Sparrow, Savannah Sparrow, Chipping Sparrow, Song Sparrow, Field Sparrow, Lark Sparrow, Eastern Towhee and many more! Generally, for most types of sparrows, the female searches for a nest location and builds her nest with little to no help from the male, who often guards the nesting territory.</description>
+    </item>
+    
+    <item>
+      <title>New Particle Search at CERN</title>
+      <link>http://projectdelve.com/sciencein/new-particle-search-cern/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/sciencein/new-particle-search-cern/</guid>
+      <description>New Particle Search at CERN View the project here.
+Overview You have the opportunity to contribute to the search for undiscovered particles, which are produced from the collisions of high-energy protons at the Large Hadron Collider (LHC), the world’s most powerful particle accelerator.
+While the Higgs boson was discovered in 2012, after about 40 years of intense experimental and theoretical research, and was the last missing component of our present model of particle physics, there are still many unanswered questions and even more theories that try to answer them.</description>
     </item>
     
     <item>
@@ -1394,6 +1529,16 @@ Changes in pollination has significant impacts on how we humans live our lives a
     </item>
     
     <item>
+      <title>Prickly Pear Project Kenya</title>
+      <link>http://projectdelve.com/sciencein/prickly-pear-project-kenya/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/sciencein/prickly-pear-project-kenya/</guid>
+      <description>Prickly Pear Project Kenya View the project here.
+Overview Prickly pear cacti (Opuntia sp.) are one of the worst invasive plants in East Africa. We are a team of researchers from Durham University (UK) and Mpala Research Centre (Kenya) using camera traps to understand how Opuntia affects the habitat use of medium to large mammal species. This research has important implications for human-wildlife conflict and the future spread of the cactus.</description>
+    </item>
+    
+    <item>
       <title>PrimeGrid</title>
       <link>http://projectdelve.com/computational/primegrid/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1626,6 +1771,17 @@ You help by installing BOINC, a free program that runs scientific jobs in the ba
       <guid>http://projectdelve.com/hubs/scistarter/</guid>
       <description>SciStarter View the project here.
 Overview SciStarter is a globally acclaimed, online citizen science hub where more than 3,000 projects, searchable by location, topic, age level, etc, have been registered by individual project leaders or imported through partnerships with federal governments, NGOs, and universities. As a research affiliate of NCSU and ASU, and a popular citizen science portal, SciStarter hosts an active community of close to 100,000 registered citizen scientists and millions of additional site visitors.</description>
+    </item>
+    
+    <item>
+      <title>Seed Sleuth</title>
+      <link>http://projectdelve.com/sciencein/seed-sleuth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/sciencein/seed-sleuth/</guid>
+      <description>Seed Sleuth View the project here.
+Overview Arabidopsis thaliana (Arabidopsis) was the first plant to have its genome completely sequenced (circa 2000). Although technically a weed, this small plant has been transformed into an important model system for plant research.
+This project aims to provide ABRC with new information about these seed lines by asking citizen scientists to quantify the number of mutant phenotypes and dead seeds in different seed samples.</description>
     </item>
     
     <item>

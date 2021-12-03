@@ -7,6 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://projectdelve.com/tags/physics/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>GWitchHunters</title>
+      <link>http://projectdelve.com/sciencein/gwitchhunters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/sciencein/gwitchhunters/</guid>
+      <description>GWitchHunters View the project here.
+Overview GWITCHHUNTERS aims at improving the performance of current Gravitational Wave detectors in the experimental study of the Universe. Such instruments have reached extraordinary sensitivities to accomplish this task, but they are also very delicate and prone to spurious disturbances of non-astrophysical origin. Our goal is to better understand their disturbances and find new solutions to them.
+We are a team of researchers devoted to this very challenging task, involving state of the art technologies and analysis methods.</description>
+    </item>
+    
+    <item>
       <title>LHC@Home</title>
       <link>http://projectdelve.com/computational/lhc-at-home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -15,6 +26,17 @@
       <description>&amp;ldquo;LHC@Home&amp;rdquo; View the project here.
 Overview The Large Hadron Collider @ Home project from CERN is a volunteer computing project that uses Internet-connected computers to advance Particle and Accelerator Physics. Participate by downloading and running a free program on your computer.
 Runs on:  Linux MacOS Windows  </description>
+    </item>
+    
+    <item>
+      <title>New Particle Search at CERN</title>
+      <link>http://projectdelve.com/sciencein/new-particle-search-cern/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/sciencein/new-particle-search-cern/</guid>
+      <description>New Particle Search at CERN View the project here.
+Overview You have the opportunity to contribute to the search for undiscovered particles, which are produced from the collisions of high-energy protons at the Large Hadron Collider (LHC), the world’s most powerful particle accelerator.
+While the Higgs boson was discovered in 2012, after about 40 years of intense experimental and theoretical research, and was the last missing component of our present model of particle physics, there are still many unanswered questions and even more theories that try to answer them.</description>
     </item>
     
     <item>
