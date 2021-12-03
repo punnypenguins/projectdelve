@@ -13,6 +13,7 @@ This project is primarily written in [Markdown](https://www.markdownguide.org/ba
 
 The shade of blue this site uses as its main color is `#1c90f3`. Please use that hex code for reference if you're working on any new site elements or logo/site icon improvements.
 
+The Project Delve website is built using [hugo-theme-learn] by @matcornic. If you want to make changes to the site's front matter, TOML, etc., you can find that theme's documentation [here](https://learn.netlify.app/en/).
 
 # Getting Started
 
