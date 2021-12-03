@@ -36,6 +36,7 @@ So if you're looking for more projects than you find listed individually on here
 ## The Creator
 
 I'm Katie. You don't need to know about me, because the point of this website is—shocking, I know—the actual *website*. But if you're looking to get in contact with me, or want to see my other work, you can follow the links below.
+- [Online resume](https://punnypenguins.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/katherine-geerling-774929111)
 - [GitHub](https://github.com/punnypenguins)
 - [Blog](https://somemossthoughts.wordpress.com/)
