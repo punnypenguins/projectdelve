@@ -16,4 +16,4 @@ If you already know how to use GitHub, you can check out [**open issues**](https
 
 ## Donate
 
-I'm not trying to make any profit off this site, but it does cost bit of money to host it and purchase the domain name. If you feel like helping out with the site maintenance costs, or just want to toss me a little thank-you tip, you can do so over on my [**Ko-fi page**](https://ko-fi.com/punnypenguins).
+I'm not trying to make any profit off this site, but it does cost money to host it and hold on to its domain name. If you feel like helping out with the site maintenance costs, or just want to toss me a little thank-you tip, you can do so over on my [**Ko-fi page**](https://ko-fi.com/punnypenguins).
