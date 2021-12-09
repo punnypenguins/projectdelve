@@ -3,7 +3,6 @@ draft = true
 +++
 
 # Scientific Project Template
-
 ```
 +++
 title = "PROJECT NAME"
