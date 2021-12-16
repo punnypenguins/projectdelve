@@ -11,12 +11,22 @@ Accessibility for the disabled community covers everything—physical access, in
 
 Accessibility for *everyone* encompasses all of those things for *all* populations within our society. What does this mean in reality, though? What are some examples?
 
-### Access to education 
+### Access to education
+
+TODO
 
 ### Access to housing
 
+TODO
+
 ### Access to food
+
+TODO
 
 ### Access to voting
 
+TODO
+
 ### Access to financial  
+
+TODO

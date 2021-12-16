@@ -18,7 +18,7 @@ More specifically, it tackles two specific aspects of accessibility.
 - Technological barriers to access
 - Disability access issues
 
-## ⭐ Disclaimer: On validity of information
+## ⭐ Disclaimer: On the validity (or not!) of information
 We're in an era where there is a very strong tendency towards rejecting expertise and information.
 
 As a scientist, writer, and frequent victim of gaslighting in my own personal life, there's nothing I value more in discussions than transparency and provable facts. So, I'm [**sharing all the sources**](https://projectdelve.com/this-site-matters/sources) I've learned from or referenced, and I encourage you to _**not**_ trust a single thing I say.
