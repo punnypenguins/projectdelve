@@ -15,4 +15,4 @@ Project Delve is a database that helps people find every currently-active distri
 
 #### [So who built this thing, anyway?](http://projectdelve.com/about/#the-creator)
 
-*Most recent update: December 3, 2021*
+*Most recent update: February 5, 2022*
