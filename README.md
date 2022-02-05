@@ -1,5 +1,3 @@
-[![website](https://img.shields.io/website?down_color=critical&down_message=down&up_color=brightgreen&up_message=up&url=https%3A%2F%2Fprojectdelve.com%2F)](https://projectdelve.com/) 
-
 # 📘 README 📘
 
 ![alt text](https://github.com/punnypenguins/projectdelve/blob/main/public/images/project-delve-logo.png)
