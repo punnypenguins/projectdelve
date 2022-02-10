@@ -7,6 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://projectdelve.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Accessibility Defined</title>
+      <link>http://projectdelve.com/this-site-matters/accessibility/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/this-site-matters/accessibility/</guid>
+      <description>What is accessibility? While most of what you find in a quick Google search for &amp;ldquo;accessibility&amp;rdquo; is about website and application accessibility for disabled users, accessibility is a lot broader than that.
+Accessibility for the disabled community covers everything—physical access, internet sites, technology, education, jobs, etc., which is already much bigger than simply accessible website design and accessibility settings on phones and other technology.
+Accessibility for everyone encompasses all of those things for all populations within our society.</description>
+    </item>
+    
+    <item>
+      <title>Inequality</title>
+      <link>http://projectdelve.com/this-site-matters/inequality/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/this-site-matters/inequality/</guid>
+      <description>Inequality is real, current, and worsening across the U.S. And despite those truths, we tend to be absolutely terrible at recognizing it in our modern lives.
+Research participants consistently underestimate the extent of modern inequality across the board. So before we look at how Project Delve works to mitigate a tiny part of it, we first need to make sure we understand the problem itself.</description>
+    </item>
+    
+    <item>
+      <title>Sources and Resources</title>
+      <link>http://projectdelve.com/this-site-matters/sources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/this-site-matters/sources/</guid>
+      <description>Accessibility  From SeeWriteHear  &amp;ldquo;What is Accessibility?&amp;quot;: https://www.seewritehear.com/learn/what-is-accessibility/   From digital.gov  &amp;ldquo;An Introduction to Accessibility&amp;rdquo;: https://digital.gov/resources/introduction-accessibility/   From W3C  &amp;ldquo;Accessibility&amp;rdquo;: https://www.w3.org/standards/webdesign/accessibility   From the Web Almanac  &amp;ldquo;Part II Chapter 8: Accessibility&amp;rdquo;: https://almanac.httparchive.org/en/2020/accessibility   From usability.gov  &amp;ldquo;Accessibility Basics&amp;rdquo;: https://www.usability.gov/what-and-why/accessibility.html   Section508.gov From access-board.gov  &amp;ldquo;Text of Section 508 of the Rehabilitation Act of 1973, as amended (29 U.S.C. §794d)&amp;quot;: https://www.access-board.gov/law/ra.html#section-508-federal-electronic-and-information-technology   From American Association for the Advancement of Science  &amp;ldquo;Making science accessible&amp;rdquo;: https://www.</description>
+    </item>
+    
+    <item>
       <title></title>
       <link>http://projectdelve.com/sciencein/superwasp-black-hole-hunters/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -15,88 +45,6 @@
       <description>title = &amp;ldquo;SuperWASP: Black Hole Hunters&amp;rdquo; tags = [&amp;ldquo;science&amp;rdquo; &amp;ldquo;astronomy&amp;rdquo; &amp;ldquo;physics&amp;rdquo; &amp;ldquo;online&amp;rdquo;] +++
 SuperWASP: Black Hole Hunters View the project here.
 Overview SuperWASP is the Wide Angle Search for Planets; due to the combination of sky coverage (all latitudes above and below the Galactic plane), observing cadence (how regularly each star is observed) and long temporal baseline (the overall lengths of the lightcurves for each star) the archive is the ideal place to start searching for periodic lensing on the timescales of hours to years.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://projectdelve.com/this-site-matters/disabled-access/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://projectdelve.com/this-site-matters/disabled-access/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://projectdelve.com/this-site-matters/equity-vs-equality/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://projectdelve.com/this-site-matters/equity-vs-equality/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://projectdelve.com/this-site-matters/financial-inequality-us/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://projectdelve.com/this-site-matters/financial-inequality-us/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://projectdelve.com/this-site-matters/internet-access-inequity/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://projectdelve.com/this-site-matters/internet-access-inequity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://projectdelve.com/this-site-matters/rural-access-issues/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://projectdelve.com/this-site-matters/rural-access-issues/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://projectdelve.com/this-site-matters/scientific-access-issues/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://projectdelve.com/this-site-matters/scientific-access-issues/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://projectdelve.com/this-site-matters/senior-friendly-content/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://projectdelve.com/this-site-matters/senior-friendly-content/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://projectdelve.com/this-site-matters/technology-access-issues/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://projectdelve.com/this-site-matters/technology-access-issues/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Accessibility Defined</title>
-      <link>http://projectdelve.com/this-site-matters/what-is-accessibility/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://projectdelve.com/this-site-matters/what-is-accessibility/</guid>
-      <description>What is accessibility? Wikipedia:
-My favorite one-page summary: https://www.seewritehear.com/learn/what-is-accessibility/</description>
     </item>
     
     <item>
@@ -460,6 +408,29 @@ Full contribution guidelines and instructions are available on GitHub in CONTRIB
     </item>
     
     <item>
+      <title>Corresponding with Quakers</title>
+      <link>http://projectdelve.com/historical/corresponding-with-quakers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/historical/corresponding-with-quakers/</guid>
+      <description>Corresponding with Quakers View the project here.
+Overview The Quakers of Ballitore, Ireland, were a small group, but they have fascinating links to many major political issues of the period: abolitionism, women&amp;rsquo;s rights, religious tensions, global migration, and the American and French Revolutions.
+Corresponding with Quakers is an ongoing, collaborative research project investigating the Ballitore Collection held at UCSB Library’s Special Research Collections. The Ballitore Collection features more than 2,500 documents related to the Irish Quaker community of Ballitore, Ireland, including letters, journals, notebooks, and dream accounts.</description>
+    </item>
+    
+    <item>
+      <title>Cosmic Muon Images</title>
+      <link>http://projectdelve.com/sciencein/cosmic-muon-images/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/sciencein/cosmic-muon-images/</guid>
+      <description>Cosmic Muon Images View the project here.
+Overview We place muon detectors all around the globe and we study the inner structure of massive objects from volcanoes to ancient tombs and from underground tunnels to blast furnaces.
+Using muon tomography we can probe the internal structure of massive objects, like volcanoes, with particles from stars and galaxies far, far away. Help us identify these particles inside our detectors!
+Location: Online</description>
+    </item>
+    
+    <item>
       <title>Cosmological jellyfish</title>
       <link>http://projectdelve.com/sciencein/cosmological-jellyfish/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -535,6 +506,16 @@ Davy’s scientific accomplishments include: conducting pioneering research into
       <description>Delaware Bay Horseshoe Crab Survey View the project here.
 Overview The Horseshoe Crab, Limulus polyphemus, visits the Delaware Bay Shore each year for spawning purposes. Through the work of volunteers, the spawning population is recorded to study the American Horseshoe Crab.
 In 1990, the first organized survey of spawning horseshoe crabs in the Delaware Bay began. Now, every May and June during the full and new moon evening high tides, volunteers annually donate their time to count crabs on the beaches of the Delaware Bay in both Delaware and New Jersey.</description>
+    </item>
+    
+    <item>
+      <title>Dental Disease Detection</title>
+      <link>http://projectdelve.com/sciencein/dental-disease-detection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/sciencein/dental-disease-detection/</guid>
+      <description>Dental Disease Detection View the project here.
+Overview Dental radiography is an essential tool for diagnostics of dental diseases. Analysis of radiographs is time-consuming and often error-prone due to a high variety of dental structures, positioning/orientation errors, and the substantial amount of radiographs that need to be analysed. An automatic solution for flagging abnormalities in dental radiographs is needed to improve detection accuracy and to reduce the cost of misdiagnosis. This project aims to use AI to bridge this gap to find and validate such a solution, by building a software prototype enabling computers to recognise normal anatomical structures and differentiate from subtle abnormalities in radiographs.</description>
     </item>
     
     <item>
@@ -1873,6 +1854,17 @@ Location: Online</description>
     </item>
     
     <item>
+      <title>Solar Jet Hunter</title>
+      <link>http://projectdelve.com/sciencein/solar-jet-hunter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/sciencein/solar-jet-hunter/</guid>
+      <description>Solar Jet Hunter View the project here.
+Overview Join the hunt for solar jets—enigmatic bursts of energy from our own star, the Sun!
+Studying solar jets, which are small and narrow ejections of solar material, may help us address some of the Sun&amp;rsquo;s mysteries. For example, solar jets could be linked to energetic particles and perturbations in the solar wind. In this project, we focus on features that are found at various sizes and locations on the Sun, which can be observed clearly in extreme ultraviolet images.</description>
+    </item>
+    
+    <item>
       <title>Sources</title>
       <link>http://projectdelve.com/about/sources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2011,6 +2003,17 @@ Location: Online</description>
     </item>
     
     <item>
+      <title>The Greater Bilby Sanctuary</title>
+      <link>http://projectdelve.com/sciencein/greater-bilby-sanctuary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/sciencein/greater-bilby-sanctuary/</guid>
+      <description>The Greater Bilby Sanctuary View the project here.
+Overview With climate change, drought conditions are becoming more frequent and severe in Australia. Greater bilbies (Macrotis lagotis), like many other species, are sensitive to drought. To combat this conservation challenge, we need to think of creative solutions to support threatened species, such as the bilby, during drought.
+In 2019, research collaborators at the University of New South Wales and the Taronga Conservation Society Australia released bilbies into a 110-ha semi-wild sanctuary at Taronga Western Plains Zoo, in Dubbo, NSW, for conservation breeding and release.</description>
+    </item>
+    
+    <item>
       <title>The Indy Wildlife Watch</title>
       <link>http://projectdelve.com/sciencein/indy-wildlife-watch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2054,6 +2057,17 @@ Regular monitoring and centralized reporting among participants across three nat
 Overview By updating and verifying structures data, volunteers are making significant contributions to USGS National Structures Database, The National Map, and ultimately U.S. Topo Maps!
 TNMCorps is an online crowdsourcing mapping project with volunteers successfully editing structures in all 50 States, Puerto Rico, and the U.S. Virgin Islands.
 Anyone with an interest in contributing can volunteer. It is easy to sign up and get started!</description>
+    </item>
+    
+    <item>
+      <title>The RBGE Herbarium: Exploring Gesneriaceae, the African violet family</title>
+      <link>http://projectdelve.com/sciencein/rbge-herbarium/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/sciencein/rbge-herbarium/</guid>
+      <description>The RBGE Herbarium: Exploring Gesneriaceae, the African violet family View the project here.
+Overview Open up global biodiversity research possibilities by releasing the data held in 300 years of plant specimens!
+The Royal Botanic Garden Edinburgh&amp;rsquo;s extensive Herbarium collection is estimated to hold three million specimens representing half to two thirds of the worlds flora. Herbarium specimen data helps inform and target conservation and climate change mitigation efforts protecting plant species for future generations.</description>
     </item>
     
     <item>
@@ -2134,6 +2148,16 @@ Overview About 28% of the people live near the coast, and with global sea level 
     </item>
     
     <item>
+      <title>Unfolding of Microplant Mysteries</title>
+      <link>http://projectdelve.com/sciencein/microplant-mysteries/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/sciencein/microplant-mysteries/</guid>
+      <description>Unfolding of Microplant Mysteries View the project here.
+Overview ‘Microplants’ are often tiny plants, technically called bryophytes, and are the second largest group after flowering plants. Despite their small size microplants are vital in our understanding of the evolutionary history of plants and are of great ecological and environmental significance. Because of their small size, they are often overlooked in many habitats throughout the world. Many new species remain to be discovered!</description>
+    </item>
+    
+    <item>
       <title>United States National Archives</title>
       <link>http://projectdelve.com/historical/national-archives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2153,6 +2177,18 @@ Location: Online</description>
       <description>Universe@home View the project here.
 Overview Universe@home project&amp;rsquo;s two main goals are:
  to provide scientist with a necessary computational power and to provide the way of involvement for anyone equipped with a computer and willing to take part in the research  We live in times which are marked by the fastest scientific development in the history. Our knowledge grows faster than ever before. We explore the structures of the Universe, nuclei of stars and evolution of galaxies.</description>
+    </item>
+    
+    <item>
+      <title>Voices Through Time: The Story of Care</title>
+      <link>http://projectdelve.com/historical/voices-through-time/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/historical/voices-through-time/</guid>
+      <description>Voices Through Time: The Story of Care View the project here.
+Overview Help us transcribe the records of Coram, the UK’s first children’s charity, to tell the story of care from where it began.
+Our archive contains thousands of handwritten records, going back to the 1700s, which contain the stories of children who were cared for at the Foundling Hospital.
+With your help transcribing these records, we can make them available online for the first time.</description>
     </item>
     
     <item>
@@ -2273,6 +2309,16 @@ The Woodpecker Cavity Cam project began in 2019 to augment ongoing research and 
 Overview Donate your device’s spare computing power to help scientists solve the world’s biggest problems.
 As a World Community Grid volunteer, your device does research calculations when it has spare power. With your help, scientists can identify the most important results to study in the lab, bringing them one step closer to discoveries that save lives and address global problems.
 View already-completed research here.</description>
+    </item>
+    
+    <item>
+      <title>You see it? You name it!</title>
+      <link>http://projectdelve.com/sciencein/u-see-it-u-name-it/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/sciencein/u-see-it-u-name-it/</guid>
+      <description>You see it? You name it! View the project here.
+Overview One of our goals is to provide cognitive neuroscience and machine learning researchers with high quality stimuli. One issue both community face is in fact the lack of freely available large set of images appropriately curated by humans. This is were anyone can help and become part of an international and interdisciplinary scientific effort! We here present tons of pictures and ask volunteers to name the main item in the image (e.</description>
     </item>
     
     <item>

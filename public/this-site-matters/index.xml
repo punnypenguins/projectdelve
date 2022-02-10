@@ -7,85 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://projectdelve.com/this-site-matters/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>http://projectdelve.com/this-site-matters/disabled-access/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://projectdelve.com/this-site-matters/disabled-access/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://projectdelve.com/this-site-matters/equity-vs-equality/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://projectdelve.com/this-site-matters/equity-vs-equality/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://projectdelve.com/this-site-matters/financial-inequality-us/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://projectdelve.com/this-site-matters/financial-inequality-us/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://projectdelve.com/this-site-matters/internet-access-inequity/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://projectdelve.com/this-site-matters/internet-access-inequity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://projectdelve.com/this-site-matters/rural-access-issues/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://projectdelve.com/this-site-matters/rural-access-issues/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://projectdelve.com/this-site-matters/scientific-access-issues/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://projectdelve.com/this-site-matters/scientific-access-issues/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://projectdelve.com/this-site-matters/senior-friendly-content/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://projectdelve.com/this-site-matters/senior-friendly-content/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://projectdelve.com/this-site-matters/technology-access-issues/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://projectdelve.com/this-site-matters/technology-access-issues/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Accessibility Defined</title>
-      <link>http://projectdelve.com/this-site-matters/what-is-accessibility/</link>
+      <link>http://projectdelve.com/this-site-matters/accessibility/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://projectdelve.com/this-site-matters/what-is-accessibility/</guid>
-      <description>What is accessibility? Wikipedia:
-My favorite one-page summary: https://www.seewritehear.com/learn/what-is-accessibility/</description>
+      <guid>http://projectdelve.com/this-site-matters/accessibility/</guid>
+      <description>What is accessibility? While most of what you find in a quick Google search for &amp;ldquo;accessibility&amp;rdquo; is about website and application accessibility for disabled users, accessibility is a lot broader than that.
+Accessibility for the disabled community covers everything—physical access, internet sites, technology, education, jobs, etc., which is already much bigger than simply accessible website design and accessibility settings on phones and other technology.
+Accessibility for everyone encompasses all of those things for all populations within our society.</description>
+    </item>
+    
+    <item>
+      <title>Inequality</title>
+      <link>http://projectdelve.com/this-site-matters/inequality/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/this-site-matters/inequality/</guid>
+      <description>Inequality is real, current, and worsening across the U.S. And despite those truths, we tend to be absolutely terrible at recognizing it in our modern lives.
+Research participants consistently underestimate the extent of modern inequality across the board. So before we look at how Project Delve works to mitigate a tiny part of it, we first need to make sure we understand the problem itself.</description>
+    </item>
+    
+    <item>
+      <title>Sources and Resources</title>
+      <link>http://projectdelve.com/this-site-matters/sources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/this-site-matters/sources/</guid>
+      <description>Accessibility  From SeeWriteHear  &amp;ldquo;What is Accessibility?&amp;quot;: https://www.seewritehear.com/learn/what-is-accessibility/   From digital.gov  &amp;ldquo;An Introduction to Accessibility&amp;rdquo;: https://digital.gov/resources/introduction-accessibility/   From W3C  &amp;ldquo;Accessibility&amp;rdquo;: https://www.w3.org/standards/webdesign/accessibility   From the Web Almanac  &amp;ldquo;Part II Chapter 8: Accessibility&amp;rdquo;: https://almanac.httparchive.org/en/2020/accessibility   From usability.gov  &amp;ldquo;Accessibility Basics&amp;rdquo;: https://www.usability.gov/what-and-why/accessibility.html   Section508.gov From access-board.gov  &amp;ldquo;Text of Section 508 of the Rehabilitation Act of 1973, as amended (29 U.S.C. §794d)&amp;quot;: https://www.access-board.gov/law/ra.html#section-508-federal-electronic-and-information-technology   From American Association for the Advancement of Science  &amp;ldquo;Making science accessible&amp;rdquo;: https://www.</description>
     </item>
     
   </channel>

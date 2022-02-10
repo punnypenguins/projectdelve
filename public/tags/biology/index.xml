@@ -48,6 +48,16 @@ Overview “CITIZEN SCIENCE AND THE FIGHT AGAINST THE CORONAVIRUS” is an open 
     </item>
     
     <item>
+      <title>Dental Disease Detection</title>
+      <link>http://projectdelve.com/sciencein/dental-disease-detection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/sciencein/dental-disease-detection/</guid>
+      <description>Dental Disease Detection View the project here.
+Overview Dental radiography is an essential tool for diagnostics of dental diseases. Analysis of radiographs is time-consuming and often error-prone due to a high variety of dental structures, positioning/orientation errors, and the substantial amount of radiographs that need to be analysed. An automatic solution for flagging abnormalities in dental radiographs is needed to improve detection accuracy and to reduce the cost of misdiagnosis. This project aims to use AI to bridge this gap to find and validate such a solution, by building a software prototype enabling computers to recognise normal anatomical structures and differentiate from subtle abnormalities in radiographs.</description>
+    </item>
+    
+    <item>
       <title>Etch A Cell - ER</title>
       <link>http://projectdelve.com/sciencein/etch-a-cell/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

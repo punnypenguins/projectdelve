@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://projectdelve.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>ai</title>
+      <link>http://projectdelve.com/tags/ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>american history</title>
       <link>http://projectdelve.com/tags/american-history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -16,11 +25,11 @@
     </item>
     
     <item>
-      <title>asrophysics</title>
-      <link>http://projectdelve.com/tags/asrophysics/</link>
+      <title>astronomy</title>
+      <link>http://projectdelve.com/tags/astronomy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://projectdelve.com/tags/asrophysics/</guid>
+      <guid>http://projectdelve.com/tags/astronomy/</guid>
       <description></description>
     </item>
     
@@ -372,6 +381,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://projectdelve.com/tags/transcribing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>uk</title>
+      <link>http://projectdelve.com/tags/uk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://projectdelve.com/tags/uk/</guid>
       <description></description>
     </item>
     

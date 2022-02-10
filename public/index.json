@@ -7,6 +7,13 @@
 	"content": "The Project Project goals This website has two driving goals:\n Provide a simple, singular space where students, individuals, and groups can easily find currently-available volunteer science and historical data opportunities Work to increase scientific, experiental, and volunteering accessibility for those often left behind—disabled individuals, students, rural citizens, low-income households, and the elderly. (Read more about these access issues and how I try to combat them in this particular project)  Brief history Project Delve was originally conceived as a one-stop-shop where people could find only active distributed computing and citizen science projects, and find all of them—no more needing to search google, click through pages of listings on various project hub sites, or clicking through fifty links just to find that all but seven of them were months or years out of date.\nThe point is, I got frustrated, decided to do something about it, taught myself to build a site, and threw this whole thing together in about a month.\nAs I started to build the site in earnest, I came across so many other online volunteer projects for historical records, media archives, and fields in the humanities, that I decided to expand the scope of Project Delve to include those too.\nCurrent project overview In its current iteration, Project Delve holds six major categories of volunteer projects:\n Distributed computing projects Historical record and archive projects Hub websites that host or point you toward many more projects Projects from various fields in the humanities Citizen science projects that can be done on devices alone Citizen science projects that require you to go outside at least once  I will be adding more projects to the site as I find them and as people send them to me. As of right now, the website contains individual listings of every active project I found around the internet except for those from many of the websites in the \u0026ldquo;Hub Websites\u0026rdquo; section. I intended to add those as well, but as some of them had hundreds to 1,000+ projects listed, I decided it would be a better user experience if you didn\u0026rsquo;t have to scroll through hundreds and hundreds of projects on this one static web page.\nSo if you\u0026rsquo;re looking for more projects than you find listed individually on here, make sure you check those hub websites out; you\u0026rsquo;ll find many of them probably have exactly the category you were looking for.\nThe Creator I\u0026rsquo;m Katie. You don\u0026rsquo;t need to know about me, because the point of this website is—shocking, I know—the actual website. But if you\u0026rsquo;re looking to get in contact with me, or want to see my other work, you can follow the links below.\n Online resume LinkedIn GitHub Blog My Ko-fi My Email  "
 },
 {
+	"uri": "http://projectdelve.com/this-site-matters/accessibility/",
+	"title": "Accessibility Defined",
+	"tags": [],
+	"description": "",
+	"content": "What is accessibility? While most of what you find in a quick Google search for \u0026ldquo;accessibility\u0026rdquo; is about website and application accessibility for disabled users, accessibility is a lot broader than that.\nAccessibility for the disabled community covers everything—physical access, internet sites, technology, education, jobs, etc., which is already much bigger than simply accessible website design and accessibility settings on phones and other technology.\nAccessibility for everyone encompasses all of those things for all populations within our society. What does this mean in reality, though? What are some examples?\nAccess to education TODO\nAccess to housing TODO\nAccess to food TODO\nAccess to voting TODO\nAccess to financial TODO\n"
+},
+{
 	"uri": "http://projectdelve.com/computational/",
 	"title": "Distributed Computing Projects",
 	"tags": [],
@@ -14,11 +21,25 @@
 	"content": "Distributed Computing Projects This section has all active volunteer distributed computing projects, which ask people to volunteer some of their computers' background processing power for researchers to use in their efforts to crunch massive data sets, run mathematical simulations, and perform other computations.\nNOTE: Many of these projects are built with BOINC, which has certain system requirements for the devices it can run on. To see if your device meets them, you can check the specifications here.\nLearn about distributed Computing  A hideously ugly but still solid page on it from a 2001 Stanford computer science course Solid and detailed summary from Science Direct (available for PDF download AND automatic adding to Mendeley!) Detailed guide from IBM Distributed Computing (journal) on Springer Khan Academy\u0026rsquo;s AP Computer Science section on distributed computing BOINC, from Berkeley, the backbone of most scientific distributed computing projects Yale Computer Science\u0026rsquo;s page on distributed computing Wikipedia\u0026rsquo;s list of distributed computing projects This not-up-to-date but still semi-relevant https://www.distributedcomputing.info/ website  "
 },
 {
+	"uri": "http://projectdelve.com/this-site-matters/inequality/",
+	"title": "Inequality",
+	"tags": [],
+	"description": "",
+	"content": "Inequality is real, current, and worsening across the U.S. And despite those truths, we tend to be absolutely terrible at recognizing it in our modern lives.\nResearch participants consistently underestimate the extent of modern inequality across the board. So before we look at how Project Delve works to mitigate a tiny part of it, we first need to make sure we understand the problem itself.\n"
+},
+{
 	"uri": "http://projectdelve.com/historical/",
 	"title": "Historical Projects",
 	"tags": [],
 	"description": "",
 	"content": "Historical Projects This section has all active volunteer historical records and archives projects that people can contribute to from home.\n"
+},
+{
+	"uri": "http://projectdelve.com/this-site-matters/sources/",
+	"title": "Sources and Resources",
+	"tags": [],
+	"description": "",
+	"content": "Accessibility  From SeeWriteHear  \u0026ldquo;What is Accessibility?\u0026quot;: https://www.seewritehear.com/learn/what-is-accessibility/   From digital.gov  \u0026ldquo;An Introduction to Accessibility\u0026rdquo;: https://digital.gov/resources/introduction-accessibility/   From W3C  \u0026ldquo;Accessibility\u0026rdquo;: https://www.w3.org/standards/webdesign/accessibility   From the Web Almanac  \u0026ldquo;Part II Chapter 8: Accessibility\u0026rdquo;: https://almanac.httparchive.org/en/2020/accessibility   From usability.gov  \u0026ldquo;Accessibility Basics\u0026rdquo;: https://www.usability.gov/what-and-why/accessibility.html   Section508.gov From access-board.gov  \u0026ldquo;Text of Section 508 of the Rehabilitation Act of 1973, as amended (29 U.S.C. §794d)\u0026quot;: https://www.access-board.gov/law/ra.html#section-508-federal-electronic-and-information-technology   From American Association for the Advancement of Science  \u0026ldquo;Making science accessible\u0026rdquo;: https://www.science.org/doi/10.1126/science.aba6129   From Communications Biology (an open access journal from Nature)  \u0026ldquo;Disability shouldn’t limit accessibility in science\u0026rdquo;: https://www.nature.com/articles/s42003-021-02411-8    Inequality and inequity  \u0026ldquo;20 Facts About U.S. Inequality that Everyone Should Know\u0026rdquo;: https://inequality.stanford.edu/publications/20-facts-about-us-inequality-everyone-should-know  From the Stanford Center on Poverty and Inequality, 2020   \u0026ldquo;Facts\u0026rdquo;: https://inequality.org/facts/  From inequality.org   From Wikipedia  \u0026ldquo;Digital divide\u0026rdquo;: https://en.wikipedia.org/wiki/Digital_divide \u0026ldquo;Health equity\u0026rdquo;: https://en.wikipedia.org/wiki/Health_equity \u0026ldquo;Educational inequality\u0026rdquo;:https://en.wikipedia.org/wiki/Educational_inequality    Reasoning, critical thinking, and logic  From criticalthinking.org  Universal Intellectual Standards: https://www.criticalthinking.org/pages/universal-intellectual-standards/527 Becoming a Critic of Your Thinking: https://www.criticalthinking.org/pages/becoming-a-critic-of-your-thinking/605   From teachthough.com  RESOURCE: a cheat sheet of critical thinking questions that I like to use - https://www.teachthought.com/critical-thinking/critical-thinking-questions/ RESOURCE: 6 critical thinking questions you can use for pretty much anything that comes up - https://www.teachthought.com/critical-thinking/6-critical-thinking-questions-situation/    How to tell if \u0026ldquo;science\u0026rdquo; is valid  Learn about the scientific method:  Britannica: https://www.britannica.com/science/scientific-method Khan Academy: https://www.khanacademy.org/science/biology/intro-to-biology/science-of-biology/a/the-science-of-biology Wikipedia: https://en.wikipedia.org/wiki/Scientific_method Stanford Encyclopedia of Philosophy: https://plato.stanford.edu/entries/scientific-method/   \u0026ldquo;Evidence-Based Research: Evidence Types\u0026rdquo; (from Walden University): https://academicguides.waldenu.edu/library/healthevidence/types  "
 },
 {
 	"uri": "http://projectdelve.com/hubs/",
@@ -53,7 +74,7 @@
 	"title": "Why this site matters",
 	"tags": [],
 	"description": "",
-	"content": "This website matters, and I\u0026rsquo;ll explainin why. TODO\n"
+	"content": "Project Delve\u0026rsquo;s entire purpose is accessibility. More specifically, it tackles two specific aspects of accessibility.\n Reducing general inequality in regard to data access + volunteer contribution (especially in science) Improving accessibility for people that usually experience barriers to access  Types of inequality Project Delve impacts  Educational inequality Participation inequality Health inequality Income inequality Social and geographic barriers to access Technological barriers to access Disability access issues  ⭐ Disclaimer: On the validity (or not!) of information We\u0026rsquo;re in an era where there is a very strong tendency towards rejecting expertise and information.\nAs a scientist, writer, and frequent victim of gaslighting in my own personal life, there\u0026rsquo;s nothing I value more in discussions than transparency and provable facts. So, I\u0026rsquo;m sharing all the sources I\u0026rsquo;ve learned from or referenced, and I encourage you to not trust a single thing I say.\nGo look at data yourself and see if the math checks out. Go read first-hand reporting. Go find sources that you can verify using critical thinking. My sources, much like Wikipedia, can be your starting springboard, but you need to dig around and verify until you confidently understand facts yourself.\nDo not inherently trust me. I am an unknown stranger on the internet. You have no guarantee I\u0026rsquo;m not lying to you or twisting information/perceptions. Just because I sound confident, write well, or sound nice, it doesn\u0026rsquo;t mean I\u0026rsquo;m right.\nIf you have any doubts about what I say, please go find verifiable information yourself. You need to trust your instincts and get confident you can tell fact from falsehood. Follow your doubts. Truth doesn\u0026rsquo;t worry about being looked into. If information you\u0026rsquo;re told is valid, you\u0026rsquo;ll be able to confirm that. And if it isn\u0026rsquo;t? Then good on you for finding out the truth!\n"
 },
 {
 	"uri": "http://projectdelve.com/sciencein/superwasp-black-hole-hunters/",
@@ -61,69 +82,6 @@
 	"tags": [],
 	"description": "",
 	"content": "title = \u0026ldquo;SuperWASP: Black Hole Hunters\u0026rdquo; tags = [\u0026ldquo;science\u0026rdquo; \u0026ldquo;astronomy\u0026rdquo; \u0026ldquo;physics\u0026rdquo; \u0026ldquo;online\u0026rdquo;] +++\nSuperWASP: Black Hole Hunters View the project here.\nOverview SuperWASP is the Wide Angle Search for Planets; due to the combination of sky coverage (all latitudes above and below the Galactic plane), observing cadence (how regularly each star is observed) and long temporal baseline (the overall lengths of the lightcurves for each star) the archive is the ideal place to start searching for periodic lensing on the timescales of hours to years.\nThe signals you\u0026rsquo;re looking for are extremely rare. Even though we think there are lots of hidden black holes in our galaxy, only a handful will be orbiting in a plane that means they pass in front of their companion star when viewed from the Earth using SuperWASP. The rarity of these perfectly aligned systems means we will be lucky if we find a handful of signals among the millions of stellar lightcurves that SuperWASP has assembled. So far, nobody has seen conclusive evidence of a self-lensing signal from a black hole. If you help to find one you will be making science history!\nLocation: Online\n"
-},
-{
-	"uri": "http://projectdelve.com/this-site-matters/disabled-access/",
-	"title": "",
-	"tags": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "http://projectdelve.com/this-site-matters/equity-vs-equality/",
-	"title": "",
-	"tags": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "http://projectdelve.com/this-site-matters/financial-inequality-us/",
-	"title": "",
-	"tags": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "http://projectdelve.com/this-site-matters/internet-access-inequity/",
-	"title": "",
-	"tags": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "http://projectdelve.com/this-site-matters/rural-access-issues/",
-	"title": "",
-	"tags": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "http://projectdelve.com/this-site-matters/scientific-access-issues/",
-	"title": "",
-	"tags": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "http://projectdelve.com/this-site-matters/senior-friendly-content/",
-	"title": "",
-	"tags": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "http://projectdelve.com/this-site-matters/technology-access-issues/",
-	"title": "",
-	"tags": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "http://projectdelve.com/this-site-matters/what-is-accessibility/",
-	"title": "Accessibility Defined",
-	"tags": [],
-	"description": "",
-	"content": "What is accessibility? Wikipedia:\nMy favorite one-page summary: https://www.seewritehear.com/learn/what-is-accessibility/\n"
 },
 {
 	"uri": "http://projectdelve.com/sciencein/active-asteroids/",
@@ -152,6 +110,13 @@
 	"tags": ["history", "black history", "slavery", "online"],
 	"description": "",
 	"content": "Agents of Enslavement View the project here.\nOverview Agents of Enslavement? is a research project, which seeks to explore the ways in which colonial newspapers in the Caribbean facilitated and challenged the practice of slavery.\nIt also seeks to identify the networks and voices of enslaved people hidden within these newspapers.\nThese crowdsourcing tasks are integral to both these aims as your help will create new datasets for analysis.\nOne of the goals of this project is to create a database of enslaved people identified within these newspapers. This should be of benefit to people researching their family history as well as to people who simply want to understand more about the lives of enslaved people and their acts of resistance.\nThis project is run by the Endangered Archives Programme (EAP), which funds the digitisation of endangered archival material around the world. EAP is funded by Arcadia and administered by a small team at the British Library.\nLocation: Online\n"
+},
+{
+	"uri": "http://projectdelve.com/tags/ai/",
+	"title": "ai",
+	"tags": [],
+	"description": "",
+	"content": ""
 },
 {
 	"uri": "http://projectdelve.com/sciencein/ai4mars/",
@@ -189,8 +154,8 @@
 	"content": "Ancestry® World Archives View the project here.\nOverview The Ancestry® World Archives Project is volunteers from around the world creating searchable record indexes from digitized records. We gather historical records and scan them into our system. You look at the records and type out what you see (so that the facts in the records become searchable). The index you create is added to Ancestry’s free collections and is accessible to anyone who wants to search it.\nActive contributors to the World Archives Project receive free access to the original images in the project\u0026rsquo;s databases, and current members to Ancestry are eligible for a discount (10% for U.S. Discovery and 15% for World Explorer) on annual membership renewals. Active contributors are defined as people who have indexed, keyed, and/or reviewed 900+ records in the last 90 days.\nLocation: Online\n"
 },
 {
-	"uri": "http://projectdelve.com/tags/asrophysics/",
-	"title": "asrophysics",
+	"uri": "http://projectdelve.com/tags/astronomy/",
+	"title": "astronomy",
 	"tags": [],
 	"description": "",
 	"content": ""
@@ -413,6 +378,20 @@
 	"content": "Contribute via email If you notice any typos, know a project that hasn\u0026rsquo;t been added yet, or have suggestions for the website, email me with all the relevant information and I\u0026rsquo;ll get back with you as soon as I can.\nContribute via GitHub 🌟 If you\u0026rsquo;re new to using GitHub, I have a guide just for you written here!\nFull contribution guidelines and instructions are available on GitHub in CONTRIBUTING.md.\nIf you already know how to use GitHub, you can check out open issues for this site\u0026rsquo;s repository and see if there are any you can help with.\nDonate I\u0026rsquo;m not trying to make any profit off this site, but it does cost money to host it and hold on to its domain name. If you feel like helping out with the site maintenance costs, or just want to toss me a little thank-you tip, you can do so over on my Ko-fi page.\n"
 },
 {
+	"uri": "http://projectdelve.com/historical/corresponding-with-quakers/",
+	"title": "Corresponding with Quakers",
+	"tags": ["history", "online"],
+	"description": "",
+	"content": "Corresponding with Quakers View the project here.\nOverview The Quakers of Ballitore, Ireland, were a small group, but they have fascinating links to many major political issues of the period: abolitionism, women\u0026rsquo;s rights, religious tensions, global migration, and the American and French Revolutions.\nCorresponding with Quakers is an ongoing, collaborative research project investigating the Ballitore Collection held at UCSB Library’s Special Research Collections. The Ballitore Collection features more than 2,500 documents related to the Irish Quaker community of Ballitore, Ireland, including letters, journals, notebooks, and dream accounts. Originally assembled by the author Mary Leadbeater (1758-1826), this unique, understudied collection offers important insights into the intersection of gender, race, and religion in this period. The project, with funding from the UC-HBCU Initiative, the National Endowment for the Humanities, and the American Council of Learned Societies, seeks to investigate and document the collection and in doing so to shed light on the transatlantic development of abolitionist thought, women’s writing, and communal religious practices. We are in the process of digitizing the collection for public access as well as computational analysis.\nLocation: Online\n"
+},
+{
+	"uri": "http://projectdelve.com/sciencein/cosmic-muon-images/",
+	"title": "Cosmic Muon Images",
+	"tags": ["science", "geology", "physics", "online"],
+	"description": "",
+	"content": "Cosmic Muon Images View the project here.\nOverview We place muon detectors all around the globe and we study the inner structure of massive objects from volcanoes to ancient tombs and from underground tunnels to blast furnaces.\nUsing muon tomography we can probe the internal structure of massive objects, like volcanoes, with particles from stars and galaxies far, far away. Help us identify these particles inside our detectors!\nLocation: Online\n"
+},
+{
 	"uri": "http://projectdelve.com/sciencein/cosmological-jellyfish/",
 	"title": "Cosmological jellyfish",
 	"tags": ["science", "astrophysics", "online"],
@@ -450,7 +429,7 @@
 {
 	"uri": "http://projectdelve.com/sciencein/dark-energy-explorers/",
 	"title": "Dark Energy Explorers",
-	"tags": ["science", "asrophysics", "cosmology", "online"],
+	"tags": ["science", "astrophysics", "cosmology", "online"],
 	"description": "",
 	"content": "Dark Energy Explorers View the project here.\nOverview The Hobby-Eberly Dark Energy Experiment (HETDEX) is designed to find over one million galaxies that are 9 billion to 11 billion light-years away, yielding the largest map of the universe ever produced. The map will allow HETDEX astronomers to measure how fast the universe was expanding at different times in its history. Changes in the expansion rate will reveal the role of dark energy at different epochs. Various explanations for dark energy predict different changes in the expansion rate, so by providing exact measurements of the expansion, the HETDEX map will eliminate some of the competing ideas. We need your help to identify the signals that are from distant galaxies.\nLocation: Online\n"
 },
@@ -467,6 +446,13 @@
 	"tags": ["science", "marine biology", "outdoors"],
 	"description": "",
 	"content": "Delaware Bay Horseshoe Crab Survey View the project here.\nOverview The Horseshoe Crab, Limulus polyphemus, visits the Delaware Bay Shore each year for spawning purposes. Through the work of volunteers, the spawning population is recorded to study the American Horseshoe Crab.\nIn 1990, the first organized survey of spawning horseshoe crabs in the Delaware Bay began. Now, every May and June during the full and new moon evening high tides, volunteers annually donate their time to count crabs on the beaches of the Delaware Bay in both Delaware and New Jersey. Each lunar date is bracketed with surveys occurring on the day of the peak spawning tide, the prior two days, and the following two days.\nIn October of 1998, The Atlantic States Marine Fisheries Commission (ASMFC) Horseshoe Crab Management Plan adopted an annual spawning survey to be conducted along the shores of Delaware Bay. Considering that a Delaware Bay volunteer spawning survey had been in existence since 1990, the ASMFC opted to continue this volunteer-based survey with additional statistical guidance from the United States Geological Service (USGS).\nLocation: Outdoors\n"
+},
+{
+	"uri": "http://projectdelve.com/sciencein/dental-disease-detection/",
+	"title": "Dental Disease Detection",
+	"tags": ["science", "medical", "biology", "online"],
+	"description": "",
+	"content": "Dental Disease Detection View the project here.\nOverview Dental radiography is an essential tool for diagnostics of dental diseases. Analysis of radiographs is time-consuming and often error-prone due to a high variety of dental structures, positioning/orientation errors, and the substantial amount of radiographs that need to be analysed. An automatic solution for flagging abnormalities in dental radiographs is needed to improve detection accuracy and to reduce the cost of misdiagnosis. This project aims to use AI to bridge this gap to find and validate such a solution, by building a software prototype enabling computers to recognise normal anatomical structures and differentiate from subtle abnormalities in radiographs.\nLocation: Online\n"
 },
 {
 	"uri": "http://projectdelve.com/sciencein/disk-detective/",
@@ -753,7 +739,7 @@
 	"title": "Home",
 	"tags": [],
 	"description": "",
-	"content": "Welcome to the site! Project Delve is a database that helps people find every currently-active distributed computing, citizen science, volunteer archivist, volunteer humanities research project you can do on the internet or remotely.\nHow do I use the site? Project background View GitHub repository So who built this thing, anyway? Most recent update: December 3, 2021\n"
+	"content": "Welcome to the site! Project Delve is a database that helps people find every currently-active distributed computing, citizen science, volunteer archivist, volunteer humanities research project you can do on the internet or remotely.\nHow do I use the site? Project background View GitHub repository So who built this thing, anyway? Most recent update: February 5, 2022\n"
 },
 {
 	"uri": "http://projectdelve.com/about/how-to-use-this-site/",
@@ -1561,6 +1547,13 @@
 	"content": ""
 },
 {
+	"uri": "http://projectdelve.com/sciencein/solar-jet-hunter/",
+	"title": "Solar Jet Hunter",
+	"tags": ["science", "astronomy", "online"],
+	"description": "",
+	"content": "Solar Jet Hunter View the project here.\nOverview Join the hunt for solar jets—enigmatic bursts of energy from our own star, the Sun!\nStudying solar jets, which are small and narrow ejections of solar material, may help us address some of the Sun\u0026rsquo;s mysteries. For example, solar jets could be linked to energetic particles and perturbations in the solar wind. In this project, we focus on features that are found at various sizes and locations on the Sun, which can be observed clearly in extreme ultraviolet images.\nThe goal of this Zooniverse project is to build a database of solar jets. Building this database will provide a jumping-off point for researchers to study the physics of solar ejections. The database will allow researchers to find interesting cases, compare data across other types of solar activity databases, and conduct broad statistical studies of jet properties.\nLocation: Online\n"
+},
+{
 	"uri": "http://projectdelve.com/about/sources/",
 	"title": "Sources",
 	"tags": [],
@@ -1659,6 +1652,13 @@
 	"content": "The Berkeley Historical Plaque Project View the project here.\nOverview The Berkeley Historical Plaque Project belongs to all of us who live in Berkeley. We invite you to participate by making a contribution, e-mailing us current or historical photos that will add to this website, or writing and sending us your own e-Plaque texts with photos.\nLocation: Online\n"
 },
 {
+	"uri": "http://projectdelve.com/sciencein/greater-bilby-sanctuary/",
+	"title": "The Greater Bilby Sanctuary",
+	"tags": ["science", "ecology", "online"],
+	"description": "",
+	"content": "The Greater Bilby Sanctuary View the project here.\nOverview With climate change, drought conditions are becoming more frequent and severe in Australia. Greater bilbies (Macrotis lagotis), like many other species, are sensitive to drought. To combat this conservation challenge, we need to think of creative solutions to support threatened species, such as the bilby, during drought.\nIn 2019, research collaborators at the University of New South Wales and the Taronga Conservation Society Australia released bilbies into a 110-ha semi-wild sanctuary at Taronga Western Plains Zoo, in Dubbo, NSW, for conservation breeding and release. This was also during a period of below average rainfall and drought conditions. Drought reduces the productivity of landscapes, and is also likely to limit the amount of feed freely available to the bilby. To support the establishing population we provided feed to the bilbies by burying feed in small \u0026lsquo;pits\u0026rsquo; in front of camera traps. A grid of 19 evenly spaced camera traps monitored animal activity, including bilbies, across the fenced sanctuary.\nWith your help, researchers will use camera trap data to determine if, and how bilbies use feed sites, and, thus, how effective this management strategy is in helping support bilby populations through drought.\nLocation: Online\n"
+},
+{
 	"uri": "http://projectdelve.com/sciencein/indy-wildlife-watch/",
 	"title": "The Indy Wildlife Watch",
 	"tags": ["science", "zoology", "online"],
@@ -1685,6 +1685,13 @@
 	"tags": ["humanities", "geography", "government", "online"],
 	"description": "",
 	"content": "The National Map Corps View the project here.\nOverview By updating and verifying structures data, volunteers are making significant contributions to USGS National Structures Database, The National Map, and ultimately U.S. Topo Maps!\nTNMCorps is an online crowdsourcing mapping project with volunteers successfully editing structures in all 50 States, Puerto Rico, and the U.S. Virgin Islands.\nAnyone with an interest in contributing can volunteer. It is easy to sign up and get started! All you need is access to the internet, an email address, and a willingness to learn. “How to” documentation including a comprehensive User Guide and a Quick Start Guide will have you up and editing quickly.\nVolunteers earn virtual badges for participating and are recognized for their contributions (with permission) via USGS and National Map social media.\nLocation: Online\n"
+},
+{
+	"uri": "http://projectdelve.com/sciencein/rbge-herbarium/",
+	"title": "The RBGE Herbarium: Exploring Gesneriaceae, the African violet family",
+	"tags": ["science", "botany", "ecology", "online"],
+	"description": "",
+	"content": "The RBGE Herbarium: Exploring Gesneriaceae, the African violet family View the project here.\nOverview Open up global biodiversity research possibilities by releasing the data held in 300 years of plant specimens!\nThe Royal Botanic Garden Edinburgh\u0026rsquo;s extensive Herbarium collection is estimated to hold three million specimens representing half to two thirds of the worlds flora. Herbarium specimen data helps inform and target conservation and climate change mitigation efforts protecting plant species for future generations. We need your help in transcribing the specimen label data in order to make the digital specimens \u0026lsquo;research-ready\u0026rsquo; for the international research community.\nBy volunteering on this Zooniverse project, you’ll also be supporting an overarching project that studies how volunteers interact with citizen research projects \u0026ndash; Engaging Crowds: citizen research and heritage data at scale, is part of Towards a National Collection, an £18.9 million Arts and Humanities Research Council-funded programme which launched in 2020. As one of the programme’s foundational projects, this open-source research will benefit society more widely in showing how volunteers interact with projects and how citizens can change the future of research.\nLocation: Online\n"
 },
 {
 	"uri": "http://projectdelve.com/hubs/the-web-experiment-list/",
@@ -1736,6 +1743,13 @@
 	"content": "UbiQomix Microbiome Exploration View the project here.\nOverview Questions about how people make sense of and engage with their personal omic information including their personal genomics and microbiome data, and how comfortable they feel about sharing such information in order to advance scientific and biomedical research, are not only of paramount importance for society and policy makers, but also a pressing issue for HCI researchers. Funded by the National Science Foundation, and in collaboration with Open Humans, we investigate how to design effective interaction techniques to empower nonexpert users to engage with and make sense of their personal omic information. We also explore how user interface design interventions in online consent forms can support informed decision and enable participants of biomedical research to make decisions that are right for them.\nDo you have microbiome data?\nHelp us understand how to help people capture, visualize, and engage with their microbiome data. At this stage of the project, we seek to better understand people’s needs and practices as they engage with their personal microbiome data. The long-term goal of this project is to design more novel interactive tools that promote exploration, collaborative sense-making, sharing, and citizen science initiatives related to genetics and microbiome data.\nAfter joining this project, we will ask you to answer a questionnaire about your experience engaging with your personal microbiome data. This should take about 15 minutes.\nLocation: Online\n"
 },
 {
+	"uri": "http://projectdelve.com/tags/uk/",
+	"title": "uk",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
 	"uri": "http://projectdelve.com/tags/uk-history/",
 	"title": "uk history",
 	"tags": [],
@@ -1750,6 +1764,13 @@
 	"content": "UK Tides View the project here.\nOverview About 28% of the people live near the coast, and with global sea level rising, we need long records to be able to investigate how local tides and sea level are changing. One way this can be done is by recovering data from old documents. In this project, we are trying to convert data from old tide gauge ledgers from the North West of England into data usable by scientists.\nLocation: Online\n"
 },
 {
+	"uri": "http://projectdelve.com/sciencein/microplant-mysteries/",
+	"title": "Unfolding of Microplant Mysteries",
+	"tags": ["science"],
+	"description": "",
+	"content": "Unfolding of Microplant Mysteries View the project here.\nOverview ‘Microplants’ are often tiny plants, technically called bryophytes, and are the second largest group after flowering plants. Despite their small size microplants are vital in our understanding of the evolutionary history of plants and are of great ecological and environmental significance. Because of their small size, they are often overlooked in many habitats throughout the world. Many new species remain to be discovered! Please help classify microplants morphology: the study of the form of organisms and their specific structural features. This mystery will explore key morphological characteristics associated with the liverwort genus called Frullania.\nLocation: Online\n"
+},
+{
 	"uri": "http://projectdelve.com/historical/national-archives/",
 	"title": "United States National Archives",
 	"tags": ["history", "american history", "government", "online"],
@@ -1762,6 +1783,13 @@
 	"tags": ["distributed computing", "astrophysics", "cosmology"],
 	"description": "",
 	"content": "Universe@home View the project here.\nOverview Universe@home project\u0026rsquo;s two main goals are:\n to provide scientist with a necessary computational power and to provide the way of involvement for anyone equipped with a computer and willing to take part in the research  We live in times which are marked by the fastest scientific development in the history. Our knowledge grows faster than ever before. We explore the structures of the Universe, nuclei of stars and evolution of galaxies. Using the strength of our minds we crack problems that are not tangible and cannot be examined in laboratory. The technology came as an aid in this struggle. The computers help us to calculate complicated problems and to model extraordinary objects. Therefore the need for computational power is growing exponentially in the scientists' community.\nIn a different situation are millions of people around the world. The computers industry is evolving extremely quickly and personal computers are available for constantly decreasing prises. Simultaneously, these machines must be strong enough to fulfil the growing needs of users who want to play the newest games and use resources-demanding programs. However, most of the time such computers spend in the idle state when they are used for simple web-browsing or document-writing. The most of computational power stays unused.\nAs a remedy to both these issues have came the BOINC platform. The innovative infrastructure, which, from one side, serves as the source of huge computational power, and from the other side, gives people the possibility to become involved in huge contemporary science projects utilising their limited resources. BOINC stands for Berkeley Open Infrastructure for Network Computing. This system was used for the first time in year 1999 and afterwards dozens of other projects have came into existence. In 2014 the time came for adopting this idea in polish astronomy projects and, at first, the fundamental problems of the stellar evolution will be solved.\nRuns on:  Linux MacOS Windows  "
+},
+{
+	"uri": "http://projectdelve.com/historical/voices-through-time/",
+	"title": "Voices Through Time: The Story of Care",
+	"tags": ["history", "government", "uk", "online"],
+	"description": "",
+	"content": "Voices Through Time: The Story of Care View the project here.\nOverview Help us transcribe the records of Coram, the UK’s first children’s charity, to tell the story of care from where it began.\nOur archive contains thousands of handwritten records, going back to the 1700s, which contain the stories of children who were cared for at the Foundling Hospital.\nWith your help transcribing these records, we can make them available online for the first time. We can find out more about the lives of children in care in the past, the institutions that cared for them, the history of Coram and the story of care in the UK.\nLocation: Online\n"
 },
 {
 	"uri": "http://projectdelve.com/hubs/volunteerscience/",
@@ -1839,6 +1867,13 @@
 	"tags": ["distributed computing", "hubs"],
 	"description": "",
 	"content": "World Community Grid View the project here.\nOverview Donate your device’s spare computing power to help scientists solve the world’s biggest problems.\nAs a World Community Grid volunteer, your device does research calculations when it has spare power. With your help, scientists can identify the most important results to study in the lab, bringing them one step closer to discoveries that save lives and address global problems.\nView already-completed research here.\nRuns on:  Linux MacOS Windows  "
+},
+{
+	"uri": "http://projectdelve.com/sciencein/u-see-it-u-name-it/",
+	"title": "You see it? You name it!",
+	"tags": ["science", "ai", "neurology", "psychology"],
+	"description": "",
+	"content": "You see it? You name it! View the project here.\nOverview One of our goals is to provide cognitive neuroscience and machine learning researchers with high quality stimuli. One issue both community face is in fact the lack of freely available large set of images appropriately curated by humans. This is were anyone can help and become part of an international and interdisciplinary scientific effort! We here present tons of pictures and ask volunteers to name the main item in the image (e.g., that\u0026rsquo;s a cat!) and to assign a categorical label (e.g., that\u0026rsquo;s an animal!). The resulting hundreds of images with quality labels will be instrumental for many research on the cognitive and neural correlates of vision and semantic (e.g., how does our brain decide so quickly whether to run towards or away from that animal?). Moreover, they will enable testing of computer models aiming at replicating human performance in this kind of tasks.\nLocation: Online\n"
 },
 {
 	"uri": "http://projectdelve.com/computational/yoyo-at-home/",

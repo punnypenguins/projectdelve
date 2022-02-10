@@ -4,9 +4,15 @@
   <url>
     <loc>http://projectdelve.com/about/</loc>
   </url><url>
+    <loc>http://projectdelve.com/this-site-matters/accessibility/</loc>
+  </url><url>
     <loc>http://projectdelve.com/computational/</loc>
   </url><url>
+    <loc>http://projectdelve.com/this-site-matters/inequality/</loc>
+  </url><url>
     <loc>http://projectdelve.com/historical/</loc>
+  </url><url>
+    <loc>http://projectdelve.com/this-site-matters/sources/</loc>
   </url><url>
     <loc>http://projectdelve.com/hubs/</loc>
   </url><url>
@@ -20,24 +26,6 @@
   </url><url>
     <loc>http://projectdelve.com/sciencein/superwasp-black-hole-hunters/</loc>
   </url><url>
-    <loc>http://projectdelve.com/this-site-matters/disabled-access/</loc>
-  </url><url>
-    <loc>http://projectdelve.com/this-site-matters/equity-vs-equality/</loc>
-  </url><url>
-    <loc>http://projectdelve.com/this-site-matters/financial-inequality-us/</loc>
-  </url><url>
-    <loc>http://projectdelve.com/this-site-matters/internet-access-inequity/</loc>
-  </url><url>
-    <loc>http://projectdelve.com/this-site-matters/rural-access-issues/</loc>
-  </url><url>
-    <loc>http://projectdelve.com/this-site-matters/scientific-access-issues/</loc>
-  </url><url>
-    <loc>http://projectdelve.com/this-site-matters/senior-friendly-content/</loc>
-  </url><url>
-    <loc>http://projectdelve.com/this-site-matters/technology-access-issues/</loc>
-  </url><url>
-    <loc>http://projectdelve.com/this-site-matters/what-is-accessibility/</loc>
-  </url><url>
     <loc>http://projectdelve.com/sciencein/active-asteroids/</loc>
   </url><url>
     <loc>http://projectdelve.com/historical/addressing-health/</loc>
@@ -45,6 +33,8 @@
     <loc>http://projectdelve.com/computational/africa-rainfall/</loc>
   </url><url>
     <loc>http://projectdelve.com/historical/agents-of-enslavement/</loc>
+  </url><url>
+    <loc>http://projectdelve.com/tags/ai/</loc>
   </url><url>
     <loc>http://projectdelve.com/sciencein/ai4mars/</loc>
   </url><url>
@@ -56,7 +46,7 @@
   </url><url>
     <loc>http://projectdelve.com/historical/ancestry-world-archives/</loc>
   </url><url>
-    <loc>http://projectdelve.com/tags/asrophysics/</loc>
+    <loc>http://projectdelve.com/tags/astronomy/</loc>
   </url><url>
     <loc>http://projectdelve.com/tags/astrophysics/</loc>
   </url><url>
@@ -120,6 +110,10 @@
   </url><url>
     <loc>http://projectdelve.com/about/contributing/</loc>
   </url><url>
+    <loc>http://projectdelve.com/historical/corresponding-with-quakers/</loc>
+  </url><url>
+    <loc>http://projectdelve.com/sciencein/cosmic-muon-images/</loc>
+  </url><url>
     <loc>http://projectdelve.com/sciencein/cosmological-jellyfish/</loc>
   </url><url>
     <loc>http://projectdelve.com/tags/cosmology/</loc>
@@ -135,6 +129,8 @@
     <loc>http://projectdelve.com/historical/davy-notebooks/</loc>
   </url><url>
     <loc>http://projectdelve.com/scienceout/delaware-bay-crabs/</loc>
+  </url><url>
+    <loc>http://projectdelve.com/sciencein/dental-disease-detection/</loc>
   </url><url>
     <loc>http://projectdelve.com/sciencein/disk-detective/</loc>
   </url><url>
@@ -448,6 +444,8 @@
   </url><url>
     <loc>http://projectdelve.com/tags/sociology/</loc>
   </url><url>
+    <loc>http://projectdelve.com/sciencein/solar-jet-hunter/</loc>
+  </url><url>
     <loc>http://projectdelve.com/about/sources/</loc>
   </url><url>
     <loc>http://projectdelve.com/sciencein/spyfish-aotearoa/</loc>
@@ -476,6 +474,8 @@
   </url><url>
     <loc>http://projectdelve.com/historical/berkeley-historical-plaque/</loc>
   </url><url>
+    <loc>http://projectdelve.com/sciencein/greater-bilby-sanctuary/</loc>
+  </url><url>
     <loc>http://projectdelve.com/sciencein/indy-wildlife-watch/</loc>
   </url><url>
     <loc>http://projectdelve.com/sciencein/koster-observatory/</loc>
@@ -483,6 +483,8 @@
     <loc>http://projectdelve.com/scienceout/migratory-dragonfly-partnership/</loc>
   </url><url>
     <loc>http://projectdelve.com/humanities/national-map-corps/</loc>
+  </url><url>
+    <loc>http://projectdelve.com/sciencein/rbge-herbarium/</loc>
   </url><url>
     <loc>http://projectdelve.com/hubs/the-web-experiment-list/</loc>
   </url><url>
@@ -498,13 +500,19 @@
   </url><url>
     <loc>http://projectdelve.com/sciencein/ubiqomix/</loc>
   </url><url>
+    <loc>http://projectdelve.com/tags/uk/</loc>
+  </url><url>
     <loc>http://projectdelve.com/tags/uk-history/</loc>
   </url><url>
     <loc>http://projectdelve.com/sciencein/uk-tides/</loc>
   </url><url>
+    <loc>http://projectdelve.com/sciencein/microplant-mysteries/</loc>
+  </url><url>
     <loc>http://projectdelve.com/historical/national-archives/</loc>
   </url><url>
     <loc>http://projectdelve.com/computational/universe-at-home/</loc>
+  </url><url>
+    <loc>http://projectdelve.com/historical/voices-through-time/</loc>
   </url><url>
     <loc>http://projectdelve.com/hubs/volunteerscience/</loc>
   </url><url>
@@ -527,6 +535,8 @@
     <loc>http://projectdelve.com/sciencein/woodpecker-cavity-cam/</loc>
   </url><url>
     <loc>http://projectdelve.com/hubs/world-community-grid/</loc>
+  </url><url>
+    <loc>http://projectdelve.com/sciencein/u-see-it-u-name-it/</loc>
   </url><url>
     <loc>http://projectdelve.com/computational/yoyo-at-home/</loc>
   </url><url>
