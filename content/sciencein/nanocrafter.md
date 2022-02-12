@@ -1,6 +1,6 @@
 +++
 title = "Nanocrafter"
-tags = ["science" "biology"]
+tags = ["science" "biology" "game" "online"]
 +++
 
 ## Nanocrafter

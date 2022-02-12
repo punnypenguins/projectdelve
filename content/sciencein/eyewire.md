@@ -1,6 +1,6 @@
 +++
 title = "Eyewire"
-tags = ["science" "biology" "medical" "neurology" "online"]
+tags = ["science" "biology" "game" "medical" "neurology" "online"]
 +++
 
 ## Eyewire

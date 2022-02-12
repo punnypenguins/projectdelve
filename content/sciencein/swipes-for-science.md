@@ -1,6 +1,6 @@
 +++
 title = "Swipes for Science"
-tags = ["science" "online"]
+tags = ["science" "game" "online"]
 +++
 
 ## Swipes for Science

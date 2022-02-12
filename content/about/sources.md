@@ -11,7 +11,8 @@ As all scientists learn, one of the most important things when sharing work with
 - [Citizen Archivist Dashboard](https://www.archives.gov/citizen-archivist/missions) - Help the U.S. National Archives by tagging and transcribing all kinds of different projects.
 - [CitSci 2.0](https://citsci.org/) - Another large hub for a broad spread of ongoing citizen science projects.
 - [BudBurst](https://budburst.org/) - BudBurst has multiple ongoing projects trying to tackle current ecology questions and challenges.
-""
+- [DigiVol](https://volunteer.ala.org.au/#/expeditionList) - A crowdsourcing platform that was developed by the Australian Museum in collaboration with the Atlas of Living Australia. 
+
 ## Other sources I've pulled from:
 - [BOINC](https://boinc.berkeley.edu/projects.php) - BOINC is the backbone of many volunteer computing projects.
 - [Society for Science](https://www.societyforscience.org/research-at-home/citizen-science/) - Society for Science is "a champion for science, dedicated to expanding scientific literacy, effective STEM education and scientific research.""
@@ -25,4 +26,4 @@ As all scientists learn, one of the most important things when sharing work with
 - This GitHub topic search for [`citizen-science`](https://github.com/topics/citizen-science)
 - [Scientific American](https://www.scientificamerican.com/citizen-science/) - This is their page that lists a huge number of citizen science projects.
 - [Digital Tools for Citizen Science](https://github.com/dylanrees/citizen-science) - Dylan's "repository of resources related to citizen, community-based and/or non-institutional science."
-- Wikepedia's page on [BioBlitz](https://en.wikipedia.org/wiki/BioBlitz) - "A BioBlitz, also written without capitals as bioblitz, is an intense period of biological surveying in an attempt to record all the living species within a designated area." 
+- Wikepedia's page on [BioBlitz](https://en.wikipedia.org/wiki/BioBlitz) - "A BioBlitz, also written without capitals as bioblitz, is an intense period of biological surveying in an attempt to record all the living species within a designated area."

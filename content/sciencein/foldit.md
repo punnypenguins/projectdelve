@@ -1,6 +1,6 @@
 +++
 title = "Foldit"
-tags = ["science" "biology" "online"]
+tags = ["science" "biology" "game" "online"]
 +++
 
 ## Foldit

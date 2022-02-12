@@ -1,9 +1,9 @@
 +++
 title = "NeMO-Net"
-tags = ["science" "marine biology" ]
+tags = ["science" "game" "marine biology" "online"]
 +++
 
-## PROJECT NAME
+## NeMO-Net
 
 View the project [**here**](http://nemonet.info/).
 

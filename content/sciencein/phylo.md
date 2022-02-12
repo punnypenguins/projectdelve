@@ -1,6 +1,6 @@
 +++
 title = "Phylo"
-tags = ["science" "biology" "medical" "online"]
+tags = ["science" "biology" "game" "medical" "online"]
 +++
 
 ## Phylo
