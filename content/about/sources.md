@@ -25,3 +25,4 @@ As all scientists learn, one of the most important things when sharing work with
 - This GitHub topic search for [`citizen-science`](https://github.com/topics/citizen-science)
 - [Scientific American](https://www.scientificamerican.com/citizen-science/) - This is their page that lists a huge number of citizen science projects.
 - [Digital Tools for Citizen Science](https://github.com/dylanrees/citizen-science) - Dylan's "repository of resources related to citizen, community-based and/or non-institutional science."
+- Wikepedia's page on [BioBlitz](https://en.wikipedia.org/wiki/BioBlitz) - "A BioBlitz, also written without capitals as bioblitz, is an intense period of biological surveying in an attempt to record all the living species within a designated area." 
