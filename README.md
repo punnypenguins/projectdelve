@@ -1,4 +1,6 @@
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/punnypenguins/projectdelve/graphs/commit-activity) [![GitHub latest commit](https://badgen.net/github/last-commit/Naereen/Strapdown.js)](https://github.com/punnypenguins/projectdelve/commit/) [![GitHub contributors](https://github.com/punnypenguins/projectdelve/graphs/contributors) [![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://github.com/punnypenguins/projectdelve/issues) [![GitHub pull-requests](https://img.shields.io/github/issues-pr/Naereen/StrapDown.js.svg)](https://github.com/punnypenguins/projectdelve/pulls) 
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/punnypenguins/projectdelve/graphs/commit-activity) 
+[![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://github.com/punnypenguins/projectdelve/issues) 
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/Naereen/StrapDown.js.svg)](https://github.com/punnypenguins/projectdelve/pulls) 
 
 # 📘 README 📘
 
