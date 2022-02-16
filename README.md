@@ -1,6 +1,4 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/punnypenguins/projectdelve/graphs/commit-activity) 
-[![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://github.com/punnypenguins/projectdelve/issues) 
-[![GitHub pull-requests](https://img.shields.io/github/issues-pr/Naereen/StrapDown.js.svg)](https://github.com/punnypenguins/projectdelve/pulls) 
 
 # 📘 README 📘
 
