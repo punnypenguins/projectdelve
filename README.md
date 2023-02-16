@@ -4,6 +4,8 @@
 
 ![alt text](https://github.com/punnypenguins/projectdelve/blob/main/public/images/project-delve-logo.png)
 
+ON HOLD UNTIL FURTHER NOTICE (aka I am broke and not currently paying for site hosting, sorry)
+
 # The Project
 
 Project Delve was originally conceived as a one-stop-shop where people could find only *active* distributed computing and citizen science projects, and find *all* of them—no more needing to search google, click through pages of listings on various project hub sites, or clicking through fifty links just to find that all but seven of them were months or years out of date.
